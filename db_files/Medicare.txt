@@ -1,0 +1,1825 @@
+acetaminophen/codeine solution|2
+acetaminophen/codeine tablet 300mg/15mg, 300mg/30mg|2
+acetaminophen/codeine tablet 300mg/60mg|2
+ascomp/codeine|2
+butalbital/acetaminophen/caffeine/codeine|2
+butorphanol tartrate injection|2
+butorphanol tartrate nasal solution|2
+BUTRANS PATCH|3
+co-gesic|2
+codeine sulfate tablet 15mg|2
+codeine sulfate tablet 30mg|2
+codeine sulfate tablet 60mg|2
+DEMEROL INJECTION 25MG/ML, 50MG/ML, 75MG/ML, 100MG/ML|4
+DURAMORPH|4
+endocet tablet 325mg/5mg, 325mg/7.5mg, 325mg/10mg|2
+endocet tablet 500mg/7.5mg|2
+endocet tablet 650mg/10mg|2
+fentanyl patch|2
+fentanyl citrate injection|2
+fentanyl citrate oral transmucosal lollipop 200mcg|2
+fentanyl citrate oral transmucosal lollipop 400mcg, 600mcg, 800mcg, 1200mcg, 1600mcg|5
+hydrocodone bitartrate/acetaminophen solution 7.5mg & 325mg/15ml|2
+hydrocodone bitartrate/acetaminophen tablet 10mg/750mg|2
+hydrocodone/acetaminophen solution 7.5mg & 500mg/15ml|2
+hydrocodone/acetaminophen tablet 5mg/325mg, 7.5mg/325mg, 10mg/325mg|2
+hydrocodone/acetaminophen tablet 2.5mg/500mg, 5mg/500mg, 7.5mg/500mg, 10mg/500mg|2
+hydrocodone/acetaminophen tablet 7.5mg/650mg,10mg/ 650mg, 10mg/660mg|2
+hydrocodone/acetaminophen tablet 7.5mg/750mg|2
+hydrocodone/ibuprofen tablet 7.5mg/200mg|2
+hydromorphone hcl tablet|2
+hydromorphone hcl injection 500mg/50ml|2
+LAZANDA|4
+levorphanol tartrate|2
+maxidone|2
+meperidine hcl injection|2
+meperidine hcl oral solution|2
+meperitab|2
+methadone hcl concentrate|2
+methadone hcl injection|2
+methadone hcl tablet 5mg, 10mg|2
+methadone hcl tablet soluble 40mg|2
+methadone hcl oral solution 5mg/5ml|2
+methadone hcl oral solution 10mg/5ml|2
+methadose concentrate|2
+methadose tablet soluble 40mg|2
+morphine sulfate er capsule 20mg, 30mg, 50mg, 60mg, 80mg, 100mg|2
+morphine sulfate er tablet 15mg, 30mg|2
+morphine sulfate er tablet 60mg, 100mg, 200mg|2
+morphine sulfate injection 0.5mg/ml, 1mg/ml, 4mg/ml, 10mg/ml, 15mg/ml|2
+morphine sulfate oral solution 10mg/5ml|2
+morphine sulfate oral solution 20mg/5ml|2
+morphine sulfate oral solution 20mg/ml|2
+morphine sulfate tablet 15mg, 30mg|2
+nalbuphine hcl|2
+ONSOLIS|5
+OPANA ER TABLET 5MG, 7.5MG, 10MG, 15MG, 20MG, 30MG|3
+OPANA ER TABLET 40MG|3
+oxycodone hcl capsule, tablet|2
+oxycodone hcl concentrate|2
+oxycodone/acetaminophen  capsule|2
+oxycodone/acetaminophen tablet 2.5mg/325mg, 5mg/325mg, 7.5mg/325mg, 10/325mg|2
+oxycodone/acetaminophen tablet 7.5mg/500mg|2
+oxycodone/acetaminophen tablet 10mg /650mg|2
+oxycodone/aspirin|2
+oxycodone/ibuprofen|2
+OXYCONTIN ER TABLET 10MG, 15MG, 20MG, 30MG, 40MG, 60MG|3
+OXYCONTIN ER TABLET 80MG|3
+oxymorphone  hydrochloride|2
+oxymorphone hydrochloride er tablet 5mg, 7.5mg, 10mg, 15mg, 20mg, 30mg|2
+oxymorphone hydrochloride er tablet 40mg|2
+pentazocine/acetaminophen|2
+pentazocine/naloxone  hcl|2
+reprexain|2
+roxicet solution|2
+roxicet tablet|2
+stagesic|2
+TALWIN|4
+tramadol hcl|2
+lidocaine hcl external solution|2
+lidocaine hcl injection 0.5%, 1%|2
+lidocaine hcl jelly gel 2%|2
+lidocaine ointment|2
+lidocaine viscous|2
+lidocaine/prilocaine cream|2
+LIDODERM|4
+buprenorphine hcl injection|2
+buprenorphine hcl tablet sublingual|2
+buprenorphine hcl/naloxone hcl|2
+buproban|2
+CAMPRAL|4
+CHANTIX TABLET 0.5MG, 1MG|3
+CHANTIX TABLET STARTING MONTH|3
+depade|2
+disulfiram|2
+naloxone hcl|2
+naltrexone hcl|2
+NICOTROL INHALER|4
+REVIA|4
+SUBOXONE|3
+VIVITROL|5
+CAMBIA|4
+CELEBREX|3
+diflunisal|2
+etodolac|2
+etodolac er|2
+fenoprofen calcium|2
+flurbiprofen|2
+ibuprofen suspension|2
+ibuprofen tablet 400mg, 600mg, 800mg|2
+indomethacin & indomethacin er|2
+ketorolac tromethamine injection|2
+ketorolac tromethamine tablet 10mg|2
+meclofenamate sodium|2
+meloxicam|2
+nabumetone|2
+naproxen|2
+naproxen dr|2
+naproxen sodium tablet 275mg, 550mg|2
+oxaprozin|2
+piroxicam|2
+salsalate|2
+sulindac|2
+tolmetin sodium|2
+ALTABAX|4
+amikacin sulfate|2
+amoxicillin|2
+amoxicillin/potassium clavulanate|2
+ampicillin|2
+ampicillin sodium injection|2
+ampicillin-sulbactam injection|2
+AVELOX INJECTION|3
+AVELOX TABLET|3
+AZACTAM 1GM, 2GM|4
+AZACTAM IN ISO-OSMOTIC DEXTROSE 1GM|4
+AZACTAM IN ISO-OSMOTIC DEXTROSE 2GM|5
+AZASITE|3
+azithromycin|2
+aztreonam|2
+baciim|2
+bacitracin|2
+bacitracin/polymyxin b|2
+bactocill in dextrose|2
+BICILLIN C-R|4
+BICILLIN L-A|4
+BLEPH-10|4
+CAYSTON|5
+CEDAX CAPSULE|4
+cefaclor & cefaclor er|2
+cefadroxil|2
+cefazolin sodium|2
+cefdinir|2
+cefepime|2
+cefotaxime sodium|2
+cefotetan|2
+cefoxitin sodium|2
+cefpodoxime proxetil|2
+|2
+ceftazidime|2
+ceftriaxone sodium|2
+cefuroxime axetil tablet|2
+cefuroxime sodium|2
+cephalexin|2
+chloramphenicol sodium succinate|2
+CIPRO I.V.|4
+CIPRODEX|3
+ciprofloxacin er|2
+ciprofloxacin hcl|2
+ciprofloxacin i.v.|2
+CLAFORAN|4
+clarithromycin & clarithromycin er|2
+CLEOCIN PHOSPHATE INJECTION|4
+clindamycin hcl|2
+clindamycin phosphate|2
+colistimethate sodium|2
+COLY-MYCIN M|4
+CUBICIN|5
+demeclocycline hcl|2
+dicloxacillin sodium|2
+DIFICID|3
+DORIBAX|4
+doxycycline hyclate|2
+doxycycline monohydrate|2
+e.e.s.|2
+ery|2
+ery-tab|2
+ERYPED|3
+erythrocin lactobionate|2
+erythrocin stearate|2
+erythromycin base|2
+erythromycin  ethylsuccinate|2
+erythromycin gel, ointment, solution|2
+gentak ointment|2
+gentamicin sulfate|2
+imipenem/cilastatin|2
+INVANZ|4
+KETEK|4
+levofloxacin injection, ophthalmic solution, oral solution|2
+levofloxacin tablet|2
+LINCOCIN|3
+MACRODANTIN CAPSULE 25MG|4
+meropenem|2
+MERREM|4
+methenamine hippurate|2
+metronidazole cream, lotion, tablet|2
+metronidazole gel 0.75%|2
+metronidazole injection|2
+metronidazole vaginal|2
+minocycline hcl|2
+MOXEZA|3
+mupirocin|2
+nafcillin sodium|2
+NALLPEN/DEXTROSE|3
+neomycin sulfate tablet|2
+neomycin/bacitracin/polymyxin|2
+neomycin/polymyxin b sulfates|2
+neomycin/polymyxin/bacitracin/hydrocortisone|2
+neomycin/polymyxin/gramicidin|2
+neomycin/polymyxin/hydrocortisone ophthalmic suspension|2
+nitrofurantoin macrocrystalline|2
+nitrofurantoin monohydrate|2
+NOROXIN|4
+ofloxacin|2
+ORACEA|4
+oxacillin sodium|2
+paromomycin sulfate|2
+PCE|3
+penicillin g potassium|2
+penicillin g procaine|2
+penicillin g sodium|2
+penicillin v potassium|2
+pfizerpen-g|2
+PHISOHEX|4
+piperacillin sodium/tazobactam sodium|2
+polymyxin b sulfate|2
+PRIMAXIN IV|4
+PRIMSOL|4
+RELAGARD|4
+SILVADENE|4
+silver sulfadiazine|2
+sodium sulfacetamide|2
+ssd|2
+streptomycin sulfate|2
+sulfacetamide sodium ointment 10%|2
+sulfadiazine|2
+sulfamethoxazole/trimethoprim|2
+sulfamethoxazole/trimethoprim   ds|2
+SUPRAX|4
+SYNERCID|5
+tazicef|2
+TEFLARO|4
+TIMENTIN|4
+TOBI|5
+TOBI PODHALER|5
+tobramycin sulfate|2
+trimethoprim|2
+trimethoprim sulfate/polymyxin b sulfate|2
+TYGACIL|4
+vancomycin hcl capsule 125mg|5
+vancomycin hcl capsule 250mg|5
+vancomycin hcl injection|2
+VANDAZOLE|4
+VIGAMOX|3
+XIFAXAN TABLET 200MG|4
+XIFAXAN TABLET 550MG|5
+ZMAX|4
+ZOSYN|3
+ZYVOX INJECTION|5
+ZYVOX SUSPENSION|5
+ZYVOX TABLET|5
+BANZEL SUSPENSION|4
+BANZEL TABLET 200MG|4
+BANZEL TABLET 400MG|5
+carbamazepine & carbamazepine er|2
+CARBATROL|4
+CELONTIN|4
+clonazepam odt 0.125mg, 0.25mg, 0.5mg, 1mg|2
+clonazepam odt 2mg|2
+clonazepam tablet 0.5mg, 1mg|2
+clonazepam tablet 2mg|2
+clorazepate dipotassium tablet 3.75mg, 7.5mg|2
+clorazepate dipotassium tablet 15mg|2
+DEPACON|4
+diazepam gel 2.5mg|2
+diazepam gel 10mg|2
+diazepam gel 20mg|2
+DILANTIN|4
+DILANTIN INFATABS|4
+divalproex sodium & divalproex sodium er|2
+epitol|2
+ethosuximide|2
+felbamate suspension|5
+felbamate tablet|2
+FELBATOL|5
+fosphenytoin sodium|2
+gabapentin|2
+LAMICTAL ODT|3
+lamotrigine & lamotrigine er|2
+levetiracetam & levetiracetam er|2
+LYRICA CAPSULE 25MG, 225MG, 300MG|3
+LYRICA CAPSULE 50MG, 75MG, 100MG, 150MG, 200MG|3
+LYRICA SOLUTION|3
+magnesium sulfate injection|2
+NEURONTIN  SOLUTION|4
+ONFI TABLET 5MG, 10MG|4
+ONFI TABLET 20MG|4
+oxcarbazepine|2
+PEGANONE|4
+phenobarbital|2
+PHENYTEK|4
+phenytoin & phenytoin sodium extended|2
+POTIGA TABLET 50MG|4
+POTIGA TABLET 200MG, 300MG, 400MG|4
+primidone|2
+SABRIL PACKET|5
+SABRIL TABLET|5
+tiagabine hydrochloride|2
+topiramate|2
+valproate sodium|2
+valproic acid|2
+VIMPAT  INJECTION|3
+VIMPAT ORAL SOLUTION|3
+VIMPAT TABLET|3
+zonisamide|2
+donepezil hcl odt & tablet 5mg|1
+donepezil hcl odt & tablet 10mg|1
+ergoloid mesylates|2
+EXELON PATCH|3
+EXELON SOLUTION|4
+galantamine hydrobromide solution|2
+galantamine hydrobromide er capsule|2
+galantamine hydrobromide tablet|2
+NAMENDA  SOLUTION|3
+NAMENDA TABLET 5MG|3
+NAMENDA TABLET 10MG|3
+NAMENDA TITRATION PAK|3
+rivastigmine tartrate|2
+amitriptyline hcl|2
+amoxapine|2
+budeprion sr tablet 100mg|2
+budeprion sr tablet 150mg|2
+bupropion hcl|2
+bupropion hcl sr tablet 100mg, 200mg|2
+bupropion hcl sr tablet 150mg|2
+bupropion hcl xl tablet 150mg|2
+bupropion hcl xl tablet 300mg|2
+chlordiazepoxide/amitriptyline|2
+citalopram hydrobromide solution|2
+citalopram hydrobromide tablet 10mg, 20mg|2
+citalopram hydrobromide tablet 40mg|2
+clomipramine hcl|2
+CYMBALTA|4
+desipramine hcl|2
+doxepin hcl|2
+EMSAM|5
+escitalopram oxalate solution|2
+escitalopram oxalate tablet|2
+fluoxetine hcl capsule 10mg, 20mg, 40mg|2
+fluoxetine hcl tablet 10mg, 20mg, 60mg|2
+fluoxetine hcl solution 20mg/5ml|2
+fluvoxamine maleate|2
+imipramine hcl|2
+maprotiline hcl|2
+MARPLAN|4
+mirtazapine & mirtazapine odt|2
+nefazodone hcl|2
+nortriptyline hcl capsule|2
+olanzapine/fluoxetine|2
+paroxetine hcl|2
+PAXIL SUSPENSION|4
+perphenazine/amitriptyline|2
+phenelzine sulfate|2
+PRISTIQ|3
+protriptyline hcl|2
+sertraline hcl concentrate|2
+sertraline hcl tablet 25mg, 50mg|2
+sertraline hcl tablet 100mg|2
+tranylcypromine sulfate|2
+trazodone hcl|2
+trimipramine maleate|2
+venlafaxine hcl er capsule 37.5mg|2
+venlafaxine hcl er capsule 75mg|2
+venlafaxine hcl er capsule 150mg|2
+venlafaxine hcl tablet|2
+VIIBRYD|3
+dronabinol capsule 2.5mg, 5mg|2
+dronabinol capsule 10mg|5
+EMEND CAPSULE 40MG|3
+EMEND CAPSULE 80MG|3
+EMEND CAPSULE 125MG|3
+EMEND CAPSULE TRIFOLD PACK|3
+meclizine hcl tablet rx|2
+ondansetron hcl injection|2
+ondansetron hcl oral solution|2
+ondansetron hcl tablet 4mg, 8mg|2
+ondansetron hcl tablet 24mg|2
+ondansetron odt tablet 4mg, 8mg|2
+phenadoz suppository 12.5mg, 25mg|2
+promethazine hcl suppository 12.5mg, 25mg|2
+promethegan suppository 12.5mg, 25mg, 50mg|2
+SANCUSO|4
+TRANSDERM-SCOP|4
+trimethobenzamide hcl|2
+ABELCET|5
+AMBISOME|5
+amphotericin b|2
+ANCOBON|5
+CANCIDAS|5
+ciclopirox gel, suspension|2
+ciclopirox nail lacquer|2
+ciclopirox olamine|2
+clotrimazole rx|2
+clotrimazole/betamethasone dipropionate|2
+econazole nitrate|2
+ERAXIS|3
+fluconazole|2
+flucytosine|5
+GRIFULVIN V|3
+GRIS-PEG|3
+griseofulvin microsize|2
+griseofulvin ultramicrosize|2
+itraconazole|2
+ketoconazole cream, shampoo, tablet|2
+miconazole 3 rx|2
+MYCAMINE|5
+NAFTIN|4
+NATACYN|4
+NOXAFIL|5
+nyamyc|2
+nystatin|2
+nystatin/triamcinolone|2
+nystop|2
+pedi-dri|2
+SPORANOX SOLUTION|5
+terbinafine hcl tablet|2
+terconazole|2
+VFEND|5
+VFEND IV|4
+voriconazole injection|2
+voriconazole tablet|5
+zazole cream|2
+allopurinol|1
+allopurinol sodium|2
+ALOPRIM|4
+COLCRYS|3
+probenecid|2
+probenecid/colchicine|2
+ULORIC|3
+D.H.E. 45|5
+dihydroergotamine mesylate injection|2
+ERGOMAR|4
+migergot|2
+MIGRANAL|4
+rizatriptan benzoate odt & tablet 5mg|2
+rizatriptan benzoate odt & tablet 10mg|2
+sumatriptan nasal spray 5mg|2
+sumatriptan nasal spray 20mg|2
+sumatriptan succinate injection 4mg/0.5ml|2
+sumatriptan succinate injection 6mg/0.5ml|2
+sumatriptan succinate tablet 25mg|2
+sumatriptan succinate tablet 50mg|2
+sumatriptan succinate tablet 100mg|2
+guanidine hcl|2
+MESTINON SYRUP|3
+MESTINON  TIMESPAN|3
+pyridostigmine bromide|2
+REGONOL|4
+CAPASTAT SULFATE|3
+dapsone|2
+ethambutol hcl|2
+isoniazid|2
+MYCOBUTIN|3
+PASER|4
+PRIFTIN|4
+pyrazinamide|2
+rifampin|2
+RIFATER|4
+SEROMYCIN|3
+SIRTURO|5
+TRECATOR|3
+ABRAXANE|5
+ADRIAMYCIN|4
+AFINITOR TABLET 2.5MG, 5MG, 7.5MG|5
+AFINITOR TABLET 10MG|5
+ALIMTA|5
+ALKERAN INJECTION|4
+amifostine|5
+anastrozole|2
+ARRANON|5
+ARZERRA|5
+AVASTIN|5
+BICNU|3
+bleomycin sulfate|2
+BOSULIF|5
+BUSULFEX|3
+CAMPTOSAR|4
+CAPRELSA|5
+carboplatin|2
+CEENU|3
+CERUBIDINE|4
+cisplatin|2
+cladribine|5
+CLOLAR|5
+COMETRIQ|5
+COSMEGEN|5
+cyclophosphamide  tablet|2
+cytarabine|2
+cytarabine aqueous|2
+dacarbazine|2
+DACOGEN|5
+daunorubicin hcl|2
+DAUNOXOME|4
+dexrazoxane|5
+DOCEFREZ|5
+docetaxel|5
+DOXIL|5
+doxorubicin hcl|2
+DROXIA|3
+ELITEK|5
+ELLENCE|5
+ELOXATIN|5
+ELSPAR|3
+EMCYT|3
+epirubicin hcl|2
+ERBITUX|5
+ERIVEDGE|5
+ETOPOPHOS|4
+etoposide injection|2
+exemestane|2
+FARESTON|5
+FASLODEX|5
+FLUDARA|5
+fludarabine phosphate|2
+fluorouracil|2
+gemcitabine hcl|5
+GEMZAR|5
+GLEEVEC|5
+HALAVEN|5
+HERCEPTIN|5
+HEXALEN|5
+HYCAMTIN INJECTION|5
+hydroxyurea|2
+ICLUSIG|5
+IDAMYCIN PFS|5
+idarubicin hcl|5
+IFEX|4
+ifosfamide|2
+ifosfamide/mesna|5
+INLYTA|5
+irinotecan|5
+ISTODAX|5
+IXEMPRA|5
+JAKAFI|5
+JEVTANA|5
+KADCYLA|5
+letrozole|2
+leucovorin calcium injection|2
+leucovorin calcium tablet|2
+LEUKERAN|3
+MATULANE|5
+MEKINIST|5
+melphalan  hydrochloride|2
+mercaptopurine|2
+mesna|2
+MESNEX  INJECTION|4
+MESNEX  TABLET|5
+mitomycin|2
+mitoxantrone hcl|2
+MUSTARGEN|3
+NAVELBINE|5
+|5
+NIPENT|5
+ONTAK|5
+oxaliplatin|5
+paclitaxel|2
+PANRETIN|5
+pentostatin|5
+PERJETA|5
+POMALYST|5
+PROLEUKIN|5
+REVLIMID|5
+RITUXAN|5
+SOLTAMOX|4
+SPRYCEL|5
+STIVARGA|5
+SUTENT|5
+SYLATRON|5
+SYNRIBO|5
+TABLOID|4
+TAFINLAR|5
+tamoxifen citrate|2
+TARCEVA|5
+TARGRETIN|5
+TASIGNA|5
+TAXOTERE|5
+THALOMID|5
+thiotepa|2
+toposar|2
+topotecan hcl|5
+TREANDA|5
+tretinoin capsule 10mg|5
+TRISENOX|4
+TYKERB|5
+VECTIBIX|5
+VELCADE|5
+VIDAZA|3
+vinblastine sulfate|2
+vincasar pfs|2
+vincristine sulfate|2
+vinorelbine tartrate|2
+VOTRIENT|5
+VUMON|4
+XALKORI|5
+YERVOY|5
+ZALTRAP|5
+ZANOSAR|4
+ZELBORAF|5
+ZINECARD|5
+ZOLINZA|5
+ZYTIGA|5
+ALBENZA|4
+ALINIA|4
+atovaquone/proguanil hcl|2
+chloroquine phosphate|2
+DARAPRIM|4
+EURAX|4
+hydroxychloroquine sulfate|2
+lindane|2
+malathion|2
+mefloquine hcl|2
+MEPRON|5
+|4
+PENTAM 300|4
+permethrin cream rx|2
+PRIMAQUINE  PHOSPHATE|4
+QUALAQUIN|4
+quinine sulfate|2
+SKLICE|4
+STROMECTOL|3
+tinidazole|2
+APOKYN|5
+AZILECT|3
+benztropine mesylate injection|2
+benztropine mesylate tablet|2
+bromocriptine mesylate|2
+carbidopa/levodopa|2
+carbidopa/levodopa er|2
+carbidopa/levodopa odt|2
+entacapone|2
+LODOSYN|3
+pramipexole dihydrochloride|2
+ropinirole hcl|2
+ropinirole hcl er|2
+selegiline hcl|2
+TASMAR|3
+trihexyphenidyl hcl|2
+ZELAPAR|4
+ABILIFY DISCMELT|3
+ABILIFY INJECTION|4
+|5
+ABILIFY ORAL SOLUTION|3
+ABILIFY TABLET|3
+chlorpromazine hcl injection, tablet|2
+clozapine|2
+compro|2
+FANAPT|4
+FANAPT TITRATION PACK|4
+FAZACLO|4
+fluphenazine decanoate|2
+fluphenazine hcl|2
+GEODON INJECTION|4
+haloperidol|2
+haloperidol decanoate|2
+haloperidol lactate|2
+INVEGA SUSTENNA 39MG/0.25ML, 78MG/0.5ML|4
+INVEGA SUSTENNA 117MG/0.75ML, 156MG/ML, 234MG/1.5ML|5
+INVEGA TABLET ER 1.5MG, 3MG|4
+INVEGA TABLET ER 6MG|4
+INVEGA TABLET ER 9MG|5
+LATUDA TABLET 20MG, 40MG, 120MG|3
+LATUDA TABLET 80MG|3
+loxapine succinate|2
+olanzapine odt|2
+olanzapine injection|2
+olanzapine tablet|2
+ORAP|4
+perphenazine|2
+prochlorperazine|2
+prochlorperazine edisylate|2
+prochlorperazine maleate|2
+quetiapine fumarate tablet 25mg, 50mg, 100mg, 200mg|2
+quetiapine fumarate tablet 300mg, 400mg|2
+RISPERDAL CONSTA 12.5MG, 25MG|4
+RISPERDAL CONSTA 37.5MG, 50MG|5
+risperidone odt 0.25mg, 0.5mg, 1mg, 2mg, 3mg|2
+risperidone odt 4mg|2
+risperidone solution|2
+risperidone tablet 0.25mg, 0.5mg, 1mg, 2mg, 3mg|2
+risperidone tablet 4mg|2
+SAPHRIS|3
+SEROQUEL XR TABLET 50MG, 300MG, 400MG|3
+SEROQUEL XR TABLET 150MG, 200MG|3
+thioridazine hcl|2
+thiothixene|2
+trifluoperazine hcl|2
+ziprasidone hcl|2
+baclofen|2
+tizanidine hcl|2
+abacavir|2
+acyclovir capsule, suspension, tablet|2
+acyclovir sodium injection|2
+amantadine hcl|2
+APTIVUS|5
+ATRIPLA|5
+BARACLUDE|3
+cidofovir|5
+COMPLERA|5
+COPEGUS|5
+CRIXIVAN|3
+DENAVIR|4
+didanosine|2
+EDURANT|5
+EMTRIVA|4
+EPIVIR HBV|4
+EPIVIR SOLUTION|4
+EPZICOM|5
+foscarnet sodium|2
+FUZEON|5
+ganciclovir|2
+HEPSERA|5
+INCIVEK|5
+INFERGEN|5
+INTELENCE TABLET 25MG|4
+INTELENCE TABLET 100MG, 200MG|5
+INTRON-A|4
+INVIRASE CAPSULE 200MG|4
+INVIRASE TABLET 500MG|5
+ISENTRESS TABLET CHEWABLE 25MG, 100MG|3
+ISENTRESS TABLET 400MG|5
+KALETRA|5
+lamivudine|2
+lamivudine/zidovudine|5
+LEXIVA SUSPENSION|4
+LEXIVA TABLET|5
+nevirapine tablet|2
+NORVIR|4
+PEG-INTRON|5
+PREZISTA SUSPENSION|4
+PREZISTA TABLET 75MG, 150MG|4
+|5
+REBETOL CAPSULE|5
+REBETOL SOLUTION|4
+RELENZA DISKHALER|4
+RESCRIPTOR|4
+RETROVIR IV INFUSION|4
+REYATAZ|3
+ribapak tablet|5
+ribasphere capsule 200mg|2
+ribasphere tablet 200mg|2
+ribasphere tablet 400mg|2
+ribasphere tablet 600mg|5
+ribavirin capsule, tablet 200mg|2
+rimantadine hcl|2
+SELZENTRY|5
+stavudine|2
+STRIBILD|5
+SUSTIVA|3
+TAMIFLU CAPSULE 30MG|3
+TAMIFLU CAPSULE 45MG|3
+TAMIFLU CAPSULE 75MG|3
+TAMIFLU SUSPENSION|3
+trifluridine|2
+TRIZIVIR|5
+TRUVADA|5
+TYZEKA|5
+valacyclovir hcl|2
+VICTRELIS|5
+VIDEX PEDIATRIC SOLUTION|3
+VIRACEPT|5
+VIRAMUNE|4
+VIRAMUNE XR|4
+VIREAD|5
+VISTIDE|5
+ZERIT SOLUTION|4
+ZIAGEN SOLUTION|4
+zidovudine|2
+alprazolam er tablet 0.5mg, 1mg, 2mg, 3mg|2
+alprazolam intensol|2
+alprazolam odt 0.25mg, 0.5mg, 1mg|2
+alprazolam odt 2mg|2
+alprazolam tablet 0.25mg, 0.5mg, 1mg|2
+alprazolam tablet 2mg|2
+buspirone hcl|2
+diazepam intensol|2
+diazepam injection|2
+diazepam oral solution 1mg/ml|2
+diazepam tablet 2mg, 5mg, 10mg|2
+lorazepam injection 2mg/ml, 4mg/ml|2
+lorazepam intensol|2
+lorazepam tablet|2
+meprobamate|2
+oxazepam|2
+EQUETRO|4
+lithium carbonate|2
+lithium carbonate er|2
+lithium citrate|2
+acarbose|2
+ALCOHOL PREP PADS|3
+AVANDIA TABLET 2MG, 4MG|4
+AVANDIA TABLET 8MG|4
+BD INSULIN SYRINGE|3
+BD PEN NEEDLE|3
+BYDUREON|3
+BYETTA|3
+chlorpropamide|1
+GAUZE PADS 2”X2”|3
+glimepiride|1
+glipizide|1
+glipizide er|1
+glipizide/metformin hcl|1
+GLUCAGEN HYPOKIT|3
+GLUCAGON EMERGENCY KIT|3
+glyburide|1
+glyburide micronized|1
+glyburide/metformin hcl|1
+GLYSET|4
+HUMALOG|3
+HUMALOG MIX 50/50|3
+HUMALOG MIX 75/25|3
+HUMULIN 70/30|3
+HUMULIN N|3
+HUMULIN R|3
+HUMULIN R U-500 (CONCENTRATED)|3
+INSULIN SYRINGE & PEN NEEDLE|3
+JANUMET|3
+JANUMET XR TABLET 500MG/50MG, 1000MG/50MG|3
+JANUMET XR TABLET 1000MG/100MG|3
+JANUVIA|3
+|3
+JUVISYNC|3
+LANTUS|3
+LANTUS SOLOSTAR|3
+LEVEMIR|3
+LEVEMIR FLEXPEN|3
+metformin hcl|1
+metformin hcl er|1
+nateglinide|1
+NOVOFINE & NOVOTWIST PEN NEEDLE|3
+pioglitazone hcl|1
+pioglitazone hcl/glimepiride|1
+pioglitazone hcl/metformin hcl|1
+PRANDIN|4
+PROGLYCEM|4
+RIOMET|3
+SYMLINPEN 60|4
+SYMLINPEN 120|4
+tolazamide|1
+tolbutamide|1
+TRADJENTA|3
+V-GO|4
+VICTOZA|3
+AGGRENOX|3
+aminocaproic acid tablet|2
+anagrelide hydrochloride|2
+ARANESP 25MCG/0.42ML, 25MCG/ML, 40MCG/0.4ML, 40MCG/ML, 60MCG/0.3ML, 60MCG/ML|3
+ARANESP 100MCG/0.5ML, 100MCG/ML, 150MCG/0.3ML, 150MCG/0.75ML, 200MCG/0.4ML, 200MCG/ML, 300MCG/0.6ML,300MCG/ML, 500MCG/ML|5
+BRILINTA|3
+cilostazol|1
+clopidogrel tablet 75mg|1
+clopidogrel tablet 300mg|1
+COUMADIN|4
+CYKLOKAPRON|3
+dipyridamole tablet|2
+EFFIENT TABLET 5MG|3
+EFFIENT TABLET 10MG|3
+ELIQUIS|3
+enoxaparin sodium 30mg/0.3ml|2
+enoxaparin sodium 40mg/0.4ml|2
+enoxaparin sodium 60mg/0.6ml|2
+enoxaparin sodium 80mg/0.8ml|2
+enoxaparin sodium 100mg/ml|2
+enoxaparin sodium 120mg/0.8ml|5
+enoxaparin sodium 150mg/ml|5
+enoxaparin sodium 300mg/3ml|2
+EPOGEN|4
+fondaparinux sodium 2.5mg/0.5ml|2
+fondaparinux sodium 5mg/0.4ml|5
+fondaparinux sodium 7.5mg/0.6ml|5
+fondaparinux sodium 10mg/0.8ml|5
+heparin sodium 1000unit/ml|2
+heparin sodium 2000unit/ml, 2500unit/ml, 5000unit/ml, 10000unit/ml, 20000unit/ml|2
+heparin sodium/d5w injection 5%/40unit/ml|2
+heparin sodium/nacl 0.45%|2
+heparin sodium/sodium chloride 0.9% premix|2
+jantoven|1
+LEUKINE|5
+MOZOBIL|5
+NEUMEGA|5
+NEUPOGEN|5
+PRADAXA|4
+PROCRIT 2000UNIT/ML, 3000UNIT/ML, 4000UNIT/ML, 10000UNIT/ML|3
+PROCRIT  20000UNIT/ML, 40000UNIT/ML|5
+PROMACTA|5
+ticlopidine hcl|2
+tranexamic acid injection|2
+warfarin sodium|1
+XARELTO TABLET 10MG, 20MG|3
+XARELTO TABLET 15MG|3
+acebutolol hcl|2
+acetazolamide sodium|2
+afeditab cr|1
+amiloride hcl|2
+amiloride/hctz|2
+amiodarone hcl injection|1
+amiodarone hcl tablet|1
+amlodipine besylate tablet 2.5mg|1
+amlodipine besylate tablet 5mg , 10mg|1
+amlodipine besylate/atorvastatin calcium|1
+amlodipine besylate/benazepril hcl|2
+AMTURNIDE|4
+atenolol|1
+atenolol/chlorthalidone|1
+atorvastatin calcium|1
+benazepril hcl|1
+benazepril hcl/hctz|1
+BENICAR|3
+BENICAR HCT|3
+betaxolol hcl tablet 10mg, 20mg|1
+BIDIL|4
+bisoprolol fumarate|1
+bisoprolol fumarate/hctz|1
+bumetanide|1
+BYSTOLIC TABLET 2.5MG, 5MG|3
+BYSTOLIC TABLET 10MG|3
+BYSTOLIC TABLET 20MG|3
+candesartan cilexetil/hctz|1
+captopril|1
+captopril/hctz|1
+cartia xt|1
+carvedilol|1
+chlorothiazide|2
+chlorothiazide sodium|2
+chlorthalidone|1
+clonidine hcl tablet|1
+colestipol hcl|2
+COREG CR|3
+CRESTOR|3
+digoxin|1
+dilacor xr|1
+dilt-cd|1
+dilt-xr|1
+diltiazem cd|1
+diltiazem hcl er|1
+diltiazem hcl injection|1
+diltiazem hcl tablet|1
+diltzac|1
+|4
+DIOVAN TABLET 320MG|4
+disopyramide phosphate|2
+doxazosin mesylate|2
+DUTOPROL|4
+enalapril maleate|1
+enalapril maleate/hctz|1
+eplerenone|2
+EXFORGE|3
+EXFORGE HCT|3
+felodipine er|2
+fenofibrate micronized|2
+fenofibrate tablet 48mg, 54mg|2
+fenofibrate tablet 145mg, 160mg|2
+flecainide acetate|2
+fluvastatin capsule 20mg|1
+fluvastatin capsule 40mg|1
+fosinopril sodium|1
+fosinopril sodium/hctz|1
+furosemide|1
+gemfibrozil|1
+guanfacine hcl|2
+hydralazine hcl|1
+hydrochlorothiazide|1
+indapamide|1
+INNOPRAN XL|4
+irbesartan|1
+irbesartan/hctz|1
+isosorbide dinitrate|2
+isosorbide dinitrate er|2
+isosorbide mononitrate|1
+isosorbide mononitrate er|1
+isradipine|2
+JUXTAPID|5
+KYNAMRO|5
+labetalol hcl|1
+LANOXIN|3
+LANOXIN PEDIATRIC|3
+LESCOL XL|4
+lisinopril|1
+lisinopril/hctz|1
+losartan potassium/hctz tablet 50mg/12.5mg|1
+losartan potassium/hctz tablet 100mg/12.5mg, 100mg/25mg|1
+losartan potassium tablet 25mg|1
+losartan potassium tablet 50mg|1
+losartan potassium tablet 100mg|1
+lovastatin tablet 10mg, 20mg|1
+lovastatin tablet 40mg|1
+LOVAZA|3
+methazolamide|2
+methyclothiazide|2
+methyldopa|2
+methyldopa/hctz|2
+methyldopate hcl|2
+metolazone|2
+metoprolol succinate er tablet 25mg, 50mg, 100mg|1
+metoprolol succinate er tablet 200mg|1
+metoprolol tartrate|1
+metoprolol/hctz|2
+mexiletine hcl|2
+MICARDIS|4
+MICARDIS HCT|4
+|2
+minitran|2
+minoxidil|2
+moexipril hcl|1
+moexipril/hctz|1
+MULTAQ|3
+nadolol|2
+nadolol/bendroflumethiazide|2
+NIASPAN TABLET ER 500MG|4
+NIASPAN TABLET ER 750MG, 1000MG|4
+nicardipine hcl|2
+nifediac cc|1
+nifedical xl|1
+nifedipine|2
+nifedipine er|1
+nimodipine|2
+nisoldipine|2
+nisoldipine er|2
+NITRO-BID|4
+NITRO-DUR PATCH 0.3MG/HR, 0.8MG/HR|4
+nitroglycerin transdermal patch|1
+nitroglycerin injection|2
+NITROLINGUAL PUMPSPRAY|3
+NITROSTAT|3
+pacerone|1
+pentoxifylline er|1
+perindopril erbumine|1
+pindolol|2
+pravastatin sodium tablet 10mg, 20mg|1
+pravastatin sodium tablet 40mg|1
+pravastatin sodium tablet 80mg|1
+prazosin hcl|2
+procainamide hcl|2
+propafenone hcl|2
+propranolol hcl|2
+propranolol hcl er|2
+propranolol/hctz|2
+quinapril hcl|1
+quinapril/hctz|1
+quinidine gluconate|2
+quinidine gluconate cr|2
+quinidine sulfate|2
+quinidine sulfate er|2
+ramipril|1
+RANEXA|3
+RECTIV|4
+reserpine|2
+SIMCOR TABLET ER 500MG/20MG, 500MG/40MG, 1000MG/40MG|3
+SIMCOR TABLET ER 750MG/20MG, 1000MG/20MG|3
+simvastatin tablet 5mg, 10mg, 20mg|1
+simvastatin tablet 40mg|1
+simvastatin tablet 80mg|1
+sorine|1
+sotalol hcl|1
+sotalol hcl af|1
+spironolactone|1
+spironolactone/hctz|1
+taztia xt|1
+TEKAMLO|4
+TEKTURNA|4
+TEKTURNA HCT|4
+terazosin hcl|2
+|4
+timolol maleate tablet|2
+TOPROL XL TABLET ER 25MG, 50MG, 100MG|4
+TOPROL XL TABLET ER 200MG|4
+torsemide injection|1
+torsemide tablet|1
+trandolapril|1
+triamterene/hctz|1
+TRILIPIX CAPSULE 45MG|4
+TRILIPIX CAPSULE 135MG|4
+valsartan/hctz|1
+verapamil hcl|1
+verapamil hcl er|1
+verapamil hcl sr|1
+VYTORIN|4
+WELCHOL|3
+ZETIA|3
+amphetamine/dextroamphetamine capsule er 5mg, 10mg, 15mg|2
+amphetamine/dextroamphetamine capsule er 20mg, 25mg, 30mg|2
+amphetamine/dextroamphetamine tablet|2
+AMPYRA|5
+AUBAGIO|5
+AVONEX|5
+COPAXONE|5
+dexmethylphenidate hcl|2
+dextroamphetamine sulfate er|2
+dextroamphetamine sulfate tablet|2
+EXTAVIA|5
+GILENYA|5
+INTUNIV|4
+metadate er|2
+METHYLIN TABLET CHEWABLE|4
+methylphenidate hcl|2
+methylphenidate hcl cd capsule 10mg, 20mg, 30mg, 40mg, 50mg, 60mg|2
+methylphenidate hcl er capsule 20mg, 30mg, 40mg|2
+methylphenidate hcl er tablet 10mg, 20mg|2
+NUEDEXTA|3
+procentra|2
+REBIF|5
+REBIF TITRATION PACK|5
+riluzole|2
+SAVELLA|3
+SAVELLA TITRATION PACK|3
+STRATTERA CAPSULE 10MG, 18MG, 25MG, 40MG|3
+STRATTERA CAPSULE 60MG, 80MG, 100MG|3
+XENAZINE|5
+chlorhexidine gluconate oral rinse|2
+KEPIVANCE|5
+periogard|2
+pilocarpine hcl tablet|2
+triamcinolone in orabase|2
+8-MOP|3
+ammonium lactate rx|2
+amnesteem|2
+calcipotriene|2
+CARAC|4
+claravis|2
+clindamycin phosphate foam 1%|2
+clindamycin phosphate gel 1%|2
+clindamycin phosphate lotion 1%|2
+clindamycin phosphate solution 1%|2
+clindamycin phosphate swab 1%|2
+ELIDEL|4
+erythromycin/benzoyl peroxide|2
+fluorouracil cream 5%|2
+fluorouracil topical solution 2%, 5%|2
+imiquimod|2
+myorisan|2
+OXSORALEN|4
+OXSORALEN ULTRA|3
+podofilox|2
+PRUDOXIN|3
+REGRANEX|5
+SANTYL|3
+selenium sulfide lotion|2
+SOLARAZE|3
+SORIATANE|5
+sulfacetamide sodium suspension 10%|2
+TAZORAC|4
+tretinoin cream 0.025%, 0.05%, 0.1%|2
+tretinoin gel 0.01%, 0.025%|2
+UVADEX|3
+VOLTAREN|3
+ZONALON|3
+ZYCLARA|3
+ZYCLARA PUMP|3
+ADAGEN|5
+ALDURAZYME|5
+|5
+CEREZYME|5
+CREON|3
+CYSTADANE|5
+CYSTAGON|3
+ELAPRASE|5
+ELELYSO|5
+FABRAZYME|5
+KUVAN|5
+LUMIZYME|5
+MYOZYME|5
+NAGLAZYME|5
+ORFADIN|5
+PANCRELIPASE|4
+RAVICTI|5
+sodium phenylbutyrate|2
+SUCRAID|5
+VPRIV|5
+XIAFLEX|5
+ZAVESCA|5
+ZENPEP|3
+AMITIZA|3
+atropine sulfate injection|2
+CARAFATE SUSPENSION|4
+CHENODAL|5
+cimetidine|1
+cimetidine hcl|1
+constulose|2
+cromolyn sodium concentrate 100mg/5ml|2
+|4
+DEXILANT|4
+dicyclomine hcl|2
+diphenoxylate/atropine|2
+enulose|2
+famotidine injection|1
+famotidine tablet 20mg, 40mg rx|1
+GATTEX|5
+gavilyte-c|2
+gavilyte-g|2
+gavilyte-n/flavor pack|2
+generlac|2
+glycopyrrolate injection|2
+glycopyrrolate tablet|2
+GOLYTELY|3
+HALFLYTELY BOWEL PREP/FLAVOR PACKS|3
+lactulose|2
+loperamide hcl capsule rx|2
+LOTRONEX|5
+methscopolamine bromide|2
+metoclopramide hcl|2
+misoprostol|2
+MOVIPREP|4
+NEXIUM|3
+NEXIUM I.V.|3
+NULYTELY/FLAVOR PACKS|3
+omeprazole capsule delayed release rx|2
+pantoprazole sodium injection|2
+pantoprazole sodium tablet delayed release|2
+polyethylene glycol 3350 powder|2
+propantheline bromide|2
+ranitidine hcl capsule, syrup|1
+ranitidine hcl injection 150mg/6ml|1
+ranitidine hcl tablet 150mg, 300mg rx|1
+RELISTOR|3
+sucralfate tablet|1
+ursodiol capsule 300mg|2
+alfuzosin hcl er|2
+AVODART|3
+bethanechol chloride|2
+calcium acetate capsule|2
+CIALIS TABLET 2.5MG, 5MG|3
+eliphos|2
+ELMIRON|4
+finasteride tablet 5mg|2
+flavoxate hcl|2
+FOSRENOL|3
+GELNIQUE GEL 3%|3
+GELNIQUE GEL 10%|3
+JALYN|3
+MYRBETRIQ|4
+oxybutynin chloride|2
+oxybutynin chloride er tablet 5mg|2
+oxybutynin chloride er tablet 10mg, 15mg|2
+PHOSLO|3
+PHOSLYRA|3
+RAPAFLO|3
+RENVELA|3
+tamsulosin hcl|2
+tolterodine tartrate|2
+trospium chloride|2
+trospium chloride er|2
+VESICARE|3
+a-hydrocort|2
+a-methapred|2
+ala cort|2
+amcinonide|2
+ARISTOSPAN INTRA-ARTICULAR|4
+ARISTOSPAN INTRALESIONAL|4
+augmented betamethasone dipropionate|2
+betamethasone dipropionate|2
+betamethasone valerate cream, lotion, ointment|2
+clobetasol propionate gel, ointment, solution|2
+clobetasol propionate e cream|2
+cortisone acetate|2
+DEPO-MEDROL|4
+desonide|2
+dexamethasone elixir, tablet|2
+dexamethasone intensol|2
+dexamethasone sodium phosphate injection|2
+fludrocortisone acetate|2
+fluocinolone acetonide|2
+fluocinolone acetonide body|2
+fluocinonide|2
+fluocinonide-e|2
+fluticasone propionate cream 0.05%|2
+fluticasone propionate lotion 0.05%|2
+fluticasone propionate ointment 0.005%|2
+halobetasol propionate|2
+hydrocortisone butyrate|2
+|2
+hydrocortisone cream 1%, 2.5%|2
+hydrocortisone lotion 2.5%|2
+hydrocortisone ointment 1%, 2.5%|2
+hydrocortisone tablet|2
+lokara|2
+methylprednisolone|2
+methylprednisolone acetate|2
+methylprednisolone dose pack|2
+methylprednisolone sodium succinate injection|2
+mometasone furoate cream, ointment, solution|2
+prednicarbate|2
+prednisolone sodium phosphate solution 5mg/5ml, 15mg/5ml|2
+prednisone|2
+prednisone intensol|2
+procto-pak|2
+PROCTOCORT  CREAM|4
+proctocream hc|2
+proctosol hc|2
+proctozone-hc|2
+SOLU-CORTEF|3
+SOLU-MEDROL|3
+triamcinolone acetonide cream 0.025%, 0.1%, 0.5%|2
+triamcinolone acetonide lotion 0.025%, 0.1%|2
+triamcinolone acetonide ointment 0.025%, 0.1%, 0.5%|2
+triderm|2
+u-cort|2
+ACTHAR HP|5
+desmopressin acetate|2
+EGRIFTA INJECTION 1MG|5
+EGRIFTA INJECTION 2MG|5
+GENOTROPIN 5MG, 12MG|5
+GENOTROPIN MINIQUICK INJECTION 0.2MG|4
+GENOTROPIN MINIQUICK INJECTION 0.4MG, 0.6MG, 0.8MG, 1MG, 1.2MG, 1.4MG, 1.6MG, 1.8MG, 2MG|5
+HUMATROPE INJECTION 5MG, 6MG, 12MG, 24MG|5
+HUMATROPE INJECTION COMBO PACK|5
+INCRELEX|5
+NORDITROPIN FLEXPRO|5
+NORDITROPIN NORDIFLEX|5
+NUTROPIN|5
+NUTROPIN AQ|5
+OMNITROPE INJECTION 5MG/1.5ML, 10MG/1.5ML|4
+OMNITROPE INJECTION 5.8MG|5
+SAIZEN INJECTION 5MG, 8.8MG|5
+SAIZEN INJECTION CLICK.EASY 8.8MG|5
+SEROSTIM|5
+TEV-TROPIN|4
+ZORBTIVE|5
+ALORA|4
+amethia|2
+amethyst|2
+ANADROL-50|5
+ANDRODERM|3
+ANDROGEL|3
+ANDROGEL  PUMP|3
+ANDROXY|4
+ANGELIQ|4
+apri|2
+aranelle|2
+aviane|2
+balziva|2
+briellyn|2
+camila|2
+cryselle|2
+cyclafem|2
+drospirenone/ethinyl estradiol|2
+emoquette|2
+ENJUVIA|3
+enpresse|2
+errin|2
+estradiol/norethindrone acetate|2
+estradiol tablet|2
+estropipate|2
+EVISTA|3
+gianvi|2
+gildagia|2
+introvale|2
+jinteli|2
+jolivette|2
+junel|2
+junel fe|2
+kariva|2
+kelnor|2
+leena|2
+lessina|2
+levonest|2
+levonorgestrel/ethinyl estradiol|2
+levora|2
+loryna|2
+low-ogestrel|2
+|2
+MAKENA|5
+marlissa|2
+medroxyprogesterone acetate|2
+MEGACE ES|3
+MEGACE ORAL|4
+megestrol acetate suspension|2
+megestrol acetate tablet|2
+MENEST|4
+methitest|2
+microgestin|2
+microgestin fe|2
+mimvey|2
+mononessa|2
+necon|2
+nora-be|2
+norethindrone acetate|2
+nortrel|2
+NUVARING|4
+ocella|2
+ogestrel|2
+orsythia|2
+ORTHO EVRA|4
+OXANDRIN|5
+oxandrolone tablet 2.5mg|2
+oxandrolone tablet 10mg|5
+PLAN B ONE-STEP|4
+portia|2
+PREFEST|4
+PREMARIN CREAM|3
+PREMPRO|4
+previfem|2
+progesterone capsule|2
+quasense|2
+reclipsen|2
+sprintec|2
+sronyx|2
+TESTIM|3
+testosterone cypionate|2
+testosterone enanthate|2
+tri-legest fe|2
+tri-previfem|2
+tri-sprintec|2
+trinessa|2
+trivora|2
+velivet|2
+zenchent fe|2
+zovia|2
+ARMOUR  THYROID|3
+LEVOTHROID|3
+levothyroxine sodium tablet|1
+LEVOXYL|3
+liothyronine sodium|2
+nature-throid|2
+nature-throid nt|2
+np thyroid|2
+SYNTHROID|4
+THYROLAR|4
+UNITHROID|3
+westhroid|2
+westhroid-p|2
+LYSODREN|3
+SENSIPAR TABLET 30MG|3
+SENSIPAR TABLET 60MG|5
+SENSIPAR TABLET 90MG|5
+cabergoline|2
+ELIGARD INJECTION 7.5MG|4
+ELIGARD INJECTION 22.5MG|4
+ELIGARD INJECTION 30MG|4
+ELIGARD INJECTION 45MG|4
+FIRMAGON|4
+leuprolide acetate|2
+LUPRON DEPOT|5
+LUPRON DEPOT-PED|5
+octreotide acetate injection 50mcg/ml, 100mcg/ml, 200mcg/ml|2
+octreotide acetate injection 500mcg/ml, 1000mcg/ml|5
+SANDOSTATIN  INJECTION  50MCG/ML|4
+SANDOSTATIN INJECTION 100MCG/ML, 200MCG/ML, 500MCG/ML, 1000MCG/ML|5
+SANDOSTATIN LAR DEPOT|5
+SIGNIFOR|5
+SOMATULINE  DEPOT|5
+SOMAVERT|5
+SYNAREL|5
+TRELSTAR DEPOT 3.75MG|3
+TRELSTAR LA 11.25MG|3
+TRELSTAR  22.5MG|3
+ZOLADEX|4
+bicalutamide|2
+flutamide|2
+NILANDRON|4
+XTANDI|5
+methimazole|2
+propylthiouracil|2
+ACTEMRA|5
+ACTHIB|3
+ACTIMMUNE|5
+ADACEL|3
+ARCALYST|5
+ATGAM|5
+azathioprine|2
+azathioprine sodium|2
+BENLYSTA|5
+BOOSTRIX|3
+CARIMUNE NF|5
+CELLCEPT CAPSULE|4
+CELLCEPT INTRAVENOUS|4
+CELLCEPT SUSPENSION, TABLET|5
+CERVARIX|3
+COMVAX|3
+CUPRIMINE|3
+cyclosporine|2
+cyclosporine modified|2
+DAPTACEL|3
+DEPEN TITRATABS|3
+ENBREL|5
+ENGERIX-B|3
+GAMASTAN S/D|3
+GAMMAGARD  LIQUID|5
+GAMMAPLEX|5
+GAMUNEX-C|5
+GARDASIL|3
+gengraf|2
+HAVRIX|3
+HIZENTRA|5
+HUMIRA|5
+ILARIS|5
+IMOVAX RABIES (H.D.C.V.)|3
+INFANRIX|3
+IPOL INACTIVATED IPV|3
+IXIARO|3
+JE-VAX|3
+leflunomide|2
+M-M-R II|3
+MENACTRA|3
+MENOMUNE-A/C/Y/W-135|3
+MENVEO|3
+methotrexate|2
+methotrexate sodium|2
+mycophenolate mofetil|2
+MYFORTIC|3
+NEORAL|4
+NULOJIX|5
+ORENCIA IV 250MG|5
+PEDIARIX|3
+PEDVAX HIB|3
+|5
+PROGRAF CAPSULE 0.5MG, 1MG|4
+PROGRAF CAPSULE 5MG|5
+PROGRAF INJECTION|4
+PROQUAD|3
+RABAVERT|3
+RAPAMUNE  SOLUTION|5
+RAPAMUNE TABLET 0.5MG|4
+RAPAMUNE TABLET 1MG, 2MG|5
+RECOMBIVAX  HB|3
+REMICADE|5
+RHEUMATREX|4
+RIDAURA|5
+ROTATEQ|3
+SANDIMMUNE|3
+SIMULECT|5
+SYNAGIS|5
+tacrolimus|2
+TETANUS TOXOID ADSORBED|3
+TETANUS/DIPHTHERIA TOXOIDS-ADSORBED ADULT|3
+THYMOGLOBULIN|5
+TORISEL|5
+TREXALL|4
+TWINRIX|3
+TYPHIM VI|4
+TYSABRI|5
+VAQTA|3
+VARIVAX|3
+YF-VAX|3
+ZORTRESS TABLET 0.25MG|4
+|5
+ZOSTAVAX|3
+APRISO|3
+balsalazide disodium|2
+budesonide capsule er 3mg|2
+CANASA|3
+colocort|2
+DIPENTUM|4
+hydrocortisone enema 100mg/60ml|2
+LIALDA|3
+mesalamine kit|2
+PENTASA|3
+sulfasalazine tablet|2
+sulfazine ec|2
+ACTONEL|4
+alendronate sodium|1
+ATELVIA|4
+BONIVA INJECTION|4
+calcitonin-salmon|2
+calcitriol|2
+etidronate disodium|2
+FORTEO|5
+FORTICAL|3
+HECTOROL|4
+ibandronate sodium|2
+pamidronate disodium|2
+PROLIA|4
+XGEVA|5
+|3
+zoledronic acid injection 4mg/5ml|5
+zoledronic acid injection 5mg/100ml|2
+BERINERT|5
+CINRYZE|5
+FERRIPROX|5
+FIRAZYR|5
+fomepizole|5
+HORIZANT|4
+KALBITOR|5
+KORLYM|5
+LACTATED RINGERS IRRIGATION|3
+levocarnitine|2
+methylergonovine maleate tablet|2
+PHYSIOLYTE|3
+PHYSIOSOL IRRIGATION|3
+RINGERS  IRRIGATION|3
+sodium chloride 0.9% irrigation|2
+sterile water irrigation|2
+acetazolamide|2
+acetazolamide er|2
+ALPHAGAN P SOLUTION 0.1%|3
+apraclonidine|2
+AZOPT|3
+betaxolol hcl solution 0.5%|2
+BETIMOL|4
+BETOPTIC-S|3
+BLEPHAMIDE  S.O.P.|4
+|2
+carteolol hcl|2
+COMBIGAN|3
+COSOPT|4
+cromolyn sodium solution 4%|2
+CYSTARAN|5
+dexamethasone sodium phosphate solution 0.1%|2
+diclofenac sodium|2
+dorzolamide hcl|1
+dorzolamide hcl/timolol maleate|1
+DUREZOL|3
+FLAREX|4
+fluorometholone|2
+flurbiprofen sodium|2
+ILEVRO|3
+IOPIDINE|4
+isopto homatropine|2
+ISTALOL|4
+ketorolac tromethamine ophthalmic solution 0.4%, 0.5%|2
+LACRISERT|4
+latanoprost|1
+levobunolol hcl|2
+LOTEMAX|4
+LUMIGAN|3
+MAXIDEX|4
+metipranolol|2
+naphazoline hcl rx|2
+neomycin/polymyxin/dexamethasone|2
+NEVANAC|3
+PATADAY|3
+PATANOL|4
+PHOSPHOLINE IODIDE|4
+pilocarpine hcl solution 1%, 2%, 4%|2
+PILOPINE HS|4
+PRED MILD|4
+PRED-G|3
+PRED-G S.O.P.|3
+prednisolone acetate|2
+prednisolone sodium phosphate solution 1%|2
+proparacaine hcl|2
+RESTASIS|3
+SIMBRINZA|3
+sulfacetamide sodium/prednisolone sodium phosphate|2
+timolol maleate gel|1
+timolol maleate solution|1
+TOBRADEX ST|4
+tobramycin/dexamethasone|2
+TRAVATAN Z|3
+travoprost|2
+TRUSOPT|4
+acetasol hc|2
+acetic acid|2
+COLY-MYCIN S|4
+DERMOTIC|4
+hydrocortisone/acetic acid|2
+neomycin/polymyxin/hc|2
+acetylcysteine solution|2
+ADCIRCA|5
+ADVAIR DISKUS|3
+ADVAIR HFA|3
+albuterol sulfate er|2
+albuterol sulfate inhalation solution|2
+albuterol sulfate syrup, tablet|2
+ALVESCO|4
+aminophylline|2
+ARALAST NP|5
+ARCAPTA NEOHALER|4
+ASMANEX|3
+ASTEPRO|3
+ATROVENT HFA|4
+AUVI-Q|4
+azelastine hcl|2
+budesonide suspension 0.25mg/2ml, 0.5mg/2ml|2
+carbinoxamine maleate|2
+clemastine fumarate tablet 2.68mg|2
+COMBIVENT  RESPIMAT|3
+cromolyn sodium inhalation solution 20mg/2ml|2
+cyproheptadine hcl|2
+DALIRESP|3
+dexchlorpheniramine maleate|2
+diphenhydramine hcl capsule 50mg|2
+diphenhydramine hcl injection|2
+DULERA|4
+DYMISTA|3
+ELIXOPHYLLIN|4
+EPIPEN|3
+EPIPEN-JR|3
+FLOVENT DISKUS|3
+FLOVENT HFA|3
+flunisolide solution 29mcg/act|2
+|1
+FORADIL AEROLIZER|3
+GLASSIA|5
+hydroxyzine hcl|2
+hydroxyzine pamoate|2
+ipratropium bromide inhalation solution|2
+ipratropium bromide nasal solution|2
+ipratropium bromide/albuterol sulfate inhalation solution|2
+KALYDECO|5
+LETAIRIS|5
+levalbuterol hcl nebulization solution|2
+levocetirizine dihydrochloride solution|2
+levocetirizine dihydrochloride tablet|2
+metaproterenol sulfate|2
+montelukast sodium|2
+OMNARIS|3
+palgic liquid|2
+PERFOROMIST|4
+PROAIR HFA|3
+PROLASTIN-C|5
+promethazine hcl injection 25mg/ml, 50mg/ml|2
+promethazine hcl syrup 6.25mg/5ml|2
+promethazine hcl tablet 12.5mg, 25mg, 50mg|2
+promethazine vc|2
+PULMICORT INHALATION SUSPENSION|4
+PULMOZYME|5
+QVAR|3
+REMODULIN|5
+SEREVENT DISKUS|3
+sildenafil citrate|2
+SPIRIVA HANDIHALER|3
+SYMBICORT|3
+terbutaline sulfate|2
+theochron|2
+theophylline cr|2
+theophylline er|2
+TRACLEER|5
+triamcinolone acetonide inhaler 55mcg/act|2
+TUDORZA PRESSAIR|3
+TYVASO|5
+TYZINE|4
+TYZINE PEDIATRIC|4
+VENTAVIS|5
+VERAMYST|3
+VIRAZOLE|5
+XOLAIR|5
+XOPENEX HFA|4
+zafirlukast|2
+ZEMAIRA|5
+ZETONNA|3
+carisoprodol tablet 350mg|2
+chlorzoxazone|2
+cyclobenzaprine hcl tablet 5mg, 10mg|2
+methocarbamol|2
+LUNESTA|4
+NUVIGIL|4
+SILENOR|4
+temazepam|2
+XYREM|5
+zaleplon|2
+zolpidem tartrate tablet 5mg|2
+zolpidem tartrate tablet 10mg|2
+AMINOSYN|3
+AMINOSYN II|3
+AMINOSYN M|3
+AMINOSYN-HBC|3
+AMINOSYN-PF|3
+ammonium  chloride|2
+CARBAGLU|5
+CHEMET|4
+CLINIMIX|3
+CLINIMIX E|3
+CLINISOL SF 15%|3
+dextrose|2
+DEXTROSE 5%/LACTATED RINGERS|3
+dextrose/nacl|2
+dextrose/potassium chloride|2
+EXJADE|5
+FREAMINE HBC|3
+FREAMINE III|3
+HEPATAMINE|3
+HEPATASOL|3
+INTRALIPID|3
+IONOSOL-B/DEXTROSE 5%|3
+IONOSOL-MB/DEXTROSE 5%|3
+ISOLYTE-M/DEXTROSE 5%|3
+ISOLYTE-P/DEXTROSE 5%|3
+ISOLYTE-S|3
+K-TABS|3
+KCL/D5W/LR|3
+KCL/D5W/NACL|3
+kionex powder|2
+klor-con|1
+klor-con m|1
+LACTATED RINGERS VIAFLEX|3
+LIPOSYN II|3
+LIPOSYN III|3
+magnesium sulfate injection|2
+NEPHRAMINE|3
+NORMOSOL-M IN D5W|3
+NORMOSOL-R|3
+NORMOSOL-R IN D5W|3
+PLASMA-LYTE A|3
+PLASMA-LYTE-148|3
+PLASMA-LYTE-56/D5W|3
+potassium chloride er|1
+potassium chloride injection|2
+potassium chloride sr|1
+potassium chloride/d5w|2
+potassium chloride/d5w/nacl|2
+potassium chloride/nacl|2
+potassium citrate tablet er|2
+PREMASOL|3
+PRENATAL TABLET|3
+PROCALAMINE|3
+PROSOL|4
+RINGERS INJECTION|3
+SAMSCA TABLET 15MG|5
+SAMSCA TABLET 30MG|5
+|2
+sodium fluoride tablet|2
+SODIUM LACTATE|3
+sodium polystyrene sulfonate suspension|2
+SYPRINE|3
+TPN ELECTROLYTES|3
+TRAVASOL|4
+TROPHAMINE|3
+UROCIT-K 15|4

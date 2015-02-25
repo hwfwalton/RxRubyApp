@@ -1,0 +1,3283 @@
+butalbital/acetaminophen|1
+butalbital/acetaminophen/ caffeine  |1
+Esgic|1
+butalbital/acetaminophen/ caffeine caps|1
+butalbital/acetaminophen/ caffeine/codeine caps|1
+butalbital/apap/caffeine |1
+Fioricet|1
+tencon|1
+zebutal|1
+carisoprodol/aspirin|1
+Celebrex caps 400mg|3
+Celebrex caps 100mg, 200mg, 50mg|3
+choline magnesium trisalicylate|1
+diclofenac potassium |1
+Cataflam|1
+diclofenac sodium dr|1
+diclofenac sodium er |1
+Voltaren- xr|1
+diclofenac sodium xr |1
+Voltaren- xr|1
+diclofenac  sodium/misoprostol  tbec 50mg; 200mcg|1
+Arthrotec 50|1
+diclofenac  sodium/misoprostol  tbec 75mg; 200mcg|1
+Arthrotec 75|1
+diflunisal|1
+duraxin|1
+ed-flex|1
+etodolac|1
+etodolac er|1
+fenoprofen calcium|1
+flurbiprofen|1
+hydrocodone/ibuprofen  |1
+Reprexain|1
+hydrocodone/ibuprofen  |1
+Vicoprofen|1
+hydrocodone/ibuprofen  |1
+ibuprofen |1
+indomethacin caps|1
+indomethacin er|1
+ketoprofen|1
+ketoprofen er|1
+ketorolac tromethamine |1
+meclofenamate  sodium|1
+mefenamic acid |1
+Ponstel|1
+meloxicam  |1
+Mobic|1
+meloxicam susp|1
+mst 600|1
+nabumetone|1
+naproxen |1
+Naprosyn|1
+naproxen dr|1
+naproxen sodium  |1
+Anaprox ds|1
+naproxen sodium  |1
+Anaprox|1
+orphenadrine/asa/caffeine|1
+oxaprozin |1
+Daypro|1
+oxycodone/aspirin   |1
+Percodan|1
+oxycodone/ibuprofen|1
+piroxicam |1
+Feldene|1
+reprexain |1
+salsalate|1
+sulindac|1
+tolmetin sodium|1
+Voltaren gel|3
+buprenorphine hcl subl 2mg|1
+buprenorphine hcl subl 8mg|1
+buprenorphine  hcl/naloxone hcl subl 2mg; 0.5mg|1
+buprenorphine  hcl/naloxone hcl subl 8mg; 2mg|1
+fentanyl |1
+Duragesic|1
+levorphanol tartrate|1
+methadone hcl  |1
+Dolophine hcl|1
+methadone hcl  |1
+Dolophine|1
+methadone hcl  conc|1
+Methadose|1
+methadone hcl intensol|1
+methadone hcl oral soln 5mg/5ml|1
+methadone hcl oral soln 10mg/5ml|1
+methadone hcl tbso|1
+methadose |1
+methadose tbso|1
+morphine sulfate er  cp24 30mg, 45mg, 60mg, 75mg|1
+Avinza|1
+morphine sulfate er  cp24 120mg|1
+Avinza|1
+morphine sulfate er  cp24 90mg|1
+Avinza|1
+morphine sulfate er  cp24 100mg, 10mg, 30mg, 50mg|1
+Kadian|1
+morphine sulfate er  cp24 60mg, 80mg|1
+Kadian|1
+morphine sulfate er  cp24 20mg|1
+Kadian|1
+morphine sulfate er  tbcr 100mg, 200mg|1
+Ms contin|1
+morphine sulfate er  tbcr 60mg|1
+Ms contin|1
+morphine sulfate er  tbcr 15mg, 30mg|1
+Ms contin|1
+morphine sulfate supp 20mg|1
+morphine sulfate supp 10mg|1
+morphine sulfate supp 5mg|1
+morphine sulfate supp 30mg|1
+morphine sulfate |1
+morphine sulfate |1
+oxymorphone hydrochloride er tb12 15mg|1
+oxymorphone hydrochloride er tb12 10mg, 15mg, 20mg, 30mg, 5mg, 7.5mg|1
+oxymorphone hydrochloride er tb12 40mg|1
+oxymorphone  hydrochloride |1
+tramadol hcl er  tb24 200mg, 300mg|1
+Ultram er|1
+tramadol hcl er  tb24 100mg|1
+Ultram er|1
+tramadol hcl er tb24 100mg, 200mg, 300mg|1
+acetaminophen/caffeine/ dihydrocodeine  bitartrate|1
+acetaminophen/codeine  #2|1
+acetaminophen/codeine  #3|1
+Tylenol/codeine #3|1
+acetaminophen/codeine  #4|1
+Tylenol/codeine #4|1
+acetaminophen/codeine  oral soln|1
+acetaminophen/codeine  |1
+ascomp/codeine|1
+aspirin-caffeine-dihydrocodeine |1
+Synalgos-DC|1
+butalbital/aspirin/caffeine/ codeine |1
+Fiorinal/codeine #3|1
+butorphanol tartrate nasal soln|1
+carbinoxamine  maleate|1
+carisoprodol/aspirin/codeine|1
+codeine sulfate oral soln|1
+codeine sulfate |1
+codeine sulfate |1
+codeine sulfate |1
+endocet |1
+endocet |1
+endodan|1
+fentanyl citrate oral transmucosal  lpop 1200mcg, 1600mcg, 400mcg, 600mcg, 800mcg|1
+Actiq|1
+fentanyl citrate oral transmucosal lpop 200mcg|1
+hydrocodone  bitartrate/ acetaminophen  oral soln 325mg/15ml; 7.5mg/15ml|1
+Hycet|1
+hydrocodone  bitartrate/ acetaminophen  |1
+Xodol|1
+hydrocodone  bitartrate/ acetaminophen |1
+hydrocodone  bitartrate/ acetaminophen |1
+hydrocodone/acetaminophen  |1
+Norco|1
+hydrocodone/acetaminophen oral soln|1
+hydrocodone/acetaminophen |1
+hydrocodone/acetaminophen |1
+hydrocodone/ibuprofen  |1
+Reprexain|1
+hydrocodone/ibuprofen  |1
+Vicoprofen|1
+hydrocodone/ibuprofen  |1
+hydrogesic|1
+hydromorphone hcl  liqd|1
+Dilaudid|1
+hydromorphone hcl  |1
+Dilaudid|1
+hydromorphone hcl  |1
+Dilaudid|1
+hydromorphone hcl  |1
+Dilaudid|1
+hydromorphone hcl supp|1
+meperidine hcl  |1
+Demerol|1
+meperidine hcl  |1
+Demerol|1
+meperidine hcl oral soln|1
+meperi|1
+meperi|1
+morphine sulfate oral soln 10mg/5ml|1
+morphine sulfate oral soln 100mg/5ml, 20mg/ml|1
+morphine sulfate oral soln 20mg/5ml|1
+opium|1
+opium tincture|1
+oxycodone hcl  |1
+Roxicodone|1
+oxycodone hcl  |1
+Roxicodone|1
+oxycodone hcl caps|1
+oxycodone hcl conc|1
+oxycodone hcl oral soln|1
+oxycodone hcl |1
+oxycodone hcl |1
+oxycodone/acetaminophen  |1
+Percocet|1
+oxycodone/acetaminophen  |1
+Percocet|1
+oxycodone/acetaminophen  |1
+Percocet|1
+oxycodone/acetaminophen caps|1
+oxycodone/aspirin   |1
+Percodan|1
+oxycodone/ibuprofen|1
+oxymorphone  hydrochloride  |1
+Opana|1
+pentazocine/acetaminophen|1
+pentazocine/naloxone  hcl|1
+primlev|1
+reprexain |1
+roxicet |1
+tramadol hcl |1
+Ultram|1
+tramadol hydrochloride/acetaminophen |1
+Ultracet|1
+trezix|1
+vicodin|1
+vicodin es|1
+vicodin hp|1
+xolox|1
+aero otic hc|1
+antipyrine/benzocaine|1
+aurodex|1
+cortane-b-otic|1
+cyotic|1
+ethyl chloride/fine stream|1
+exotic-hc|1
+hydrocortisone acetate/ pramoxine  external crea|1
+Pramosone|1
+lidocaine  ptch|1
+Lidoderm|1
+lidocaine crea|1
+lidocaine hcl gel|1
+lidocaine hcl jelly|1
+lidocaine  hcl-hydrocortisone acetate with aloe|1
+lidocaine  hcl/hydrocortisone acetate crea|1
+lidocaine oint|1
+lidocaine viscous|1
+lidocaine/prilocaine   crea|1
+Emla|1
+lidocaine/prilocaine kit|1
+oticin|1
+oticin hc nr|1
+oto-end 10|1
+otomax-hc|1
+pramcort|1
+treagan otic|1
+acamprosate calcium dr |1
+Campral|1
+naltrexone hcl|1
+revia|1
+buprenorphine hcl subl 2mg|1
+buprenorphine hcl subl 8mg|1
+buprenorphine  hcl/naloxone hcl subl 2mg; 0.5mg|1
+buprenorphine  hcl/naloxone hcl subl 8mg; 2mg|1
+naltrexone hcl|1
+revia|1
+bupropion hcl sr  tb12 150mg|1
+Zyban|1
+Chantix|3
+acetasol hc|1
+dexamethasone|1
+grx hicort 25|1
+hydrocortisone acetate/pramoxine  external crea|1
+Pramosone|1
+hydrocortisone/acetic  acid |1
+Vosol hc|1
+methylprednisolone  |1
+Medrol|1
+methylprednisolone dose pack |1
+neomycin/polymyxin/ hydrocortisone  otic soln|1
+Cortisporin|1
+neomycin/polymyxin/ hydrocortisone ophthalmic susp|1
+neomycin/polymyxin/ hydrocortisone otic susp|1
+nystatin/triamcinolone|1
+pramcort|1
+Celebrex caps 400mg|3
+Celebrex caps 100mg, 200mg, 50mg|3
+choline magnesium trisalicylate|1
+diclofenac potassium |1
+Cataflam|1
+diclofenac sodium dr|1
+diclofenac sodium er |1
+Voltaren- xr|1
+diclofenac sodium gel 3%|1
+diclofenac sodium xr |1
+Voltaren- xr|1
+diclofenac  sodium/misoprostol  tbec 50mg; 200mcg|1
+Arthrotec 50|1
+diclofenac  sodium/misoprostol  tbec 75mg; 200mcg|1
+Arthrotec 75|1
+diflunisal|1
+duraxin|1
+ed-flex|1
+etodolac|1
+etodolac er|1
+fenoprofen calcium|1
+flurbiprofen|1
+ibuprofen |1
+indomethacin caps|1
+indomethacin er|1
+ketoprofen|1
+ketoprofen er|1
+ketorolac tromethamine |1
+meclofenamate  sodium|1
+mefenamic acid |1
+Ponstel|1
+meloxicam  |1
+Mobic|1
+meloxicam susp|1
+nabumetone|1
+naproxen |1
+Naprosyn|1
+naproxen dr|1
+naproxen sodium  |1
+Anaprox ds|1
+naproxen sodium  |1
+Anaprox|1
+oxaprozin |1
+Daypro|1
+piroxicam |1
+Feldene|1
+sulindac|1
+tolmetin sodium|1
+gentak|1
+gentamicin sulfate  ophthalmic soln|1
+Garamycin|1
+gentamicin sulfate crea|1
+gentamicin sulfate oint|1
+neo-fradin|1
+neomycin sulfate|1
+neomycin/polymyxin/gramicidi n |1
+Neosporin|1
+paromomycin sulfate|1
+Tobradex oint|2
+tobramycin sulfate  ophthalmic soln|1
+Tobrex|1
+tobramycin/dexamethasone  susp|1
+Tobradex|1
+Zylet|2
+aero otic hc|1
+ak-poly-bac|1
+bacitracin ophthalmic oint|1
+bacitracin/polymyxin b|1
+clindamycin hcl |1
+Cleocin|1
+clindamycin palmitate hcl |1
+Cleocin pediatric granules|1
+clindamycin phosphate  crea|1
+Cleocin|1
+cortane-b-otic|1
+cyotic|1
+exotic-hc|1
+lansoprazole/amoxicillin/ clarithromycin  |1
+Prevpac|1
+mafenide acetate |1
+Sulfamylon|1
+methenamine hippurate  |1
+Hiprex|1
+methenamine  mandelate|1
+metronidazole  caps|1
+Flagyl|1
+metronidazole  |1
+Flagyl|1
+metronidazole   crea|1
+Metrocream|1
+metronidazole  gel 1%|1
+Metrogel|1
+metronidazole  lotn|1
+Metrolotion|1
+metronidazole gel 0.75%|1
+metronidazole vaginal |1
+Metrogel-vaginal|1
+mupirocin  |1
+Bactroban|1
+mupirocin calcium |1
+Bactroban|1
+neo-polycin|1
+neo-polycin hc|1
+neomycin/bacitracin/polymyxin|1
+neomycin/polymyxin/bacitracin zinc|1
+neomycin/polymyxin/ bacitracin/hydrocortisone|1
+neomycin/polymyxin/ dexamethasone  |1
+Maxitrol|1
+neomycin/polymyxin/ gramicidin |1
+Neosporin|1
+neomycin/polymyxin/hc |1
+Cortisporin|1
+neomycin/polymyxin/ hydrocortisone  otic soln|1
+Cortisporin|1
+neomycin/polymyxin/ hydrocortisone ophthalmic susp|1
+neomycin/polymyxin/ hydrocortisone otic susp|1
+nitrofurantoin  |1
+Furadantin|1
+nitrofurantoin  macrocrystals |1
+Macrodantin|1
+nitrofurantoin  monohydrate |1
+Macrobid|1
+nitrofurantoin monohydrate/macrocrystals |1
+Macrobid|1
+oticin hc nr|1
+oto-end 10|1
+otomax-hc|1
+poly-dex|1
+polycin|1
+polycin b|1
+polymyxin b sulfate/trimethoprim  sulfate |1
+Polytrim|1
+relagard|1
+rosadan|1
+silver sulfadiazine |1
+Silvadene|1
+sulfamethoxazole/trimethoprim  |1
+Bactrim|1
+sulfamethoxazole/trimethoprim ds |1
+Bactrim ds|1
+sulfamethoxazole/trimethoprim susp 200mg/5ml; 40mg/5ml|1
+sulfatrim pediatric|1
+trimethoprim|1
+trimethoprim  sulfate/polymyxin b sulfate |1
+Polytrim|1
+vancomycin hcl  caps|1
+Vancocin hcl|1
+Cedax susr 90mg/5ml|2
+cefaclor|1
+cefaclor er|1
+cefadroxil|1
+cefdinir|1
+cefditoren pivoxil|1
+cefpodoxime proxetil|1
+cefprozil|1
+ceftibuten|1
+cefuroxime axetil |1
+Ceftin|1
+cephalexin  caps|1
+Keflex|1
+cephalexin susr|1
+cephalexin |1
+Suprax chew|2
+Suprax susr|2
+Suprax |2
+methenamine hippurate |1
+amoxicillin|1
+amoxicillin/clavulanate potassium  susr 600mg/5ml; 42.9mg/5ml|1
+Augmentin es-600|1
+amoxicillin/clavulanate potassium  susr 250mg/5ml; 62.5mg/5ml|1
+Augmentin|1
+amoxicillin/clavulanate potassium  |1
+Augmentin|1
+amoxicillin/clavulanate potassium  |1
+Augmentin|1
+amoxicillin/clavulanate potassium chew|1
+amoxicillin/clavulanate potassium er |1
+Augmentin xr|1
+amoxicillin/clavulanate potassium susr 200mg/5ml; 28.5mg/5ml, 400mg/5ml; 57mg/5ml|1
+amoxicillin/clavulanate potassium |1
+ampicillin|1
+dicloxacillin sodium|1
+penicillin v potassium|1
+azithromycin  |1
+Zithromax|1
+clarithromycin  susr 250mg/5ml|1
+Biaxin|1
+clarithromycin  |1
+Biaxin|1
+clarithromycin er |1
+Biaxin xl|1
+clarithromycin susr 125mg/5ml|1
+e.s.p.|1
+ery|1
+erythromycin  gel|1
+Erygel|1
+erythromycin base|1
+erythromycin cpep|1
+erythromycin  ethylsuccinate|1
+erythromycin external soln|1
+erythromycin oint|1
+erythromycin pads|1
+erythromycin/sulfisoxazole|1
+romycin|1
+Cipro susr|2
+Ciprodex|3
+ciprofloxacin er  tb24 1000mg|1
+Cipro xr|1
+ciprofloxacin er  tb24 500mg|1
+Cipro xr|1
+ciprofloxacin hcl  ophthalmic soln|1
+Ciloxan|1
+ciprofloxacin hcl  |1
+Cipro|1
+ciprofloxacin hcl |1
+ciprofloxacin otic soln|1
+gatifloxacin |1
+Zymaxid|1
+levofloxacin  oral soln|1
+Levaquin|1
+levofloxacin  |1
+Levaquin|1
+levofloxacin ophthalmic soln|1
+Moxeza|3
+moxifloxacin hcl |1
+Avelox|1
+Noroxin|2
+ofloxacin  ophthalmic soln|1
+Ocuflox|1
+ofloxacin otic soln|1
+ofloxacin |1
+Vigamox|3
+e.s.p.|1
+erythromycin/sulfisoxazole|1
+sodium sulfacetamide  ophthalmic soln|1
+Bleph-10|1
+sulfacetamide sodium  ophthalmic soln|1
+Bleph-10|1
+sulfacetamide sodium lotn 10%|1
+sulfacetamide sodium oint|1
+sulfacetamide sodium/prednisolone  sodium phosphate|1
+sulfadiazine|1
+sulfamethoxazole/trimethoprim  |1
+Bactrim|1
+sulfamethoxazole/trimethoprim ds |1
+Bactrim ds|1
+sulfamethoxazole/trimethoprim susp 200mg/5ml; 40mg/5ml|1
+sulfatrim pediatric|1
+avidoxy|1
+demeclocycline hcl|1
+doxycycline  caps 150mg|1
+Adoxa|1
+doxycycline  caps 75mg|1
+Monodox|1
+doxycycline  susr|1
+Vibramycin|1
+doxycycline hyclate  caps 100mg|1
+Vibramycin|1
+doxycycline hyclate caps 50mg|1
+doxycycline hyclate cpep|1
+doxycycline hyclate dr  tbec 150mg|1
+Doryx|1
+doxycycline hyclate dr tbec 100mg, 75mg|1
+doxycycline hyclate |1
+doxycycline  monohydrate  |1
+Adoxa pak 1/150|1
+doxycycline  monohydrate  |1
+Adoxa|1
+doxycycline  monohydrate  caps 100mg|1
+Monodox|1
+doxycycline monohydrate caps 50mg|1
+minocycline hcl  caps|1
+Minocin|1
+minocycline hcl er |1
+Solodyn|1
+minocycline hcl |1
+morgidox 1x100mg caps|1
+morgidox 2x100mg caps|1
+Oracea|3
+tetracycline hcl|1
+levetiracetam  |1
+Keppra|1
+levetiracetam er  tb24 750mg|1
+Keppra xr|1
+levetiracetam er  tb24 500mg|1
+Keppra xr|1
+phenobarbital|1
+ethosuximide |1
+Zarontin|1
+zonisamide  caps|1
+Zonegran|1
+clonazepam  |1
+Klonopin|1
+clonazepam  |1
+Klonopin|1
+clonazepam  |1
+Klonopin|1
+clonazepam odt|1
+clorazepate  dipotassium  |1
+Tranxene t|1
+clorazepate  dipotassium  |1
+Tranxene t|1
+clorazepate  dipotassium  |1
+Tranxene t|1
+diazepam  |1
+Valium|1
+diazepam  |1
+Valium|1
+diazepam  |1
+Valium|1
+diazepam gel|1
+diazepam intensol|1
+diazepam oral soln|1
+divalproex sodium |1
+Depakote sprinkles|1
+divalproex sodium dr |1
+Depakote|1
+divalproex sodium er |1
+Depakote er|1
+gabapentin |1
+Neurontin|1
+primidone |1
+Mysoline|1
+tiagabine hydrochloride |1
+Gabitril|1
+valproic acid |1
+Depakene|1
+felbamate |1
+Felbatol|1
+lamotrigine  chew|1
+Lamictal chewable dispersible|1
+lamotrigine  |1
+Lamictal|1
+lamotrigine er  tb24 100mg, 25mg, 50mg|1
+Lamictal xr|1
+lamotrigine er  tb24 250mg, 300mg|1
+Lamictal xr|1
+lamotrigine er  tb24 200mg|1
+Lamictal xr|1
+topiragen|1
+topiramate  cpsp|1
+Topamax sprinkle|1
+topiramate  |1
+Topamax|1
+Banzel susp|2
+Banzel |2
+Banzel |2
+carbamazepine  susp|1
+Tegretol|1
+carbamazepine  |1
+Tegretol|1
+carbamazepine chew|1
+carbamazepine er  cp12|1
+Carbatrol|1
+carbamazepine er  tb12|1
+Tegretol-xr|1
+Dilantin|2
+Dilantin infa|2
+epitol|1
+Equetro|2
+oxcarbazepine |1
+Trileptal|1
+phenytoin |1
+Dilantin infa|1
+phenytoin  susp|1
+Dilantin|1
+phenytoin infa|1
+phenytoin sodium extended  caps 100mg|1
+Dilantin|1
+phenytoin sodium extended  caps 200mg, 300mg|1
+Phenytek|1
+Tegretol-xr tb12 100mg|2
+ergoloid mesylates|1
+donepezil hcl  tbdp|1
+Aricept odt|1
+donepezil hcl  |1
+Aricept|1
+donepezil hcl  |1
+Aricept|1
+galantamine |1
+Razadyne|1
+galantamine  hydrobromide  cp24|1
+Razadyne er|1
+galantamine  hydrobromide |1
+Razadyne|1
+rivastigmine tartrate |1
+Exelon|1
+Namenda oral soln|2
+Namenda |2
+Abilify oral soln|3
+Abilify |3
+bupropion hcl  |1
+Wellbutrin|1
+bupropion hcl  |1
+Wellbutrin|1
+bupropion hcl er  tb12 200mg|1
+Wellbutrin sr|1
+bupropion hcl er  tb12 150mg|1
+Wellbutrin sr|1
+bupropion hcl er  tb12 100mg|1
+Wellbutrin sr|1
+bupropion hcl xl  tb24 300mg|1
+Wellbutrin xl|1
+bupropion hcl xl  tb24 150mg|1
+Wellbutrin xl|1
+duloxetine hcl cpep 60mg|1
+duloxetine hcl cpep 20mg, 30mg|1
+maprotiline hcl|1
+mirtazapine  |1
+Remeron|1
+nefazodone hcl|1
+olanzapine/fluoxetine |1
+Symbyax|1
+quetiapine fumarate |1
+Seroquel|1
+Seroquel xr|2
+trazodone hcl|1
+phenelzine sulfate |1
+Nardil|1
+selegiline hcl |1
+Eldepryl|1
+tranylcypromine sulfate |1
+Parnate|1
+citalopram  hydrobromide  |1
+Celexa|1
+citalopram hydrobromide oral soln|1
+duloxetine hcl  cpep 60mg|1
+Cymbalta|1
+duloxetine hcl  cpep 20mg, 30mg|1
+Cymbalta|1
+escitalopram oxalate  oral soln|1
+Lexapro|1
+escitalopram oxalate  |1
+Lexapro|1
+escitalopram oxalate  |1
+Lexapro|1
+fluoxetine|1
+fluoxetine dr |1
+Prozac weekly|1
+fluoxetine hcl  caps|1
+Prozac|1
+fluoxetine hcl oral soln|1
+fluoxetine hcl |1
+fluvoxamine maleate|1
+fluvoxamine maleate er  cp24 150mg|1
+Luvox cr|1
+fluvoxamine maleate er  cp24 100mg|1
+Luvox cr|1
+olanzapine/fluoxetine |1
+Symbyax|1
+paroxetine hcl |1
+Paxil|1
+paroxetine hcl er |1
+Paxil cr|1
+Pristiq|3
+sertraline hcl |1
+Zoloft|1
+venlafaxine hcl|1
+venlafaxine hcl er  cp24 150mg, 37.5mg|1
+Effexor xr|1
+venlafaxine hcl er  cp24 75mg|1
+Effexor xr|1
+venlafaxine hcl er  tb24 150mg, 37.5mg, 75mg|1
+Venlafaxine hcl er|1
+amitriptyline hcl|1
+amoxapine|1
+chlordiazepoxide/amitriptyline|1
+clomipramine hcl |1
+Anafranil|1
+desipramine hcl |1
+Norpramin|1
+doxepin hcl|1
+imipramine hcl |1
+Tofranil|1
+imipramine pamoate |1
+Tofranil- pm|1
+nortriptyline hcl  caps|1
+Pamelor|1
+nortriptyline hcl oral soln|1
+perphenazine/amitriptyline|1
+protriptyline hcl |1
+Vivactil|1
+chlorpromazine hcl |1
+compazine supp|1
+compro|1
+hydroxyzine hcl|1
+hydroxyzine pamoate  caps|1
+Vistaril|1
+meclizine hcl |1
+metoclopramide hcl  |1
+Reglan|1
+metoclopramide hcl oral soln|1
+perphenazine|1
+prochlorperazine|1
+prochlorperazine  maleate |1
+Compazine|1
+promethazine hcl|1
+promethegan supp 12.5mg, 25mg|1
+Transderm-scop|3
+trimethobenzamide hcl  caps|1
+Tigan|1
+dronabinol |1
+Marinol|1
+granisetron hcl |1
+granisol|1
+meclizine hcl |1
+ondansetron hcl  oral soln|1
+Zofran|1
+ondansetron hcl  |1
+Zofran|1
+ondansetron hcl |1
+ondansetron odt |1
+Zofran odt|1
+trimethobenzamide hcl  caps|1
+Tigan|1
+ciclodan|1
+bensal hp|1
+ciclopirox  sham|1
+Loprox shampoo|1
+ciclopirox  gel|1
+Loprox|1
+ciclopirox nail lacquer |1
+Penlac nail lacquer|1
+ciclopirox olamine|1
+ciclopirox susp|1
+clotrimazole lozg|1
+clotrimazole troc|1
+clotrimazole/betamethasone dipropionate  crea|1
+Lotrisone|1
+clotrimazole/betamethasone dipropionate lotn|1
+dermazene|1
+econazole nitrate|1
+exoderm lotn|1
+fluconazole |1
+Diflucan|1
+flucytosine |1
+Ancobon|1
+griseofulvin microsize  |1
+Grifulvinv|1
+griseofulvin microsize susp|1
+griseofulvin ultramicrosize |1
+Gris- peg|1
+gynazole-1|1
+hydrocortisone/iodoquinol|1
+itraconazole  |1
+Sporanox|1
+ketoconazole  sham|1
+Nizoral|1
+ketoconazole crea|1
+ketoconazole |1
+ketodan|1
+miconazole 3|1
+nyamyc|1
+nystatin|1
+nystatin/triamcinolone|1
+nystop|1
+pedi-dri|1
+selenium sulfide|1
+terbinafine hcl  |1
+Lamisil|1
+terconazole  crea 0.8%|1
+Terazol 3|1
+terconazole  supp|1
+Terazol 3|1
+terconazole  crea 0.4%|1
+Terazol 7|1
+versiclear|1
+voriconazole  susr|1
+Vfend|1
+voriconazole  |1
+Vfend|1
+zazole crea 0.4%|1
+zazole supp|1
+allopurinol |1
+Zyloprim|1
+Colcrys|2
+probenecid|1
+probenecid/colchicine|1
+butalbital/acetaminophen/ caffeine  |1
+Esgic|1
+isometheptene/ dichloralphenazone/ acetaminophen|1
+migragesic ida|1
+nodolor|1
+dihydroergotamine  mesylate  inj|1
+D.h.e. 45|1
+dihydroergotamine  mesylate nasal soln|1
+migergot|1
+divalproex sodium |1
+Depakote sprinkles|1
+divalproex sodium dr |1
+Depakote|1
+divalproex sodium er |1
+Depakote er|1
+topiragen|1
+topiramate  cpsp|1
+Topamax sprinkle|1
+topiramate  |1
+Topamax|1
+valproic acid  caps|1
+Depakene|1
+naratriptan hcl |1
+Amerge|1
+rizatriptan benzoate |1
+Maxalt|1
+rizatriptan benzoate odt |1
+Maxalt-mlt|1
+sumatriptan nasal spray|1
+sumatriptan succinate  inj|1
+Imitrex|1
+sumatriptan succinate  |1
+Imitrex|1
+zolmitriptan |1
+Zomig|1
+zolmitriptan odt |1
+Zomig zmt|1
+guanidine hcl|1
+pyridostigmine bromide |1
+Mestinon|1
+dapsone|1
+Mycobutin|2
+ethambutol hcl |1
+Myambutol|1
+isoniazid syrp|1
+isoniazid |1
+Priftin|2
+pyrazinamide|1
+rifampin  caps|1
+Rifadin|1
+cyclophosphamide |1
+Leukeran|2
+Lomustine|2
+Matulane|2
+Caprelsa |4
+Caprelsa |4
+Revlimid|4
+Thalomid caps 100mg, 50mg|4
+Thalomid caps 150mg, 200mg|4
+Fareston|2
+tamoxifen citrate|1
+fluorouracil crea 5%|1
+hydroxyurea |1
+Hydrea|1
+mercaptopurine  |1
+Purinethol|1
+leucovorin calcium |1
+Mesnex |2
+Zolinza|4
+leucovorin calcium |1
+Mesnex |2
+Zolinza|4
+Zytiga|4
+anastrozole |1
+Arimidex|1
+exemestane  |1
+Aromasin|1
+letrozole |1
+Femara|1
+Etoposide caps|4
+etoposide inj|4
+Hycamtin caps|2
+Zolinza|4
+Afinitor |4
+Afinitor |4
+Caprelsa |4
+Caprelsa |4
+Gleevec |4
+Gleevec |4
+Nexavar|4
+Sprycel |4
+Sprycel |4
+Sprycel |4
+Stivarga|4
+Sutent caps 25mg, 50mg|4
+Sutent caps 12.5mg|4
+Tarceva |4
+Tarceva |4
+Tasigna|4
+Tykerb|4
+Votrient|4
+Xalkori|4
+Panretin|2
+tretinoin caps|1
+tretinoin crea 0.025%, 0.05%,0.1%|1
+tretinoin gel 0.01%, 0.025%|1
+Albenza|2
+Biltricide|2
+Stromectol|2
+atovaquone/proguanil  hcl  |1
+Malarone|1
+atovaquone/proguanil  hcl  |1
+Malarone|1
+chloroquine phosphate  |1
+Aralen|1
+chloroquine phosphate |1
+Coartem|2
+Daraprim|2
+hydroxychloroquine  sulfate |1
+Plaquenil|1
+mefloquine hcl|1
+Mepron|2
+paromomycin sulfate|1
+primaquine phosphate|1
+quinine sulfate |1
+Qualaquin|1
+tinidazole  |1
+Tindamax|1
+tinidazole  |1
+Tindamax|1
+acticin|1
+elimite|1
+lindane|1
+malathion |1
+Ovide|1
+permethrin crea|1
+spinosad|1
+benztropine mesylate |1
+promethazine hcl |1
+trihexyphenidyl hcl|1
+amantadine hcl|1
+entacapone |1
+Comtan|1
+Apokyn|4
+bromocriptine  mesylate |1
+Parlodel|1
+pramipexole  dihydrochloride |1
+Mirapex|1
+ropinirole er  tb24 2mg, 4mg, 6mg|1
+Requip xl|1
+ropinirole er  tb24 12mg|1
+Requip xl|1
+ropinirole er  tb24 8mg|1
+Requip xl|1
+ropinirole hcl |1
+Requip|1
+carbidopa |1
+Lodosyn|1
+carbidopa/levodopa   |1
+Sinemet|1
+carbidopa/levodopa er |1
+Sinemet cr|1
+carbidopa/levodopa  odt |1
+Parcopa|1
+carbidopa/levodopa/ entacapone|1
+Azilect|2
+selegiline hcl |1
+Eldepryl|1
+chlorpromazine hcl |1
+compazine supp|1
+compro|1
+fluphenazine hcl|1
+haloperidol|1
+loxapine  caps|1
+Loxitane|1
+Orap|2
+perphenazine|1
+perphenazine/amitriptyline|1
+prochlorperazine|1
+prochlorperazine  maleate |1
+Compazine|1
+thioridazine hcl|1
+thiothixene|1
+trifluoperazine hcl|1
+Abilify oral soln|3
+Abilify |3
+Latuda |2
+Latuda |2
+olanzapine  |1
+Zyprexa|1
+olanzapine odt |1
+Zyprexa zydis|1
+olanzapine/fluoxetine |1
+Symbyax|1
+quetiapine fumarate |1
+Seroquel|1
+risperidone |1
+Risperdal|1
+risperidone m-|1
+Saphris|2
+Seroquel xr|2
+ziprasidone hcl |1
+Geodon|1
+clozapine  |1
+Clozaril|1
+clozapine odt|1
+baclofen|1
+cyproheptadine hcl|1
+dantrolene sodium  caps|1
+Dantrium|1
+gabapentin |1
+Neurontin|1
+tizanidine hcl  caps|1
+Zanaflex|1
+tizanidine hcl  |1
+Zanaflex|1
+tizanidine hcl |1
+Valcyte|2
+Zirgan|2
+Edurant|2
+Intelence|2
+nevirapine  |1
+Viramune|1
+nevirapine  susp|1
+Viramune|1
+Rescriptor|2
+Sustiva|2
+abacavir |1
+Ziagen|1
+abacavir sulfate/ lamivudine/zidovudine  |1
+Trizivir|1
+didanosine |1
+Videx ec|1
+Emtriva|2
+Epivir hbv oral soln|2
+Epzicom|2
+lamivudine  |1
+Epivir hbv|1
+lamivudine  |1
+Epivir|1
+lamivudine/zidovudine |1
+Combivir|1
+stavudine |1
+Zerit|1
+Truvada|2
+Viread powd|2
+Viread |2
+zidovudine  caps|1
+Retrovir|1
+zidovudine  syrp|1
+Retrovir|1
+zidovudine |1
+Fuzeon|4
+Isentress|2
+Selzentry|2
+Aptivus|2
+Crixivan|2
+Invirase|2
+Kaletra|2
+Lexiva|2
+Norvir|2
+Prezista|2
+Reyataz|2
+Viracept|2
+amantadine hcl|1
+Relenza diskhaler|2
+rimantadine hcl |1
+Flumadine|1
+Tamiflu caps 45mg, 75mg|2
+Tamiflu caps 30mg|2
+Tamiflu susr|2
+adefovir dipivoxil |4
+Hepsera|4
+Baraclude oral soln|4
+Baraclude |4
+Epivir hbv oral soln|2
+Intron-a|4
+moderiba |1
+Peg-intron|4
+Pegasys inj 180mcg/0.5ml|4
+Pegasys inj 180mcg/ml|4
+Pegasys proclick|4
+ribasphere|1
+ribavirin  |1
+Copegus|1
+ribavirin  caps|1
+Rebetol|1
+Tyzeka|4
+Viread powd|2
+Viread |2
+acyclovir |1
+Zovirax|1
+acyclovir  oint|1
+Zovirax|1
+famciclovir |1
+Famvir|1
+trifluridine |1
+Viroptic|1
+valacyclovir hcl |1
+Valtrex|1
+alprazolam  |1
+Xanax|1
+alprazolam  |1
+Xanax|1
+alprazolam  |1
+Xanax|1
+alprazolam  |1
+Xanax|1
+alprazolam er  tb24 1mg|1
+Xanax xr|1
+alprazolam er  tb24 0.5mg|1
+Xanax xr|1
+alprazolam er  tb24 3mg|1
+Xanax xr|1
+alprazolam er  tb24 2mg|1
+Xanax xr|1
+alprazolam intensol|1
+alprazolam odt  tbdp 1mg|1
+Niravam|1
+alprazolam odt  tbdp 0.5mg|1
+Niravam|1
+alprazolam odt  tbdp 0.25mg|1
+Niravam|1
+alprazolam odt  tbdp 2mg|1
+Niravam|1
+alprazolam xr tb24 1mg|1
+alprazolam xr tb24 0.5mg|1
+alprazolam xr tb24 3mg|1
+alprazolam xr tb24 2mg|1
+buspirone hcl|1
+chlordiazepoxide hcl caps 25mg|1
+chlordiazepoxide hcl caps 10mg|1
+chlordiazepoxide hcl caps 5mg|1
+chlordiazepoxide  hcl/clidinium bromide  caps 5mg; 2.5mg|1
+Librax|1
+chlordiazepoxide/amitriptyline|1
+clonazepam  |1
+Klonopin|1
+clonazepam  |1
+Klonopin|1
+clonazepam  |1
+Klonopin|1
+clonazepam odt|1
+diazepam  |1
+Valium|1
+diazepam  |1
+Valium|1
+diazepam  |1
+Valium|1
+diazepam intensol|1
+diazepam oral soln|1
+doxepin hcl|1
+estazolam |1
+estazolam |1
+hydroxyzine hcl|1
+hydroxyzine pamoate  caps|1
+Vistaril|1
+lorazepam  |1
+Ativan|1
+lorazepam  |1
+Ativan|1
+lorazepam  |1
+Ativan|1
+lorazepam conc|1
+lorazepam intensol|1
+meprobamate|1
+midazolam hcl syrp|1
+oxazepam caps 10mg|1
+oxazepam caps 30mg|1
+oxazepam caps 15mg|1
+duloxetine hcl  cpep 60mg|1
+Cymbalta|1
+duloxetine hcl  cpep 20mg, 30mg|1
+Cymbalta|1
+escitalopram oxalate  oral soln|1
+Lexapro|1
+escitalopram oxalate  |1
+Lexapro|1
+escitalopram oxalate  |1
+Lexapro|1
+paroxetine hcl |1
+Paxil|1
+paroxetine hcl er |1
+Paxil cr|1
+sertraline hcl |1
+Zoloft|1
+venlafaxine hcl|1
+venlafaxine hcl er  cp24 150mg, 37.5mg|1
+Effexor xr|1
+venlafaxine hcl er  cp24 75mg|1
+Effexor xr|1
+venlafaxine hcl er  tb24 150mg, 37.5mg, 75mg|1
+Venlafaxine hcl er|1
+olanzapine/fluoxetine |1
+Symbyax|1
+Abilify oral soln|3
+Abilify |3
+olanzapine  |1
+Zyprexa|1
+olanzapine odt |1
+Zyprexa zydis|1
+olanzapine/fluoxetine |1
+Symbyax|1
+quetiapine fumarate |1
+Seroquel|1
+risperidone |1
+Risperdal|1
+risperidone m-|1
+Saphris|2
+Seroquel xr|2
+ziprasidone hcl |1
+Geodon|1
+carbamazepine  |1
+Tegretol|1
+carbamazepine er  cp12|1
+Carbatrol|1
+carbamazepine er  tb12|1
+Tegretol-xr|1
+divalproex sodium |1
+Depakote sprinkles|1
+divalproex sodium dr |1
+Depakote|1
+divalproex sodium er |1
+Depakote er|1
+epitol|1
+Equetro|2
+lamotrigine  chew|1
+Lamictal chewable dispersible|1
+lamotrigine  |1
+Lamictal|1
+lamotrigine er  tb24 100mg, 25mg, 50mg|1
+Lamictal xr|1
+lamotrigine er  tb24 250mg, 300mg|1
+Lamictal xr|1
+lamotrigine er  tb24 200mg|1
+Lamictal xr|1
+lithium carbonate|1
+lithium carbonate er  tbcr|1
+Lithobid|1
+lithium citrate|1
+Tegretol-xr tb12 100mg|2
+valproic acid  caps|1
+Depakene|1
+acarbose |1
+Precose|1
+Avandia|3
+chlorpropamide|1
+glimepiride |1
+Amaryl|1
+glipizide |1
+Glucotrol|1
+glipizide er |1
+Glucotrol xl|1
+glipizide xl|1
+glipizide/metformin  hcl|1
+glyburide|1
+glyburide micronized |1
+Glynase|1
+glyburide/metformin  hcl |1
+Glucovance|1
+Janumet|3
+Janumet xr tb24 1000mg; 100mg, 500mg; 50mg|3
+Janumet xr tb24 1000mg; 50mg|3
+Januvia|3
+Kazano|3
+metformin hcl  |1
+Glucophage|1
+metformin hcl er  tb24 1000mg, 500mg|1
+Fortamet|1
+metformin hcl er  tb24 500mg, 750mg|1
+Glucophage xr|1
+nateglinide |1
+Starlix|1
+Nesina|3
+Oseni|3
+pioglitazone hcl |1
+Actos|1
+pioglitazone  hcl-glimepiride |1
+Duetact|1
+pioglitazone hcl/metformin hcl |1
+Actoplus met|1
+repaglinide |1
+Prandin|1
+tolazamide|1
+tolbutamide|1
+Welchol|2
+Glucagen|2
+Glucagen hypokit|2
+Glucagon emergency kit|2
+Humalog vial|2
+Humalog kwikpen|2
+Humalog mix 50/50 vial|2
+Humalog mix 50/50 kwikpen|2
+Humalog mix 75/25 vial|2
+Humalog mix 75/25 kwikpen|2
+Humulin 70/30|2
+Humulin n|2
+Humulin r|2
+Humulin r u-500 |2
+concentrated|2
+Lantus vial|2
+Lantus solostar|2
+Levemir vial|2
+Levemir flexpen|2
+Eliquis|3
+enoxaparin sodium inj 100mg/ml, 120mg/0.8ml, 150mg/ml, 30mg/0.3ml, 40mg/0.4ml, 60mg/0.6ml, 80mg/0.8ml|4
+enoxaparin sodium inj 300mg/3ml|4
+heparin sodium|1
+jantoven|1
+warfarin sodium |1
+Coumadin|1
+Xarelto |3
+Xarelto |3
+anagrelide  hydrochloride  caps|1
+Agrylin|1
+Leukine|4
+Neulasta|4
+Neupogen|4
+Procrit|4
+aminocaproic acid |1
+Amicar|1
+Brilinta|2
+tranexamic acid  |1
+Lysteda|1
+Aggrenox|2
+Brilinta|2
+cilostazol |1
+Pletal|1
+clopidogrel  |1
+Plavix|1
+dipyridamole  |1
+Persantine|1
+Effient|2
+ticlopidine hcl|1
+clonidine hcl  |1
+Catapres|1
+clonidine hcl  ptwk 0.1mg/24hr|1
+Catapres-tts-1|1
+clonidine hcl  ptwk 0.2mg/24hr|1
+Catapres-tts-2|1
+clonidine hcl  ptwk 0.3mg/24hr|1
+Catapres-tts-3|1
+clonidine hcl er |1
+Kapvay|1
+clorpres|1
+guanfacine hcl |1
+Tenex|1
+methyldopa|1
+methyldopa/ hydrochlorothiazide|1
+midodrine hcl|1
+doxazosin mesylate |1
+Cardura|1
+prazosin hcl |1
+Minipress|1
+reserpine|1
+terazosin hcl|1
+candesartan cilexetil  |1
+Atacand|1
+candesartan cilexetil  |1
+Atacand|1
+candesartan cilexetil  |1
+Atacand|1
+candesartan cilexetil  |1
+Atacand|1
+candesartan cilexetil/hydrochlorothiazide  |1
+Atacand hct|1
+candesartan cilexetil/hydrochlorothiazide  |1
+Atacand hct|1
+Edarbi|3
+Edarbyclor|3
+eprosartan mesylate  600mg |1
+Teveten|1
+irbesartan |1
+Avapro|1
+irbesartan/hydrochlorothiazide  |1
+Avalide|1
+irbesartan/hydrochlorothiazide  |1
+Avalide|1
+losartan potassium  |1
+Cozaar|1
+losartan potassium  |1
+Cozaar|1
+losartan potassium  |1
+Cozaar|1
+losartan potassium/ hydrochlorothiazide   |1
+Hyzaar|1
+losartan potassium/ hydrochlorothiazide   |1
+Hyzaar|1
+telmisartan  |1
+Micardis|1
+telmisartan  |1
+Micardis|1
+telmisartan/amlodipine |1
+Twynsta|1
+telmisartan/hydrochlorothiazide  |1
+Micardis hct|1
+telmisartan/hydrochlorothiazide  |1
+Micardis hct|1
+valsartan/hydrochlorothiazide  |1
+Diovan hct|1
+valsartan/hydrochlorothiazide  |1
+Diovan hct|1
+amlodipine besylate |1
+amlodipine   besylate/benazepril hcl  caps 10mg; 40mg|1
+Lotrel|1
+amlodipine   besylate/benazepril hcl  caps 5mg; 40mg|1
+Lotrel|1
+amlodipine   besylate/benazepril hydrochloride  caps 2.5mg; 10mg, 5mg; 10mg, 5mg; 20mg|1
+Lotrel|1
+amlodipine   besylate/benazepril hydrochloride  caps 10mg; 20mg|1
+Lotrel|1
+benazepril hcl  |1
+Lotensin|1
+benazepril hcl  |1
+Lotensin|1
+benazepril hcl |1
+benazepril hcl/ hydrochlorothiazide   |1
+Lotensin hct|1
+captopril|1
+captopril/hydrochlorothiazide|1
+enalapril maleate |1
+Vasotec|1
+enalapril maleate/ hydrochlorothiazide   |1
+Vaseretic|1
+fosinopril sodium |1
+fosinopril sodium |1
+fosinopril sodium/hydrochlorothiazide|1
+lisinopril  |1
+Prinivil|1
+lisinopril  |1
+Zestril|1
+lisinopril/hydrochlorothiazide |1
+Zestoretic|1
+moexipril hcl |1
+Univasc|1
+moexipril/hydrochlorothiazide  |1
+Uniretic|1
+perindopril erbumine  |1
+Aceon|1
+perindopril erbumine  |1
+Aceon|1
+perindopril erbumine |1
+quinapril hcl |1
+Accupril|1
+quinapril/hydrochlorothiazide |1
+Accuretic|1
+ramipril |1
+Altace|1
+trandolapril |1
+Mavik|1
+amiodarone hcl  |1
+Cordarone|1
+cartia xt|1
+dilt-cd|1
+diltiazem cd |1
+Cardizem cd|1
+diltiazem hcl cd|1
+diltiazem hcl er  cp24 120mg, 180mg, 240mg, 300mg, 360mg|1
+Cardizem cd|1
+diltiazem hcl er  cp24 120mg, 180mg, 240mg, 300mg, 360mg, 420mg|1
+Tiazac|1
+diltzac|1
+disopyramide phosphate |1
+Norpace|1
+flecainide acetate|1
+mexiletine hcl|1
+Norpace cr|2
+pacerone|1
+propafenone hcl  |1
+Rythmol|1
+propafenone hcl er |1
+Rythmol sr|1
+propafenone hcl |1
+quinidine gluconate er|1
+quinidine sulfate|1
+quinidine sulfate er|1
+sorine|1
+sotalol hcl  (Betapace af)|1
+af|1
+sotalol hcl  |1
+Betapace|1
+taztia xt|1
+Tikosyn|2
+acebutolol hcl |1
+Sectral|1
+atenolol |1
+Tenormin|1
+atenolol/chlorthalidone  |1
+Tenoretic 100|1
+atenolol/chlorthalidone  |1
+Tenoretic 50|1
+betaxolol hcl  |1
+Kerlone|1
+bisoprolol fumarate |1
+Zebeta|1
+bisoprolol fumarate/ hydrochlorothiazide  |1
+Ziac|1
+carvedilol |1
+Coreg|1
+labetalol hcl  |1
+Trandate|1
+metoprolol succinate er |1
+Toprol xl|1
+metoprolol tartrate  |1
+Lopressor|1
+metoprolol/hydrochlorothiazide  |1
+Lopressor hct|1
+nadolol |1
+Corgard|1
+nadolol/bendroflumethiazide |1
+Corzide|1
+pindolol|1
+propranolol hcl er |1
+Inderal la|1
+propranolol hcl|1
+propranolol/ hydrochlorothiazide|1
+timolol maleate |1
+afedi|1
+amlodipine besylate  |1
+Norvasc|1
+amlodipine besylate/atorvastatin   calcium  |1
+Caduet|1
+amlodipine   besylate/benazepril hcl  caps 10mg; 40mg|1
+Lotrel|1
+amlodipine   besylate/benazepril hcl  caps 5mg; 40mg|1
+Lotrel|1
+amlodipine   besylate/benazepril hydrochloride  caps 2.5mg; 10mg, 5mg; 10mg, 5mg; 20mg|1
+Lotrel|1
+amlodipine   besylate/benazepril hydrochloride  caps 10mg; 20mg|1
+Lotrel|1
+cartia xt|1
+dilt-cd|1
+dilt-xr|1
+diltiazem cd |1
+Cardizem cd|1
+diltiazem hcl  |1
+Cardizem|1
+diltiazem hcl cd|1
+diltiazem hcl er  cp24|1
+Cardizem cd|1
+diltiazem hcl er  cp24|1
+Dilacor xr|1
+diltiazem hcl er  cp24|1
+Tiazac|1
+diltiazem hcl er cp12|1
+diltiazem hcl |1
+diltzac|1
+felodipine er|1
+isradipine|1
+matzim la|1
+nicardipine hcl caps|1
+nifediac cc|1
+nifedical xl|1
+nifedipine  caps|1
+Procardia|1
+nifedipine er  tb24 30mg, 60mg, 90mg|1
+Adalat cc|1
+nifedipine er  tb24 30mg, 60mg, 90mg|1
+Procardia xl|1
+nimodipine|1
+nisoldipine  tb24 17mg, 34mg, 8.5mg|1
+Sular|1
+nisoldipine er|1
+nisoldipine tb24 20mg, 30mg, 40mg|1
+taztia xt|1
+telmisartan/amlodipine |1
+Twynsta|1
+verapamil hcl  |1
+Calan|1
+verapamil hcl er  tbcr|1
+Calan sr|1
+verapamil hcl er  cp24 200mg, 300mg|1
+Verelan pm|1
+verapamil hcl er  cp24|1
+Verelan|1
+verapamil hcl sr  cp24|1
+Verelan|1
+digoxin  |1
+Lanoxin|1
+digoxin  |1
+Lanoxin|1
+digoxin  oral soln|1
+Lanoxin|1
+isoxsuprine hcl|1
+pentoxifylline er|1
+vecamyl|1
+acetazolamide|1
+dorzolamide hcl |1
+Trusopt|1
+methazolamide  |1
+Neptazane|1
+bumetanide |1
+furosemide  |1
+Lasix|1
+furosemide oral soln|1
+torsemide  |1
+Demadex|1
+amiloride hcl|1
+amiloride/hydrochlorothiazide|1
+eplerenone |1
+Inspra|1
+spironolactone  |1
+Aldactone|1
+spironolactone/ hydrochlorothiazide |1
+Aldactazide|1
+triamterene/ hydrochlorothiazide   caps|1
+Dyazide|1
+triamterene/ hydrochlorothiazide   |1
+Maxzide|1
+triamterene/ hydrochlorothiazide   |1
+Maxzide-25|1
+amiloride/hydrochlorothiazide|1
+atenolol/chlorthalidone  |1
+Tenoretic 100|1
+atenolol/chlorthalidone  |1
+Tenoretic 50|1
+benazepril hcl/ hydrochlorothiazide   |1
+Lotensin hct|1
+bisoprolol fumarate/hydrochlorothiazide |1
+Ziac|1
+candesartan cilexetil/hydrochlorothiazide  |1
+Atacand hct|1
+candesartan cilexetil/hydrochlorothiazide  |1
+Atacand hct|1
+captopril/hydrochlorothiazide|1
+chlorothiazide |1
+chlorthalidone|1
+clorpres|1
+Edarbyclor|3
+enalapril maleate/hydrochlorothiazide  |1
+Vaseretic|1
+fosinopril sodium/hydrochlorothiazide|1
+hydrochlorothiazide    caps|1
+Microzide|1
+hydrochlorothiazide |1
+indapamide|1
+irbesartan/hydrochlorothiazide  |1
+Avalide|1
+irbesartan/hydrochlorothiazide  |1
+Avalide|1
+lisinopril/hydrochlorothiazide |1
+Zestoretic|1
+losartan potassium/hydrochlorothiazide  |1
+Hyzaar|1
+losartan potassium/hydrochlorothiazide  |1
+Hyzaar|1
+methyclothiazide|1
+methyldopa/ hydrochlorothiazide|1
+metolazone  |1
+Zaroxolyn|1
+metolazone |1
+metoprolol/hydrochlorothiazide  |1
+Lopressor hct|1
+moexipril/hydrochlorothiazide  |1
+Uniretic|1
+nadolol/bendroflumethiazide |1
+Corzide|1
+propranolol/ hydrochlorothiazide|1
+quinapril/hydrochlorothiazide |1
+Accuretic|1
+spironolactone/ hydrochlorothiazide |1
+Aldactazide|1
+telmisartan/hydrochlorothiazide  |1
+Micardis hct|1
+telmisartan/hydrochlorothiazide  |1
+Micardis hct|1
+triamterene/ hydrochlorothiazide   caps 25mg; 37.5mg|1
+Dyazide|1
+triamterene/ hydrochlorothiazide   |1
+Maxzide|1
+triamterene/ hydrochlorothiazide   |1
+Maxzide-25|1
+triamterene/ hydrochlorothiazide caps 25mg; 50mg|1
+valsartan/hydrochlorothiazide  |1
+Diovan hct|1
+valsartan/hydrochlorothiazide  |1
+Diovan hct|1
+fenofibrate  caps 130mg|1
+Antara|1
+fenofibrate  caps 43mg|1
+Antara|1
+fenofibrate  |1
+Tricor|1
+fenofibrate  |1
+Tricor|1
+fenofibrate  micronized|1
+fenofibrate |1
+fenofibrate |1
+fenofibric acid dr |1
+Trilipix|1
+fenofibric acid |1
+fenofibric acid |1
+gemfibrozil |1
+Lopid|1
+lofibra caps|1
+lofibra |1
+lofibra |1
+amlodipine besylate/atorvastatin   calcium  |1
+Caduet|1
+atorvastatin calcium |1
+Lipitor|1
+Crestor|3
+fluvastatin |1
+Lescol|1
+lovastatin  |1
+Mevacor|1
+lovastatin  |1
+Mevacor|1
+lovastatin |1
+pravastatin sodium  |1
+Pravachol|1
+simvastatin |1
+Zocor|1
+cholestyramine  |1
+Questran|1
+cholestyramine light |1
+Questran light|1
+colestipol hcl |1
+Colestid|1
+colestipol hcl for oral suspension |1
+Colestid|1
+micronized colestipol hcl|1
+niacin er  tbcr 1000mg, 750mg|1
+Niaspan|1
+niacin er  tbcr 500mg|1
+Niaspan|1
+prevalite|1
+Welchol|2
+hydralazine hcl |1
+minoxidil |1
+isoditrate er|1
+isosorbide dinitrate  |1
+Isordil titradose|1
+isosorbide dinitrate er|1
+isosorbide dinitrate |1
+isosorbide  mononitrate|1
+isosorbide mononitrate er |1
+Imdur|1
+minitran|1
+nitro-time|1
+nitroglycerin  pt24|1
+Nitro-dur|1
+nitroglycerin er|1
+nitroglycerin lingual  translingual soln|1
+Nitrolingual pumpspray|1
+nitroglycerin transdermal |1
+Nitro- dur|1
+nitromist|1
+Nitrostat|3
+Adderall xr|2
+amphetamine/ dextroamphetamine   |1
+Adderall|1
+amphetamine/ dextroamphetamine   |1
+Adderall|1
+amphetamine/ dextroamphetamine   |1
+Adderall|1
+amphetamine/ dextroamphetamine   |1
+Adderall|1
+dextroamphetamine sulfate er  cp24 5mg|1
+Dexedrine|1
+dextroamphetamine sulfate er  cp24 15mg|1
+Dexedrine|1
+dextroamphetamine sulfate er  cp24 10mg|1
+Dexedrine|1
+dextroamphetamine  sulfate oral soln|1
+dextroamphetamine  sulfate |1
+dextroamphetamine  sulfate |1
+methamphetamine hcl |1
+Desoxyn|1
+procentra|1
+Vyvanse|3
+dexmethylphenidate  hcl |1
+Focalin|1
+dexmethylphenidate hcl er  15mg, 30mg, 40mg|1
+Focalin xr|1
+dextroamphetamine  sulfate oral soln|1
+metadate er|1
+methylphenidate hcl  |1
+Ritalin|1
+methylphenidate hcl  |1
+Ritalin|1
+methylphenidate hcl  |1
+Ritalin|1
+methylphenidate hcl cd  cpcr 40mg, 50mg, 60mg|1
+Metadate cd|1
+methylphenidate hcl cd  cpcr 10mg, 20mg, 30mg|1
+Metadate cd|1
+methylphenidate hcl er  tbcr 18mg, 27mg, 54mg|1
+Concerta|1
+methylphenidate hcl er  tbcr 36mg|1
+Concerta|1
+methylphenidate hcl er  cp24 40mg|1
+Ritalin la|1
+methylphenidate hcl er  cp24 20mg, 30mg|1
+Ritalin la|1
+methylphenidate hcl er  tbcr 20mg|1
+Ritalin sr|1
+methylphenidate hcl er tbcr 10mg|1
+methylphenidate hcl sr |1
+Ritalin sr|1
+methylphenidate   hydrochloride  oral soln 10mg/5ml|1
+Methylin|1
+methylphenidate   hydrochloride  oral soln 5mg/5ml|1
+Methylin|1
+Strattera caps 100mg, 60mg, 80mg|3
+Strattera caps 40mg|3
+Strattera caps 10mg, 18mg, 25mg|3
+benzphetamine hcl  |1
+Didrex|1
+butalbital/asa/caffeine |1
+Fiorinal|1
+phendimetrazine  tartrate |1
+Bontril pdm|1
+phendimetrazine tartrate er|1
+ascomp/codeine|1
+benzphetamine hcl |1
+butalbital/acetaminophen/ caffeine/codeine   caps|1
+Fioricet/codeine|1
+butalbital/aspirin/caffeine/ codeine |1
+Fiorinal/codeine #3|1
+caffeine citrate  oral soln|1
+Cafcit|1
+carbinoxamine  maleate|1
+diethylpropion hcl|1
+diethylpropion hcl er|1
+duloxetine hcl  cpep 60mg|1
+Cymbalta|1
+duloxetine hcl  cpep 20mg, 30mg|1
+Cymbalta|1
+riluzole |1
+Rilutek|1
+zebutal|1
+duloxetine hcl  cpep 60mg|1
+Cymbalta|1
+duloxetine hcl  cpep 20mg, 30mg|1
+Cymbalta|1
+Aubagio|4
+Avonex|4
+Avonex pen|4
+Betaseron|4
+Copaxone inj 20mg/ml|4
+Extavia|4
+Gilenya|4
+Rebif|4
+Rebif rebidose|4
+Rebif rebidose titration pack|4
+cevimeline hcl |1
+Evoxac|1
+chlorhexidine  gluconate mouth/throat soln|1
+chlorhexidine gluconate oral rinse|1
+oralone|1
+periogard|1
+pilocarpine hydrochloride |1
+Salagen|1
+triamcinolone acetonide pste|1
+triamcinolone in orabase|1
+acitretin |1
+Soriatane|1
+adapalene |1
+Differin|1
+alclometasone  dipropionate  crea|1
+Aclovate|1
+alclometasone  dipropionate oint|1
+aliclen|1
+alphatrex|1
+amcinonide|1
+amnesteem|1
+apexicon|1
+apexicon e|1
+augmented  betamethasone dipropionate  crea|1
+Diprolene af|1
+augmented  betamethasone dipropionate  |1
+Diprolene|1
+avar cleanser|1
+avar-e emollient|1
+avar-e green|1
+benzepro|1
+benzepro short contact|1
+benzoyl peroxide  foam 5.3%|1
+Benzefoam|1
+benzoyl peroxide  foam 9.8%|1
+Benzefoam ultra|1
+benzoyl peroxide short contact |1
+Benzefoam ultra|1
+betamethasone  dipropionate|1
+betamethasone  valerate  foam|1
+Luxiq|1
+betamethasone  valerate|1
+bp 10-1|1
+bp cleansing wash|1
+bp foam|1
+bp wash liqd 2.5%, 7%|1
+bpo|1
+calcipotriene  crea|1
+Dovonex|1
+calcipotriene|1
+calcitrene|1
+calcitriol oint|1
+cerisa wash|1
+cerovel|1
+claravis|1
+claris clarifying wash|1
+clindacin etz pledgets|1
+clindacin-p|1
+clindamax|1
+clindamycin phosphate |1
+Cleocin-t|1
+clindamycin phosphate |1
+Cleocin-t|1
+clindamycin phosphate  foam|1
+Evoclin|1
+clindamycin/benzoyl  peroxide  gel 5%; 1%|1
+Benzaclin|1
+clindamycin/benzoyl   peroxide  gel 5%; 1.2%|1
+Duac|1
+clobetasol propionate  lotn|1
+Clobex|1
+clobetasol propionate  sham|1
+Clobex|1
+clobetasol propionate  foam 0.05%|1
+Olux|1
+clobetasol propionate  foam 0.05%|1
+Olux-e|1
+clobetasol propionate |1
+Temovate|1
+clobetasol propionate emollient  foam|1
+Olux-e|1
+clobetasol propionate emollient crea|1
+clocortolone pivalate |1
+Cloderm|1
+clotrimazole/betamethasone dipropionate  |1
+Lotrisone|1
+cormax scalp application|1
+cortalo|1
+dermazene|1
+desonide |1
+Desowen|1
+desoximetasone  |1
+Topicort|1
+diclofenac sodium  gel 3%|1
+Solaraze|1
+diflorasone diacetate|1
+Elidel|2
+ery|1
+erythromycin  gel|1
+Erygel|1
+erythromycin external soln|1
+erythromycin pads|1
+erythromycin/benzoyl  peroxide |1
+Benzamycin|1
+fluocinolone  acetonide  oil 0.01%|1
+Dermotic|1
+fluocinolone  acetonide |1
+Synalar|1
+fluocinonide  crea 0.1%|1
+Vanos|1
+fluocinonide|1
+fluocinonide-e|1
+fluorouracil  crea|1
+Efudex|1
+fluorouracil external soln|1
+fluticasone propionate |1
+Cutivate|1
+halobetasol  propionate |1
+Ultravate|1
+hydrocortisone  acetate/aloe |1
+Nuzon|1
+hydrocortisone  acetate/ pramoxine  crea|1
+Analpram-hc|1
+hydrocortisone  acetate/ pramoxine  |1
+Analpram-hc|1
+hydrocortisone  butyrate  (Locoid lipocream)|1
+lipophilic|1
+hydrocortisone  butyrate |1
+Locoid|1
+hydrocortisone 2.5%|1
+hydrocortisone  valerate  oint|1
+Westcort|1
+hydrocortisone valerate crea|1
+hydrocortisone/iodoquinol|1
+imiquimod  crea 5%|1
+Aldara|1
+lactic acid|1
+latrix|1
+latrix xm|1
+lavoclen-4 creamy wash|1
+lavoclen-8 creamy wash|1
+lidocaine crea|1
+lidocaine  hcl-hydrocortisone acetate with aloe|1
+lidocaine  hcl/hydrocortisone acetate crea|1
+lokara|1
+mexar wash|1
+mometasone furoate |1
+Elocon|1
+myorisan|1
+Oracea|3
+oscion cleanser|1
+podocon 25 in benzoin tincture|1
+podofilox |1
+Condylox|1
+pr benzoyl peroxide wash|1
+prascion|1
+prednicarbate  |1
+Dermatop|1
+procto-pak|1
+proctosol hc|1
+proctozone-hc|1
+rectacort-hc|1
+remeven|1
+revina|1
+rosanil cleanser|1
+salacyn|1
+salicylic acid  gel|1
+Keralyt|1
+salicylic acid  sham|1
+Salex|1
+salicylic acid  foam|1
+Salvax|1
+salicylic acid crea|1
+salicylic acid liqd %|1
+salicylic acid lotn|1
+salicylic acid wart remover|1
+scalacort|1
+se 10-5 ss|1
+seb-prev wash|1
+selenium sulfide|1
+sodium sulfacetamide |1
+Klaron|1
+sodium sulfacetamide |1
+Ovace plus wash|1
+sodium sulfacetamide  sham|1
+Ovace plus|1
+sodium  sulfacetamide/sulfur  liqd|1
+Avar ls cleanser|1
+sodium  sulfacetamide/sulfur  crea 10%; 2%|1
+Avar-e ls|1
+sodium  sulfacetamide/sulfur  foam|1
+Clarifoam ef|1
+sodium  sulfacetamide/sulfur  susp 8%; 4%|1
+Sumaxin ts|1
+sodium  sulfacetamide/sulfur  pads|1
+Sumaxin|1
+sodium  sulfacetamide/sulfur|1
+sodium  sulfacetamide/sulfur wash  liqd|1
+Sumaxin wash|1
+sodium  sulfacetamide/urea|1
+sss 10-4|1
+sss 10-5|1
+sulfacetamide  sodium/sulfur cleanser|1
+sulfacleanse 8/4|1
+tretinoin  crea|1
+Retin-a|1
+tretinoin  gel|1
+Retin-a|1
+tretinoin microsphere |1
+Retin-a micro|1
+tretinoin microsphere pump |1
+Retin-a micro|1
+triamcinolone  acetonide|1
+trianex|1
+triderm|1
+u-cort|1
+umecta mousse|1
+urea |1
+Aluvea|1
+urea |1
+Umecta|1
+urea |1
+Uramaxin|1
+urea crea 40%, 50%|1
+urea hydrating|1
+urea lotn 40%|1
+urea nail|1
+vasolex|1
+virti-sulf|1
+x-viate|1
+zaclir cleansing|1
+zenatane|1
+zencia|1
+Zyclara|3
+Creon|2
+pancrelipase|1
+Zenpep cpep|2
+belladonna & opium|1
+belladonna alkaloids & opium|1
+chlordiazepoxide  hcl/clidinium bromide  caps|1
+Librax|1
+dicyclomine hcl |1
+Bentyl|1
+dicyclomine hcl oral soln|1
+ed-spaz|1
+glycopyrrolate  |1
+Robinul forte|1
+glycopyrrolate  |1
+Robinul|1
+hyomax-sl|1
+hyoscyamine sulfate  tbdp|1
+Anaspaz|1
+hyoscyamine sulfate  |1
+Levsin|1
+hyoscyamine sulfate  subl|1
+Levsin/sl|1
+hyoscyamine sulfate elix|1
+hyoscyamine sulfate er |1
+Levbid|1
+hyoscyamine sulfate odt |1
+Anaspaz|1
+hyoscyamine sulfate oral soln|1
+hyosyne|1
+methscopolamine  bromide  |1
+Pamine forte|1
+methscopolamine  bromide  |1
+Pamine|1
+nulev|1
+oscimin|1
+oscimin sr|1
+propantheline  bromide|1
+symax fas|1
+symax-sl|1
+symax-sr|1
+anucort-hc|1
+anusol-hc supp|1
+chlordiazepoxide  hcl/clidinium bromide caps 5mg; 2.5mg|1
+cromolyn sodium  conc|1
+Gastrocrom|1
+diphenoxylate/atropine |1
+Lomotil|1
+hemril-30|1
+hydrocortisone  acetate  supp|1
+Proctocort|1
+lofene|1
+lonox|1
+loperamide hcl caps|1
+methscopolamine bromide |1
+metoclopramide hcl |1
+Reglan|1
+opium tincture|1
+polyethylene glycol 3350|1
+ursodiol  caps|1
+Actigall|1
+ursodiol  |1
+Urso 250|1
+ursodiol  |1
+Urso forte|1
+cimetidine hcl|1
+cimetidine |1
+famotidine  susr|1
+Pepcid|1
+famotidine  |1
+Pepcid|1
+nizatidine  caps 300mg|1
+Axid|1
+nizatidine  oral soln|1
+Axid|1
+nizatidine caps 150mg|1
+ranitidine hcl |1
+Zantac|1
+Linzess|2
+constulose|1
+enulose|1
+gavilyte|1
+generlac|1
+lactulose|1
+peg 3350/electrolytes |1
+Colyte- flavor packs|1
+peg-3350/electrolytes   |1
+Golytely|1
+peg-3350/nacl/na bicarbonate/kcl   |1
+Nulytely/flavor packs|1
+polyethylene glycol 3350|1
+Suprep bowel prep|3
+trilyte|1
+diclofenac  sodium/misoprostol  tbec 50mg; 200mcg|1
+Arthrotec 50|1
+diclofenac  sodium/misoprostol  tbec 75mg; 200mcg|1
+Arthrotec 75|1
+misoprostol |1
+Cytotec|1
+sucralfate |1
+Carafate|1
+Dexilant|3
+lansoprazole  cpdr 30mg|1
+Prevacid|1
+lansoprazole/amoxicillin/ clarithromycin  |1
+Prevpac|1
+omeprazole  cpdr|1
+Prilosec|1
+omeprazole/sodium bicarbonate  caps 40mg; 1100mg|1
+Zegerid|1
+pantoprazole sodium  tbec|1
+Protonix|1
+rabeprazole sodium |1
+Aciphex|1
+flavoxate hcl|1
+Gelnique gel 3%|3
+Gelnique gel 10%|3
+hyophen|1
+oxybutynin chloride|1
+oxybutynin chloride er  tb24 5mg|1
+Ditropan xl|1
+oxybutynin chloride er  tb24 15mg|1
+Ditropan xl|1
+oxybutynin chloride er  tb24 10mg|1
+Ditropan xl|1
+phosphasal|1
+tolterodine tartrate |1
+Detrol|1
+tolterodine tartrate er |1
+Detrol la|1
+trospium chloride |1
+Sanctura|1
+trospium chloride er |1
+Sanctura xr|1
+urin d/s|1
+uryl|1
+ustell|1
+uta|1
+uticap|1
+utira-c|1
+utrona-c|1
+Vesicare 10mg|3
+Vesicare 5mg|3
+alfuzosin hcl er |1
+Uroxatral|1
+doxazosin mesylate |1
+Cardura|1
+finasteride  |1
+Proscar|1
+prazosin hcl |1
+Minipress|1
+tamsulosin hcl |1
+Flomax|1
+terazosin hcl|1
+bethanechol  chloride |1
+Urecholine|1
+Cuprimine|2
+Depen titra|2
+phenazopyridine hcl  |1
+Pyridium|1
+phosphasal|1
+ur n-c|1
+urin d/s|1
+uryl|1
+ustell|1
+uta|1
+uticap|1
+utira-c|1
+utrona-c|1
+calcium acetate caps 667mg|1
+Renvela|2
+alclometasone  dipropionate  crea|1
+Aclovate|1
+alclometasone  dipropionate oint|1
+alphatrex|1
+amcinonide|1
+anucort-hc|1
+anusol-hc supp|1
+apexicon|1
+apexicon e|1
+augmented  betamethasone dipropionate  crea|1
+Diprolene af|1
+augmented  betamethasone dipropionate  |1
+Diprolene|1
+baycadron|1
+betamethasone  dipropionate|1
+betamethasone  valerate  foam|1
+Luxiq|1
+betamethasone  valerate|1
+budesonide  cp24|1
+Entocort ec|1
+clobetasol propionate  lotn|1
+Clobex|1
+clobetasol propionate  sham|1
+Clobex|1
+clobetasol propionate  foam 0.05%|1
+Olux|1
+clobetasol propionate  foam 0.05%|1
+Olux-e|1
+clobetasol propionate |1
+Temovate|1
+clobetasol propionate emollient  foam|1
+Olux-e|1
+clobetasol propionate emollient crea|1
+clocortolone pivalate |1
+Cloderm|1
+clotrimazole/betamethasone dipropionate  |1
+Lotrisone|1
+colocort|1
+cormax scalp application|1
+cortisone acetate|1
+dermazene|1
+desonide |1
+Desowen|1
+desoximetasone  |1
+Topicort|1
+desoximetasone crea 0.05%|1
+desoximetasone oint 0.05%|1
+dexamethasone|1
+dexamethasone  intensol|1
+diflorasone diacetate|1
+fludrocortisone  acetate|1
+fluocinolone  acetonide |1
+Synalar|1
+fluocinolone acetonide body|1
+fluocinolone acetonide crea 0.01%|1
+fluocinolone acetonide ear drops oil 0.01%|1
+fluocinolone acetonide external soln 0.01%|1
+fluocinolone acetonide oil 0.01%|1
+fluocinolone acetonide scalp|1
+fluocinonide  crea 0.1%|1
+Vanos|1
+fluocinonide crea 0.05%|1
+fluocinonide|1
+fluocinonide-e|1
+fluticasone propionate |1
+Cutivate|1
+halobetasol  propionate |1
+Ultravate|1
+hemril-30|1
+hydrocortisone  |1
+Cortef|1
+hydrocortisone   enem|1
+Cortenema|1
+hydrocortisone  acetate  supp 30mg|1
+Proctocort|1
+hydrocortisone acetate supp 25mg|1
+hydrocortisone acetate/pramoxine    crea|1
+Analpram- hc|1
+hydrocortisone acetate/pramoxine   rectal crea|1
+Analpram- hc|1
+hydrocortisone butyrate  (Locoid lipocream)|1
+lipid|1
+hydrocortisone  butyrate |1
+Locoid|1
+hydrocortisone 2.5%|1
+hydrocortisone  valerate  oint|1
+Westcort|1
+hydrocortisone valerate crea|1
+hydrocortisone/iodoquinol|1
+lidocaine  hcl-hydrocortisone acetate with aloe|1
+lidocaine  hcl/hydrocortisone acetate crea|1
+lokara|1
+methylprednisolone  |1
+Medrol|1
+methylprednisolone dose pack  |1
+Medrol dosepak|1
+millipred dp|1
+millipred |1
+mometasone furoate |1
+Elocon|1
+prednicarbate  |1
+Dermatop|1
+prednisolone |1
+Prelone|1
+prednisolone sodium phosphate  oral soln 15mg/5ml|1
+Orapred|1
+prednisolone sodium phosphate  oral soln 5mg/5ml, 6.7mg/5ml|1
+Pediapred|1
+prednisolone sodium phosphate oral soln 25mg/5ml|1
+prednisone|1
+prednisone intensol|1
+procto-pak|1
+proctosol hc|1
+proctozone-hc|1
+rectacort-hc|1
+scalacort|1
+triamcinolone  acetonide|1
+trianex|1
+triderm|1
+u-cort|1
+desmopressin acetate  nasal soln 0.01%|1
+Ddavp|1
+desmopressin acetate  |1
+Ddavp|1
+Egrifta|4
+Nutropin|4
+Nutropin aq|4
+Saizen|4
+misoprostol |1
+Cytotec|1
+oxandrolone  |1
+Oxandrin|1
+my way|1
+Androgel gel 20.25mg/1.25gm|3
+Androgel gel 40.5mg/2.5gm|3
+Androgel gel 25mg/2.5gm, 50mg/5gm|3
+androxy|1
+covaryx|1
+covaryx hs|1
+danazol|1
+eemt|1
+eemt hs|1
+esterified estrogens/methyltestosterone|1
+esterified estrogens/methyltestosterone ds|1
+esterified estrogens/methyltestosterone  hs|1
+methyltestosterone/esterified estrogens|1
+methyltestosterone/esterified estrogens hs|1
+testosterone cypionate |1
+Depo- testosterone|1
+testosterone  enanthate|1
+altavera|1
+alyacen 1/35|1
+alyacen 7/7/7|1
+amethia|1
+amethia lo|1
+amethyst|1
+apri|1
+aranelle|1
+aubra|1
+aviane|1
+azurette|1
+balziva|1
+Beyaz|3
+briellyn|1
+camrese|1
+camrese lo|1
+caziant|1
+cesia|1
+chateal|1
+covaryx|1
+covaryx hs|1
+cryselle-28|1
+cyclafem 1/35|1
+cyclafem 7/7/7|1
+dasetta 1/35|1
+dasetta 7/7/7|1
+daysee|1
+desogestrel/ethinyl  estradiol |1
+Desogen|1
+drospirenone/ethinyl  estradiol |1
+Yasmin 28|1
+eemt|1
+eemt hs|1
+elinest|1
+emoquette|1
+enpresse-28|1
+enskyce|1
+estarylla|1
+esterified estrogens/methyltestosterone|1
+esterified estrogens/methyltestosterone ds|1
+esterified estrogens/methyltestosterone  hs|1
+estradiol  ptwk|1
+Climara|1
+estradiol  |1
+Estrace|1
+estradiol valerate |1
+Delestrogen|1
+estradiol/norethindrone acetate |1
+Activella|1
+Estring|3
+estropipate|1
+falmina|1
+gianvi|1
+gildagia|1
+gildess 1.5/30|1
+gildess 1/20|1
+gildess fe 1.5/30|1
+gildess fe 1/20|1
+introvale|1
+jinteli|1
+jolessa|1
+junel 1.5/30|1
+junel 1/20|1
+junel fe 1.5/30|1
+junel fe 1/20|1
+kariva|1
+kelnor 1/35|1
+kurvelo|1
+larin fe 1.5/30|1
+larin fe 1/20|1
+leena|1
+lessina|1
+levonest|1
+levonorgestrel and ethinyl estradiol |1
+Loseasonique|1
+levonorgestrel/ethinyl  estradiol|1
+levora 0.15/30-28|1
+lomedia 24 fe|1
+loryna|1
+low-ogestrel|1
+lutera|1
+marlissa|1
+methyltestosterone/esterified estrogens|1
+methyltestosterone/esterified estrogens hs|1
+microgestin 1.5/30|1
+microgestin 1/20|1
+microgestin fe|1
+microgestin fe 1.5/30|1
+mimvey|1
+Minastrin 24 fe|3
+Minivelle|3
+mono-linyah|1
+mononessa|1
+myzilra|1
+Natazia|3
+necon 0.5/35-28|1
+necon 1/35|1
+necon 1/50-28|1
+necon 10/11-28|1
+necon 7/7/7|1
+norgestimate/ethinyl  estradiol  |1
+Ortho tri-cyclen|1
+norgestimate/ethinyl  estradiol  |1
+Ortho-cyclen|1
+nortrel 0.5/35 |1
+28|1
+nortrel 1/35|1
+nortrel 7/7/7|1
+ocella|1
+ogestrel|1
+orsythia|1
+Ortho evra|3
+ortho-est|1
+philith|1
+pimtrea|1
+pirmella 1/35|1
+pirmella 7/7/7|1
+portia-28|1
+Premarin crea|3
+Premarin |3
+Prempro|3
+previfem|1
+quasense|1
+reclipsen|1
+solia|1
+sprintec 28|1
+sronyx|1
+syeda|1
+tilia fe|1
+tri-legest fe|1
+tri-linyah|1
+tri-previfem|1
+tri-sprintec|1
+trinessa|1
+trivora-28|1
+velivet|1
+vestura|1
+viorele|1
+Vivelle-dot|3
+vyfemla|1
+wera|1
+wymzya fe|1
+zarah|1
+zenchent|1
+zenchent fe|1
+zovia 1/35e|1
+zovia 1/50e|1
+altavera|1
+alyacen 1/35|1
+alyacen 7/7/7|1
+amethia|1
+amethia lo|1
+amethyst|1
+apri|1
+aranelle|1
+aubra|1
+aviane|1
+azurette|1
+balziva|1
+Beyaz|3
+briellyn|1
+camila|1
+camrese|1
+camrese lo|1
+caziant|1
+cesia|1
+chateal|1
+cryselle-28|1
+cyclafem 1/35|1
+cyclafem 7/7/7|1
+dasetta 1/35|1
+dasetta 7/7/7|1
+daysee|1
+desogestrel/ethinyl  estradiol |1
+Desogen|1
+drospirenone/ethinyl  estradiol |1
+Yasmin 28|1
+elinest|1
+emoquette|1
+enpresse-28|1
+enskyce|1
+errin|1
+estarylla|1
+estradiol/norethindrone acetate |1
+Activella|1
+falmina|1
+gianvi|1
+gildagia|1
+gildess 1.5/30|1
+gildess 1/20|1
+gildess fe 1.5/30|1
+gildess fe 1/20|1
+heather|1
+introvale|1
+jencycla|1
+jinteli|1
+jolessa|1
+jolivette|1
+junel 1.5/30|1
+junel 1/20|1
+junel fe 1.5/30|1
+junel fe 1/20|1
+kariva|1
+kelnor 1/35|1
+kurvelo|1
+larin fe 1.5/30|1
+larin fe 1/20|1
+leena|1
+lessina|1
+levonest|1
+levonorgestrel  |1
+Plan b one-step|1
+levonorgestrel  |1
+Plan b|1
+levonorgestrel and ethinyl estradiol |1
+Loseasonique|1
+levonorgestrel/ethinyl  estradiol|1
+levora 0.15/30-28|1
+lomedia 24 fe|1
+loryna|1
+low-ogestrel|1
+lutera|1
+lyza|1
+marlissa|1
+medroxyprogesterone  acetate  |1
+Provera|1
+microgestin 1.5/30|1
+microgestin 1/20|1
+microgestin fe|1
+microgestin fe 1.5/30|1
+mimvey|1
+Minastrin 24 fe|3
+mono-linyah|1
+mononessa|1
+myzilra|1
+Natazia|3
+necon 0.5/35-28|1
+necon 1/35|1
+necon 1/50-28|1
+necon 10/11-28|1
+necon 7/7/7|1
+next choice one dose|1
+nora-be|1
+norethindrone |1
+Nor-qd|1
+norethindrone  acetate |1
+Aygestin|1
+norgestimate/ethinyl  estradiol  |1
+Ortho tri-cyclen|1
+norgestimate/ethinyl  estradiol  |1
+Ortho-cyclen|1
+nortrel 0.5/35 |1
+28|1
+nortrel 1/35|1
+nortrel 7/7/7|1
+Nuvaring|3
+ocella|1
+ogestrel|1
+orsythia|1
+Ortho evra|3
+philith|1
+pimtrea|1
+pirmella 1/35|1
+pirmella 7/7/7|1
+portia-28|1
+Prempro|3
+previfem|1
+progesterone   caps|1
+Prometrium|1
+progesterone inj|1
+quasense|1
+reclipsen|1
+solia|1
+sprintec 28|1
+sronyx|1
+syeda|1
+tilia fe|1
+tri-legest fe|1
+tri-linyah|1
+tri-previfem|1
+tri-sprintec|1
+trinessa|1
+trivora-28|1
+velivet|1
+vestura|1
+viorele|1
+vyfemla|1
+wera|1
+wymzya fe|1
+zarah|1
+zenchent|1
+zenchent fe|1
+zovia 1/35e|1
+zovia 1/50e|1
+Evista|2
+Armour thyroid|3
+levothyroxine sodium  |1
+Synthroid|1
+liothyronine sodium  |1
+Cytomel|1
+Synthroid|2
+Lysodren|2
+Sensipar|2
+bromocriptine  mesylate |1
+Parlodel|1
+cabergoline|1
+leuprolide acetate|4
+octreotide acetate|4
+Synarel|4
+bicalutamide |1
+Casodex|1
+finasteride  |1
+Proscar|1
+flutamide|1
+methimazole |1
+Tapazole|1
+propylthiouracil|1
+azathioprine |1
+Imuran|1
+Cellcept susr|2
+Cuprimine|2
+cyclosporine   caps|1
+Sandimmune|1
+cyclosporine modified  caps|1
+Neoral|1
+cyclosporine modified  oral soln|1
+Neoral|1
+Depen titra|2
+Elidel|2
+Enbrel|4
+gengraf|1
+hecoria|1
+Humira|4
+mercaptopurine  |1
+Purinethol|1
+methotrexate|1
+methotrexate sodium inj|1
+mycophenolate  mofetil |1
+Cellcept|1
+mycophenolic acid dr |1
+Myfortic|1
+Rapamune oral soln|2
+Rapamune |2
+Sandimmune caps|2
+Sandimmune oral soln|2
+sirolimus  |1
+Rapamune|1
+tacrolimus |1
+Prograf|1
+Zortress |2
+Zortress |2
+Avonex|4
+Avonex pen|4
+Betaseron|4
+Enbrel|4
+Extavia|4
+Humira|4
+hydroxychloroquine  sulfate |1
+Plaquenil|1
+leflunomide |1
+Arava|1
+Rebif|4
+Rebif rebidose|4
+Rebif titration pack|4
+Ridaura|2
+Tecfidera|4
+Tecfidera starter pack|4
+Apriso|3
+balsalazide disodium |1
+Colazal|1
+Lialda|3
+mesalamine  kit|1
+Rowasa|1
+mesalamine enem|1
+baycadron|1
+budesonide  cp24|1
+Entocort ec|1
+colocort|1
+cortisone acetate|1
+dexamethasone|1
+dexamethasone  intensol|1
+hydrocortisone  |1
+Cortef|1
+hydrocortisone   enem|1
+Cortenema|1
+methylprednisolone  |1
+Medrol|1
+methylprednisolone dose pack  |1
+Medrol dosepak|1
+millipred dp|1
+millipred |1
+prednisolone |1
+Prelone|1
+prednisolone sodium phosphate  oral soln 15mg/5ml|1
+Orapred|1
+prednisolone sodium phosphate  oral soln 5mg/5ml, 6.7mg/5ml|1
+Pediapred|1
+prednisolone sodium phosphate oral soln 25mg/5ml|1
+prednisone|1
+prednisone intensol|1
+sulfasalazine  |1
+Azulfidine|1
+sulfazine|1
+sulfazine ec|1
+Actonel |2
+Actonel |2
+Actonel |2
+Actonel |2
+alendronate sodium  |1
+Fosamax|1
+alendronate sodium oral soln|1
+alendronate sodium |1
+alendronate sodium |1
+alendronate sodium |1
+calcitonin salmon |1
+Miacalcin|1
+calcitriol |1
+Rocaltrol|1
+etidronate disodium|1
+Fosamax plus d |2
+ibandronate sodium |1
+Boniva|1
+Accu-chek active strips|2
+Accu-chek aviva plus strp|2
+Accu-chek aviva strp|2
+Accu-chek comfort curve test strips|2
+Accu-chek compact plus|2
+Accu-chek compact test drum|2
+Accu-chek smartview strips strp|2
+Accu-chek softclix lancets|2
+Accutrend glucose|2
+Aerochamber|2
+Femcap|2
+Insulin Syringes|2
+levocarnitine  oral soln|1
+Carnitor|1
+levocarnitine  |1
+Carnitor|1
+megestrol acetate  susp 40mg/ml|1
+Megace oral|1
+megestrol acetate |1
+methylergonovine  maleate |1
+Onetouch ultra blue|2
+Onetouch verio test strips strp|2
+Optichamber|2
+Ortho diaphragm coil spring kit|2
+Prentif cavity-rim cervical cap|2
+Prentif fitting set|2
+Surestep pro test strips|2
+Wide-seal silicone diaphragm kit|2
+latanoprost |1
+Xalatan|1
+Lumigan|2
+travoprost|1
+ak-poly-bac|1
+altafrin|1
+atropine sulfate  ophthalmic soln|1
+Isopto atropine|1
+atropine sulfate oint|1
+atropine-care|1
+bacitracin/polymyxin b|1
+homatropaire|1
+homatropine hbr |1
+Isopto homatropine|1
+mydfrin|1
+mydral|1
+naphazoline hcl|1
+neo-polycin|1
+neofrin|1
+neomycin/bacitracin/polymyxin|1
+neomycin/polymyxin/bacitracin zinc|1
+parcaine|1
+phenylephrine hcl ophthalmic soln|1
+polycin|1
+polycin b|1
+proparacaine hcl |1
+Alcaine|1
+Restasis|3
+sodium sulfacetamide  ophthalmic soln|1
+Bleph-10|1
+sulfacetamide sodium oint|1
+tropicamide  ophthalmic soln|1
+Mydriacyl|1
+azelastine hcl  ophthalmic soln 0.05%|1
+Optivar|1
+cromolyn sodium ophthalmic soln|1
+epinastine hcl |1
+Elestat|1
+Pataday|3
+bromfenac|1
+Ciprodex|3
+dexamethasone  sodium phosphate ophthalmic soln|1
+diclofenac sodium ophthalmic soln|1
+fluorometholone |1
+Fml liquifilm|1
+flurbiprofen sodium |1
+Ocufen|1
+ketorolac  tromethamine  ophthalmic soln 0.4%|1
+Acular ls|1
+ketorolac  tromethamine  ophthalmic soln 0.5%|1
+Acular|1
+Lotemax gel|3
+Lotemax susp|3
+neo-polycin hc|1
+neomycin/polymyxin/ tbacitracin/hydrocortisone|1
+neomycin/polymyxin/ dexamethasone  |1
+Maxitrol|1
+poly-dex|1
+prednisolone acetate |1
+Omnipred|1
+prednisolone sodium phosphate ophthalmic soln|1
+sulfacetamide sodium/prednisolone  sodium phosphate|1
+tobramycin/dexamethasone  susp|1
+Tobradex|1
+Zylet|2
+acetazolamide|1
+acetazolamide er |1
+Diamox|1
+apraclonidine |1
+Iopidine|1
+betaxolol hcl ophthalmic soln|1
+brimonidine tartrate  ophthalmic soln 0.15%|1
+Alphaganp|1
+brimonidine tartrate ophthalmic soln 0.2%|1
+carteolol hcl|1
+dorzolamide hcl |1
+Trusopt|1
+dorzolamide hcl/timolol maleate |1
+Cosopt|1
+levobunolol hcl  ophthalmic soln 0.5%|1
+Betagan|1
+levobunolol hcl ophthalmic soln 0.25%|1
+methazolamide  |1
+Neptazane|1
+metipranolol  |1
+Optipranolol|1
+pilocarpine hcl  ophthalmic soln|1
+Isopto carpine|1
+timolol maleate  ophthalmic soln|1
+Timoptic|1
+timolol maleate ophthalmic gel forming |1
+Timoptic-xe|1
+acetasol hc|1
+acetic acid|1
+acetic acid/aluminum acetate|1
+aero otic hc|1
+antipyrine/benzocaine|1
+aurodex|1
+cortane-b-otic|1
+cyotic|1
+exotic-hc|1
+hydrocortisone/acetic  acid |1
+Vosol hc|1
+neomycin/polymyxin/hc |1
+Cortisporin|1
+oticin|1
+oticin hc nr|1
+oto-end 10|1
+otomax-hc|1
+otozin|1
+pramoxine hc|1
+treagan otic|1
+Advair diskus|3
+budesonide  susp|1
+Pulmicort|1
+flunisolide|1
+fluticasone propionate  susp|1
+Flonase|1
+Nasonex|2
+Omnaris|2
+Qvar aers 80mcg/act|2
+Qvar aers 40mcg/act|2
+Symbicort|3
+Astepro|3
+azelastine hcl nasal soln|1
+carbinoxamine  maleate|1
+clemastine fumarate|1
+cyproheptadine hcl|1
+desloratadine |1
+Clarinex|1
+dexchlorpheniramine  maleate|1
+hydroxyzine hcl|1
+hydroxyzine pamoate  caps|1
+Vistaril|1
+levocetirizine  dihydrochloride |1
+Xyzal|1
+promethazine hcl|1
+promethegan supp 12.5mg, 25mg|1
+montelukast sodium  chew|1
+Singulair|1
+montelukast sodium  pack 4mg|1
+Singulair|1
+montelukast sodium  |1
+Singulair|1
+zafirlukast |1
+Accolate|1
+Atrovent hfa|3
+ipratropium bromide  nasal soln 0.03%|1
+Atrovent|1
+ipratropium bromide  nasal soln 0.06%|1
+Atrovent|1
+ipratropium bromide inhalation soln|1
+ipratropium  bromide/albuterol sulfate |1
+Duoneb|1
+Spiriva handihaler|3
+difil-g forte|1
+theochron|1
+theophylline|1
+theophylline er|1
+Advair diskus|3
+albuterol sulfate er |1
+Vospire er|1
+albuterol sulfate nebu 0.5%|1
+albuterol sulfate nebu 0.083%, 0.5%, 0.63mg/3ml, 1.25mg/3ml|1
+albuterol sulfate syrp|1
+albuterol sulfate |1
+epinephrine|1
+Epipen|2
+ipratropium  bromide/albuterol sulfate |1
+Duoneb|1
+levalbuterol |1
+Xopenex concentrate|1
+levalbuterol hcl |1
+Xopenex|1
+metaproterenol sulfate|1
+Proair hfa|2
+Symbicort|3
+terbutaline sulfate |1
+Ventolin hfa|3
+Xopenex hfa|3
+cromolyn sodium nebu|1
+Adcirca|4
+Letairis|4
+sildenafil citrate |4
+Revatio|4
+Tracleer|4
+acetylcysteine inhalation soln|1
+benzonatate  caps|1
+Tessalon perles|1
+difil-g forte|1
+hydromet|1
+hydroxyzine hcl |1
+nebusal nebu 3%|1
+promethazine-dm|1
+pulmosal|1
+sodium chloride  nebu 7%|1
+Hyper-sal|1
+sodium chloride nebu 0.9%, 10%, 3%|1
+sski|1
+carisoprodol  |1
+Soma|1
+carisoprodol |1
+carisoprodol/aspirin|1
+carisoprodol/aspirin/codeine|1
+chlorzoxazone |1
+Parafon forte dsc|1
+cyclobenzaprine hcl  |1
+Fexmid|1
+cyclobenzaprine hcl |1
+metaxalone |1
+Skelaxin|1
+methocarbamol  |1
+Robaxin|1
+orphenadrine citrate er|1
+orphenadrine/asa/caffeine|1
+flurazepam hcl caps 30mg|1
+flurazepam hcl caps 15mg|1
+temazepam  caps 22.5mg, 30mg|1
+Restoril|1
+temazepam  caps 15mg|1
+Restoril|1
+temazepam  caps 7.5mg|1
+Restoril|1
+triazolam  |1
+Halcion|1
+triazolam  |1
+Halcion|1
+zaleplon  caps 10mg|1
+Sonata|1
+zaleplon  caps 5mg|1
+Sonata|1
+zolpidem tartrate  |1
+Ambien|1
+zolpidem tartrate  |1
+Ambien|1
+zolpidem tartrate er  tbcr 12.5mg|1
+Ambien cr|1
+zolpidem tartrate er  tbcr 6.25mg|1
+Ambien cr|1
+modafinil  |1
+Provigil|1
+modafinil  |1
+Provigil|1
+phenobarbital|1
+Chemet|2
+Cuprimine|2
+Depen titra|2
+kionex|1
+sodium polystyrene sulfonate  powd|1
+Kayexalate|1
+sodium polystyrene sulfonate  susp|1
+Sps|1
+Syprine|2
+calcium acetate  caps 667mg|1
+Phoslo|1
+calcium acetate |1
+calcium-folic acid plus d|1
+centratex|1
+citric acid/sodium citrate|1
+corvita 150|1
+cytra k crystals|1
+cytra-2|1
+cytra-3|1
+cytra-k|1
+effer-k tbef 25meq|1
+effervescent potassium|1
+effervescent potassium/chloride|1
+eliphos|1
+fe c plus|1
+ferocon|1
+ferraplus 90|1
+ferrex 150 forte|1
+ferrex 150 forte plus|1
+ferrex 28|1
+ferrocite plus|1
+ferrogels forte|1
+folivane-f|1
+folivane-plus|1
+hematinic plus vitamins/minerals|1
+hematinic/folic acid|1
+hematogen fa|1
+hematogen forte|1
+heme|1
+iferex 150 forte|1
+k-effervescent|1
+k-prime|1
+k-vescent|1
+klor-con|1
+klor-con 10|1
+klor-con 8|1
+klor-con m10|1
+klor-con m15|1
+klor-con m20|1
+klor-con/ef|1
+multigen|1
+multigen folic|1
+multigen plus|1
+myferon 150 forte|1
+natalvirt flt|1
+phospha 250 neutral|1
+poly-iron 150 forte|1
+potassium bicarbonate|1
+potassium chloride er  cpcr|1
+Micro-k|1
+potassium chloride er tbcr 10meq, 20meq, 8meq|1
+potassium chloride liqd|1
+potassium chloride oral soln|1
+potassium chloride sr|1
+potassium citrate|1
+potassium citrate er|1
+purevit dualfe plus|1
+se-tan plus|1
+shohls solution modified|1
+taron forte|1
+taron-crystals|1
+tl icon|1
+tl-hem 150|1
+tri-vitamin/fluoride|1
+tricitrates|1
+tricon|1
+trigels-f forte|1
+centratex|1
+corvita|1
+corvita 150|1
+ergocalciferol  caps|1
+Drisdol|1
+fe c plus|1
+ferocon|1
+ferraplus 90|1
+ferrex 150 forte|1
+ferrex 150 forte plus|1
+ferrex 28|1
+ferrogels forte|1
+folbee|1
+folbee plus cz|1
+folivane-f|1
+folivane-plus|1
+folplex 2.2|1
+hematinic/folic acid|1
+hematogen fa|1
+hematogen forte|1
+heme|1
+iferex 150 forte|1
+multi-vitamin/fluoride|1
+multigen|1
+multigen folic|1
+multigen plus|1
+myferon 150 forte|1
+natalvirt flt|1
+niacin er  tbcr 1000mg, 750mg|1
+Niaspan|1
+niacin er  tbcr 500mg|1
+Niaspan|1
+poly-iron 150 forte|1
+prenatal low iron |1
+purevit dualfe plus|1
+rena-vite rx|1
+se-tan plus|1
+taron forte|1
+tl icon|1
+tri-vit/fluoride/iron|1
+tri-vitamin/fluoride|1
+tricon|1
+trigels-f forte|1
+vinate az|1
+vinate az extra|1
+vinate c|1
+vinate calcium|1
+vinate care|1
+vinate gt|1
+vinate ic|1
+vinate m|1
+vinate one|1
+vinate pn care|1
+vinate ultra|1
+vitamin d  caps 50000unit|1
+Drisdol|1
+vol-care rx|1

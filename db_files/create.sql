@@ -1,0 +1,29 @@
+CREATE TABLE IF NOT EXISTS Drugs(
+    Id INTEGER NOT NULL PRIMARY KEY, 
+    Name TEXT UNIQUE ON CONFLICT IGNORE, 
+    EqClass INT
+    );
+
+CREATE TABLE IF NOT EXISTS Carriers(
+    Id INTEGER NOT NULL PRIMARY KEY, 
+    Name TEXT UNIQUE ON CONFLICT IGNORE
+    );
+
+CREATE TABLE IF NOT EXISTS Covers(
+    CarrierId INTEGER,
+    DrugId INTEGER,
+    CoverageTier INTEGER,
+    Id INTEGER NOT NULL PRIMARY KEY,
+
+    FOREIGN KEY(DrugId) REFERENCES Drugs(Id),
+    FOREIGN KEY(CarrierId) REFERENCES Carriers(Id),
+
+    UNIQUE(DrugId, CarrierId) ON CONFLICT IGNORE
+
+    );
+
+INSERT INTO Carriers(Name) VALUES('Anthem');
+INSERT INTO Carriers(Name) VALUES('BlueShield');
+INSERT INTO Carriers(Name) VALUES('Cigna');
+INSERT INTO Carriers(Name) VALUES('Medicare');
+

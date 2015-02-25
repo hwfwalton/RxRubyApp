@@ -1,0 +1,1370 @@
+amphetamine|1
+dextroamphetamine|1
+dexmethylphenidate|1
+methamphetamine|1
+methylphenidate/ER/ER 24 HR|1
+modafanil|1
+didanosine|1
+lamivudine/zidovudine|1
+stavudine|1
+azelastine nasal|1
+clemastine fumarate|1
+cyproheptadine|1
+epinastine|1
+Epipen|1
+flunisolide nasal|1
+fluticasone nasal|1
+hydroxyzine|1
+ipratropium nasal|1
+levocetirizine|1
+triamcinolone nasal|1
+alprazolam|1
+buspirone|1
+lorazepam|1
+oxazepam|1
+terbutaline sulfate|1
+theophylline anhydrous|1
+zafirlukast|1
+albuterol solution|1
+albuterol sulfate|1
+aminophylline|1
+budesonide|1
+caffeine citrate|1
+cromolyn sodium|1
+Dylix|1
+dyphylline|1
+guaifenesin/dyphylline|1
+guaifenesin/theophylline|1
+ipratropium bromide|1
+levalbuterol|1
+metaproterenol sulfate|1
+Myci - Bron G|1
+oxybutynin/XL|1
+trospium chloride|1
+Ameithia|1
+Apri|1
+Aviane|1
+Balziva|1
+Camila|1
+Camrese|1
+Errin|1
+Gianvi|1
+Jolessa|1
+Junel FE|1
+Kariva|1
+Levora|1
+Low-Ogestrel|1
+Microgestin|1
+Necon|1
+Nortrel|1
+Ocella|1
+Ogestrel|1
+Previfem|1
+Quasense|1
+Solia|1
+Sprintec|1
+Trinessa|1
+Tri-Sprintec|1
+Zenchent|1
+Zovia|1
+anastrozole|1
+bicalutamide|1
+exemestane|1
+flutamide*|1
+letrozole|1
+tamoxifen citrate|1
+acebutolol HCl|1
+acetazolamide|1
+amiloride HCl|1
+amlodipine besylate|1
+amlodipine/ atorvastatin|1
+calcium|1
+amlodipine besylate/benazepril|1
+apresoline|1
+atenolol|1
+benazepril HCl|1
+benazepril HCl/amlodipine|1
+benazepril HCl/HCTZ|1
+bendroflumethiazide/nadolol|1
+betaxolol HCl|1
+bisoprolol fumarate|1
+bisoprolol/HCTZ|1
+bumetanide|1
+captopril|1
+captopril/HCTZ|1
+carvedilol|1
+chlorothiazide|1
+chlorthalidone|1
+chlorthalidone/atenolol|1
+clonidine|1
+clonidine HCl|1
+Clorpres|1
+diltiazem|1
+diltiazem 24HR ER|1
+doxazosin mesylate|1
+enalapril maleate|1
+enalapril maleate/HCTZ|1
+eplerenone|1
+eprosartan mesylate|1
+felodipine|1
+fosinopril sodium|1
+fosinopril sodium/HCTZ|1
+furosemide|1
+guanabenz acetate|1
+guanfacine|1
+hydralazine HCl|1
+hydralazine/HCTZ|1
+hydralazine/reserpine/HCTZ|1
+hydrochlorothiazide|1
+hydrochlorothiazide/amilor HCl|1
+hydroflumethiazide|1
+indapamide|1
+irbesartan|1
+irbesartan / HCTZ|1
+isradipine|1
+labetalol HCl|1
+lisinopril|1
+lisinopril/HCTZ|1
+losartan potassium|1
+losartan potassium/HCTZ|1
+methazolamide|1
+methyldopa|1
+methyldopa/HCTZ|1
+metolazone|1
+metoprolol succinate|1
+metoprolol tartrate|1
+metoprolol/HCTZ|1
+minoxidil|1
+moexipril HCl|1
+moexipril HCl/HCTZ|1
+nadolol|1
+nicardipine HCl|1
+nifedipine|1
+nimodipine|1
+perindopril erbumine|1
+pindolol|1
+prazosin HCl|1
+propranolol HCl|1
+propranolol/HCTZ|1
+quinapril|1
+quinapril HCl/HCTZ|1
+ramipril|1
+rauwolfia serpentina/BFMTZ|1
+reserpine|1
+reserpine/HCTZ|1
+sotalol HCl|1
+spironolactone|1
+spironolactone/HCTZ|1
+terazosin HCl|1
+timolol maleate|1
+torsemide|1
+trandolapril|1
+triamterene/HCTZ|1
+verapamil|1
+verapamil SR|1
+amitriptyline|1
+bupropion|1
+bupropion SR|1
+citalopram|1
+desipramine|1
+escitalopram|1
+fluoxetine|1
+fluvoxamine|1
+imipramine|1
+mirtazapine|1
+nortriptyline|1
+paroxetine|1
+paroxetine CR|1
+protriptyline|1
+sertraline|1
+trazodone|1
+trimipramine|1
+venlafaxine|1
+venlafaxine XR|1
+anagrelide (PA)|1
+cilostazol|1
+clopidogrel|1
+dipyridamole|1
+enoxaparin|1
+fondaparinux|1
+heparin|1
+ticlopidine|1
+warfarin|1
+atorvastatin|1
+cholestyramine powder|1
+colestipol|1
+fenofibrate|1
+fenofibric acid|1
+fluvastatin/XL|1
+gemfibrozil|1
+lovastatin|1
+pravastatin|1
+simvastatin|1
+acetaminophen/caffeine/butalbital|1
+naratriptan (QL)|1
+sumatriptan (QL)|1
+amiodarone|1
+digoxin|1
+disopyramide|1
+flecainide|1
+isosorbide dinitrate|1
+isosorbide mononitrate|1
+nitroglycerin|1
+procainamide|1
+propafenone SR|1
+acyclovir|1
+amantadine|1
+amoxicillin|1
+amoxicillin/clavulanate|1
+azithromycin|1
+cefaclor ER|1
+cefadroxil|1
+cefprozil|1
+ceftriaxone|1
+cefuroxime axetil|1
+cephalexin|1
+ciclopirox|1
+ciprofloxacin|1
+clarithromycin|1
+clindamycin|1
+doxycycline|1
+erythromycin|1
+famciclovir|1
+fluconazole|1
+flucytosine|1
+ganciclovir|1
+gentamicin sulfate|1
+griseofulvin|1
+itraconazole (QL)|1
+ketoconazole|1
+metronidazole|1
+minocycline|1
+minocycline SR|1
+mupirocin|1
+nitrofurantoin|1
+nystatin|1
+ofloxacin|1
+penicillin v potassium|1
+ribavirin*|1
+rimantadine|1
+sulfamethoxazole/|1
+trimethoprim|1
+terconazole|1
+terbinafine (QL)|1
+tetracycline|1
+valacyclovir|1
+vancomycin|1
+voriconazole (PA)|1
+balsalazide|1
+cromolyn sodium|1
+PEG 3350/potassium/sodium|1
+bicarb/salt|1
+PEG 3350/potassium/sodium|1
+bicarb/salt/sodium sulf|1
+estradiol|1
+estropipate|1
+ethinyl estradiol|1
+levothroid|1
+levothyroxine|1
+Levoxyl|1
+liothyronine|1
+medroxyprogesterone|1
+progesterone, micronized|1
+testosterone cypionate|1
+testosterone enanthate|1
+thyroid|1
+Unithroid|1
+zaleplon|1
+zolpidem|1
+zolpidem ER|1
+allopurinol|1
+cabergoline (QL)|1
+desmopressin|1
+fluoxymesterone|1
+octreotide (PA)|1
+aminocaproic acid|1
+buprenorphine|1
+cyclobenzaprine|1
+leucovorin*|1
+levocarnitine|1
+lindane|1
+megestrol|1
+methocarbamol|1
+naltrexone|1
+pentoxifylline|1
+pramoxine/hydrocortisone|1
+tizanidine|1
+calcitriol|1
+cyanocobalamin|1
+folic acid|1
+azathioprine|1
+cyclosporine|1
+mycophenolate moefetil|1
+tacrolimus|1
+atropine|1
+azelastine|1
+brimonidine|1
+bromfenac|1
+ciprofloxacin|1
+diclofenac|1
+dorzolamide|1
+dorzolamide/timolol|1
+flurbiprofen|1
+ketorolac|1
+latanoprost|1
+levobunolol|1
+levofloxacin|1
+pilocarpine|1
+timolol|1
+tobramycin/dexamethasone|1
+trifluridine|1
+adapalene (AGE)|1
+alclometasone dipropionate|1
+amcinonide|1
+amnesteem (QL)|1
+Apexicon E (diflorasone|1
+diacetate)|1
+betamethasone|1
+betamethasone dipropionate|1
+betamethasone dipropionate/|1
+propylene glycol|1
+betamethasone valerate|1
+calcipotriene|1
+calcitriol ointment|1
+Claravis (QL)|1
+clobetasol propionate|1
+clobetasol propionate/emoll|1
+desonide|1
+desoximetasone|1
+diflorasone diacetate|1
+fluocinolone acetonide|1
+fluocinonide/emollient|1
+fluorouracil topical|1
+fluticasone propionate|1
+halobetasol prop/|1
+ammonium lac|1
+halobetasol propionate|1
+hydrocortisone|1
+hydrocortisone acetate/aloe vera|1
+hydrocortisone acetate/urea|1
+hydrocortisone butyrate|1
+hydrocortisone valerate|1
+imiquimod|1
+Isotretinoin (QL)|1
+metronidazole|1
+mometasone furoate|1
+podofilox|1
+prednicarbate|1
+Sotret (QL)|1
+sulfacetamide|1
+tretinoin (AGE)|1
+triamcinolone acetonide|1
+urea|1
+cimetidine|1
+famotidine|1
+lansoprazole|1
+metoclopramide|1
+misoprostol|1
+nizatidine|1
+omeprazole|1
+omeprazole/sodium bicarbonate|1
+pantoprazole|1
+ranitidine|1
+sucralfate|1
+acarbose|1
+acetohexamide|1
+chlorpropamide|1
+glimepiride|1
+glipizide|1
+glipizide/metformin|1
+glucagon|1
+glyburide|1
+glyburide/metformin|1
+glyburide micronized|1
+metformin/ER|1
+nateglinide|1
+tolazamide|1
+tolbutamide|1
+alendronate sodium|1
+calcitonin-salmon|1
+Fortical|1
+ibandronate sodium|1
+dronabinol|1
+granisetron|1
+ondansetron|1
+prochlorperazine|1
+promethazine|1
+trimethobenzamide|1
+buprenorphine|1
+butorphanol nasal|1
+codeine phos/carisoprodol/asa|1
+codeine phosphate|1
+codeine phosphate/aspirin|1
+codeine sulfate|1
+cyclophosphamide|1
+diclofenac|1
+dihy-cod tt/apap/caffeine|1
+etodolac|1
+fenoprofen|1
+fentanyl transdermal (QL)|1
+fentanyl citrate (PA)|1
+flurbiprofen|1
+hydrocodone/acetaminophen|1
+hydrocodone bitartrate/apap|1
+hydrocodone bitartrate/aspirin|1
+hydromorphone HCl|1
+ibuprofen|1
+ibuprofen/hydrocod bit|1
+indomethacin|1
+ketoprofen|1
+ketorolac (QL)|1
+leflunamide|1
+levorphanol tartrate|1
+meclofenamate|1
+mefenamic acid|1
+meloxicam|1
+meperidine HCl|1
+methotrexate*|1
+morphine SR|1
+morphine sulfate|1
+nabumetone|1
+naproxen|1
+opium|1
+opium/belladonna alkaloids|1
+oxaprozin|1
+oxycodone HCl|1
+oxycodone HCl/acetaminophen|1
+oxycodone/aspirin|1
+oxymorphone|1
+pentazocine HCl/|1
+acetaminophen|1
+pentazocine HCl/naloxone HCl|1
+piroxicam|1
+sulindac|1
+tramadol HCl/ER|1
+tramadol HCl/acetaminophen|1
+tolmetin|1
+clozapine|1
+haloperidol|1
+loxapine|1
+olanzapine|1
+quetiapine|1
+risperidone|1
+thiothixene|1
+ziprasidone|1
+amantadine|1
+benztropine|1
+bromocriptine|1
+carbidopa/levodopa/entacapone|1
+carbidopa/levodopa SA|1
+pramipexole|1
+ropinirole|1
+selegiline|1
+alfuzosin|1
+doxazosin|1
+finasteride|1
+leuprolide acetate (PA)|1
+prazosin|1
+tamsulosin|1
+terazosin|1
+carbamazepine|1
+clonazepam|1
+diazepam|1
+divalproex|1
+felbamate|1
+gabapentin|1
+lamotrigine|1
+levetiracetam|1
+topiramate|1
+valproate|1
+zonisamide|1
+Adderall XR|2
+Focalin XR|2
+Intuniv|2
+Ritalin LA|2
+Strattera|2
+Vyvanse|2
+Bystolic|2
+Coreg CR|2
+Diovan (PA, ST)|2
+Diovan HCT (PA, ST)|2
+Exforge|2
+Exforge HCT|2
+Tarka|2
+Tekturna|2
+Tekturna HCT|2
+Arixtra|2
+Fragmin|2
+Innohep|2
+Agenerase|2
+Aptivus|2
+Crixivan|2
+Emtriva|2
+Epivir|2
+Epzicom|2
+Fuzeon (PA)|2
+Invirase|2
+Isentress|2
+Kaletra|2
+Lexiva|2
+Norvir|2
+Prezista|2
+Rescripto|2
+Reyataz|2
+Selzentry|2
+Sustiva|2
+Trizivir|2
+Truvada|2
+Viracept|2
+Viramune|2
+Viread|2
+Ziagen|2
+CeeNU|2
+Gleevec (PA)|2
+Hexalen|2
+Leukeran|2
+Lupron Depot (PA)|2
+Lysodren|2
+Matulane|2
+Myleran|2
+Neulasta|2
+Neupogen (PA)|2
+Nexavar (PA)|2
+Revlimid (PA)|2
+Sprycel (PA)|2
+Sutent (PA)|2
+Tarceva (PA)|2
+Temodar (PA)|2
+Thalomid (PA)|2
+Xeloda|2
+Zolinza (PA)|2
+BeYaz|2
+Loestrin 24 FE|2
+Lo Loestrin FE|2
+LoSeasonique|2
+NuvaRing|2
+Ortho Evra|2
+Ortho TriCyclen Lo|2
+Ovcon 50|2
+Plan B One-Step|2
+Seasonique|2
+Yaz|2
+Apriso|2
+Asacol|2
+Asacol HD|2
+Canasa|2
+Creon|2
+Entocort EC|2
+GoLytely|2
+Humira (PA)|2
+Lialda|2
+Pancrecarb|2
+Pentasa|2
+Ultrase|2
+Urso/Urso Forte|2
+Viokase|2
+Zenpep|2
+Aricept (23 mg)|2
+Namenda|2
+Cymbalta|2
+Pristiq|2
+Wellbutrin XL|2
+Lorazepam Intensol|2
+Alomide|2
+Alphagan P 0.10%|2
+AzaSite|2
+Azopt|2
+Betimol|2
+Betoptic S|2
+Ciloxan (ointment)|2
+Iopidine|2
+Lotemax (drops)|2
+Maxidex|2
+Moxeza|2
+Pataday|2
+Patanol|2
+Restasis|2
+Tobradex ointment|2
+Travatan Z|2
+Vexol|2
+Vigamox|2
+Detrol|2
+Detrol LA|2
+Elmiron|2
+Oxytrol|2
+Toviaz|2
+VESIcare|2
+Colcrys|2
+Increlex (PA)|2
+LupronDepot-PED(PA)|2
+Megace ES|2
+Nilandron|2
+Sandostatin LAR (PA)|2
+Sandostatin (PA)|2
+Somavert (PA)|2
+Uloric|2
+Advair Diskus/HFA|2
+Asmanex|2
+Atrovent HFA|2
+Combivent|2
+Flovent Diskus/HFA|2
+Maxair|2
+ProAir HFA|2
+Pulmicort|2
+Pulmozyme|2
+Qvar|2
+Revatio (PA)|2
+Serevent|2
+Singulair|2
+Spiriva|2
+Symbicort|2
+Ventolin HFA|2
+Xolair (PA)|2
+Lanoxin|2
+Multaq|2
+Nitrolingual spray|2
+Tikosyn|2
+ACCU-CHEK test strips|2
+Actoplus met|2
+Actos|2
+Apidra|2
+Apidra SoloStar|2
+BD Insulin Syringes/|2
+Pen Needles|2
+Byetta|2
+Duetact|2
+Fortamet|2
+GlucaGen HypoKit|2
+Humalog|2
+Humulin|2
+Janumet|2
+Janumet XR|2
+Januvia|2
+Kombiglyze XR|2
+Lantus|2
+Lantus SoloStar|2
+Levemir|2
+NovoFine needles|2
+Novolin|2
+Novolog|2
+One Touch test strips|2
+Onglyza|2
+Prandimet|2
+Prandin|2
+SymlinPen|2
+Victoza|2
+Humatrope (PA)|2
+Saizen (PA)|2
+Adrenaclick|2
+Astepro|2
+Epipen|2
+Epipen Jr.|2
+Nasonex|2
+Singulair|2
+Veramyst|2
+Baraclude|2
+Cipro HC Otic|2
+Ciprodex|2
+Epivir HBV|2
+Incivek (PA)|2
+Intron-A (PA)|2
+Gris-Peg|2
+Hepsera|2
+Mycostatin (tabs)|2
+Pegasys (PA)|2
+Primsol|2
+Tamiflu (QL)|2
+Tobi|2
+Aciphex|2
+Nexium|2
+Prevpac|2
+Alora|2
+Anadrol-50|2
+Androderm|2
+AndroGel|2
+Armour Thyroid|2
+Divigel|2
+Enjuvia|2
+Estraderm|2
+Menest|2
+Premarin|2
+Premphase|2
+Prempro|2
+Synthroid|2
+Testim|2
+Vivelle-Dot|2
+Lescol|2
+Lescol XL|2
+Lovaza|2
+Niaspan|2
+Simcor|2
+Trilipix|2
+Vytorin|2
+Welchol|2
+Zetia|2
+Seroquel XR|2
+Ampyra (PA)|2
+Avonex (PA)|2
+Copaxone (PA)|2
+Rebif (PA)|2
+Emend|2
+Maxalt (QL)|2
+Maxalt MLT (QL)|2
+Treximet (QL)|2
+Azilect|2
+Requip|2
+Requip XL|2
+Avodart|2
+Jalyn|2
+Boniva (inj only)|2
+Boniva|2
+Evista|2
+Forteo|2
+Miacalcin|2
+Celontin|2
+Diastat|2
+Diastat Acudial|2
+Gabitril|2
+Keppra|2
+Lamictal|2
+Lyrica|2
+Peganone|2
+Citranatal|2
+Duet|2
+Duet DHA|2
+Duet DHA EC Stuartna|2
+Duet DHA Stuartnatal|2
+Duet Stuartnatal|2
+Foltabs Prenatal Plus D|2
+Gesticare|2
+Gesticare DHA|2
+Natachew|2
+Natafort|2
+Neevo|2
+OB Complete|2
+OB Complete DHA|2
+Precare|2
+Precare Conceive|2
+Precare Premier|2
+PreferaOB|2
+Prenatal Vitamin|2
+Stuart Prenatal|2
+Stuartnatal Plus|2
+Stuartnatal Plus 3|2
+Tricare DHA|2
+Viva DHA|2
+Analpram Advanced|2
+Analpram HC|2
+Analpram-E|2
+Anamantle HC Forte|2
+Aranesp (PA)|2
+Epogen (PA)|2
+Follistim AQ (PA)|2
+Fosrenol|2
+Pramosone|2
+Procrit (PA)|2
+Proctofoam-HC|2
+Pulmuzyme (PA)|2
+Renvela|2
+Rilutek|2
+Suboxone|2
+TussiCaps|2
+Tussionex|2
+Uloric|2
+Zavesca (PA)|2
+Zemplar|2
+Actimmune (PA)|2
+Avinza|2
+Celebrex|2
+Dilaudid-5|2
+Dipentum|2
+Enbrel (PA)|2
+Humira (PA)|2
+Indocin (suppository)|2
+Kadian|2
+Lidoderm|2
+Lyrica|2
+Nucynta (ST)|2
+Nucynta ER (QL)|2
+OxyContin (QL)|2
+Ponstel|2
+Rheumatrex|2
+Roxicet|2
+Savella|2
+Suboxone|2
+Trexall|2
+Vimovo|2
+Azasan|2
+Cellcept|2
+Neoral|2
+Prograf|2
+Rapamune|2
+Sandimmune|2
+Muse|2
+Viagra (QL)|2
+Silenor|2
+Benzaclin|2
+Benzamycin Pak|2
+Carac|2
+Cloderm|2
+Derma-Smoothe/FS|2
+Differin (AGE)|2
+Dovonex cream|2
+Duac|2
+Enbrel (PA)|2
+Exelderm|2
+Fluoroplex|2
+Furacin|2
+Humira (PA)|2
+Kenalog spray|2
+Locoid (lotion)|2
+Locoid Lipocream|2
+Loprox shampoo|2
+Metrogel 1%|2
+Noritate|2
+Oracea|2
+Retin-A Micro (AGE)|2
+Soriatane|2
+Tazorac|2
+Capex Shampoo|2
+Carmol HC|2
+Carmol 40|2
+Carmol scalp|2
+Cordran|2
+Cordran SP|2
+Klaron|2
+Nucort|2
+Texacort|2
+Betaseron|3
+Extavia|3
+Gilenya|3
+Alsuma |3
+Amerge |3
+Axert |3
+DHE 45|3
+Frova |3
+Imitrex |3
+Migranal |3
+Relpax |3
+Sumavel DosePro |3
+Zomig/Zomig ZMT |3
+Augmentin|3
+Augmentin ES 600|3
+Augmentin XR|3
+Avelox|3
+Biaxin|3
+Biaxin XL|3
+Cedax|3
+Cefzil|3
+Cipro XR|3
+Coartem |3
+Copegu|3
+Dificid |3
+Ery-Tab|3
+Famvir|3
+Flagyl ER|3
+Floxin Otic|3
+Garamycin|3
+Infergen|3
+Keflex|3
+Keftab|3
+Lamisil |3
+Lariam|3
+Levaquin|3
+Malarone|3
+Monurol|3
+Moxatag|3
+Noxafil|3
+Omnicef|3
+PegIntron|3
+Penlac|3
+Priftin|3
+Rebeto|3
+Relenza |3
+Rocephin|3
+Solodyn |3
+Sporanox |3
+Suprax|3
+Tyzek|3
+Valtrex|3
+Vfend |3
+Victrelis|3
+Zithromax|3
+Zyvox |3
+Genotropin|3
+Norditropin|3
+Nordiflex|3
+Nutropin|3
+Nutropin AQ|3
+Omnitrope|3
+Serostim|3
+Tev-Tropin|3
+Acular LS|3
+Alamast|3
+Alocril|3
+Alrex|3
+Bepreve|3
+Besivance|3
+Ciloxan |3
+Cosopt|3
+Durezol|3
+Elestat|3
+Emadine|3
+Iquix|3
+Lastacaft|3
+Lotemax |3
+Optivar|3
+Timoptic|3
+Tobradex|3
+Tobradex ST|3
+Trusopt|3
+Vigamox|3
+Voltaren|3
+Zioptan |3
+Dexilant |3
+Helidac|3
+Prevacid |3
+Prilosec |3
+Protonix |3
+Zantac Effertab|3
+Zantac Syrup|3
+Zegerid |3
+Amitiza|3
+Cimzia|3
+Colazal|3
+Colyte|3
+NuLytely|3
+Pancreaze|3
+Relistor|3
+Remicade|3
+Sucrai|3
+Activella|3
+Axiron|3
+Cenestin|3
+Combipatch|3
+Cytomel|3
+Depot Testosterone|3
+Femhrt|3
+Femring|3
+Fortesta|3
+Prefest|3
+Prometrium|3
+Vagifem|3
+Egrifta|3
+Somatuline Depot |3
+Amaryl|3
+Avandamet|3
+Avandaryl|3
+Avandia|3
+Bydureon |3
+Cycloset|3
+Glucophage XR|3
+Glycron|3
+Glyset|3
+Jentadueto |3
+Juvisync |3
+Kombiglyze XR|3
+Metaglip|3
+Precose|3
+Starlix|3
+Tradjenta |3
+Anzemet|3
+Anzemet|3
+Kytril |3
+Kytril |3
+Marinol|3
+Sancuso |3
+Scopace|3
+Zofran |3
+Zofran |3
+Zuplenz |3
+Actonel|3
+Atelvia|3
+Fosamax|3
+Fosamax Plus D|3
+Skelid|3
+Abstral |3
+Actiq |3
+Arthrotec |3
+Butrans |3
+Cambia |3
+Cimzia|3
+Conzip|3
+Demerol|3
+Dilaudid|3
+Duexis |3
+Duragesic |3
+Exalgo |3
+Fentora |3
+Flector |3
+Horizant |3
+Hycet|3
+Kineret|3
+Lazanda |3
+Lorcet|3
+Lorcet Plus|3
+Lortab|3
+Magnacet|3
+Maxidone|3
+Mobic |3
+Nalfon |3
+Naprelan |3
+Norco|3
+Onsolis |3
+Opana|3
+Opana ER|3
+Oxecta|3
+Panlor SS|3
+Pennsaid |3
+Percocet|3
+Percodan|3
+Ponstel |3
+Primalev|3
+Remicade|3
+Roxicet|3
+Roxicodone|3
+Ryzolt|3
+Simponi|3
+Skelaxin|3
+Sprix |3
+Synalgos-DC|3
+Tylox|3
+Ultracet|3
+Ultram|3
+Ultram ER|3
+Vicodin|3
+Nitromist|3
+Pronestyl|3
+Ranexa |3
+Rythmol SR|3
+Samsca |3
+Vicodin ES|3
+Vicodin HP|3
+Vicoprofen|3
+Voltaren|3
+Voltaren Gel |3
+Voltaren XR|3
+Xodol|3
+Xolox|3
+Zamicet|3
+Zolvit|3
+Zydone|3
+Apoky|3
+Comtan|3
+Eldepryl|3
+Lodosyn|3
+Mirapex|3
+Mirapex ER|3
+Stalevo|3
+Tasmar|3
+Zelapar|3
+Aplenzin|3
+Celexa|3
+Effexor XR|3
+Emsam|3
+Lexapro|3
+Luvox CR|3
+Marplan|3
+Oleptro ER |3
+Paxil CR|3
+Prozac|3
+Remeron|3
+Sarafem|3
+Selfemra|3
+Tofranil|3
+Viibryd|3
+Vivactil|3
+Wellbutrin|3
+Wellbutrin SR|3
+Zoloft|3
+Firmagon |3
+Flomax|3
+Proscar|3
+Rapaflo|3
+Uroxatral|3
+Zoladex|3
+Zytig|3
+Abilify|3
+Abilify Discmelt|3
+Clozaril|3
+Fanapt|3
+Fazaclo|3
+Geodon|3
+Invega|3
+Latuda|3
+Moban|3
+Orap|3
+Risperdal|3
+Saphris|3
+Seroquel|3
+Zyprexa|3
+Advicor|3
+Altoprev |3
+Caduet|3
+Cholestyramine Light|3
+Colestid|3
+Crestor  Fenoglide|3
+Lipitor|3
+Livalo  Lofibra|3
+Mevacor |3
+Pravachol |3
+TriCor|3
+Zocor |3
+Accupril|3
+Accuretic|3
+Aceon|3
+Altace|3
+Amturnide|3
+Atacand |3
+Avalide |3
+Avapro |3
+Azor|3
+Benicar |3
+Benicar HCT |3
+Betapace AF|3
+Cardura|3
+Cardura XL|3
+Catapres, Catapres TTS|3
+Coreg|3
+Corgard|3
+Covera-HS|3
+Cozaar |3
+Dutoprol|3
+Dynacirc CR|3
+Edarbi |3
+Edarbychlor |3
+Hyzaar |3
+Inderal LA|3
+Innopran XL|3
+Levatol|3
+Lotensin|3
+Lotensin HCT|3
+Lotrel|3
+Mavik|3
+Micardis |3
+Micardis HCT |3
+Monopril|3
+Monopril HCT|3
+Nexiclon XR|3
+Norpace|3
+Norpace CR|3
+Norvasc|3
+Prinivil|3
+Prinzide|3
+Sular|3
+Tekamlo|3
+Teveten |3
+Teveten HCT |3
+Toprol XL|3
+Tribenzor|3
+Uniretic|3
+Univasc|3
+Vaseretic|3
+Vasotec|3
+Verelan|3
+Zestoretic|3
+Zestril|3
+Angeliq|3
+Desogen|3
+Ella|3
+Estrostep FE|3
+Levlen|3
+Lo/Ovral-28|3
+Loestrin|3
+Loestrin FE|3
+Lybrel|3
+Natazia|3
+Nordette|3
+Ortho-Cept|3
+Ortho-Novum 7-7-7|3
+Ovcon 35|3
+Safyral|3
+Seasonale|3
+Tri-Norinyl|3
+Triphasil|3
+Ditropan|3
+Ditropan XL|3
+Enablex|3
+Gelnique|3
+Sanctura|3
+Sanctura XR|3
+Afinitor|3
+Arimidex|3
+Aromasin|3
+Caprelsa|3
+Casode|3
+Droxia|3
+Fareston|3
+Femara|3
+Jakafi|3
+Sylatron|3
+Targreti|3
+Tasigna|3
+Tykerb|3
+Votrient|3
+Zelboraf|3
+Zytiga|3
+Aggrenox|3
+Agrylin|3
+Brillinta|3
+Jantoven|3
+Lovenox|3
+Plavix|3
+Pletal|3
+Pradaxa |3
+Xarelto |3
+Accolate|3
+Accuneb nebulizer|3
+Adcirca|3
+Alvesco|3
+Arcapta|3
+Brovana nebulizer|3
+Daliresp|3
+Dulera|3
+Foradil|3
+Letairi|3
+Maxair|3
+Perforomist|3
+Proventil HFA|3
+Symbicort|3
+Traclee|3
+Ventavi|3
+Xopenex HFA|3
+Xopenex nebulizer|3
+Banzel|3
+Carbatrol|3
+Depakote |3
+Felbatol|3
+Neurontin|3
+Onfi|3
+Potiga|3
+Saphris|3
+Stavzor|3
+Tegretol XR|3
+Topamax|3
+Trileptal|3
+Vimpat|3
+Zonegran|3
+Caverject|3
+Cialis |3
+Edex |3
+Levitra |3
+Staxyn|3
+Acanya|3
+Aclovate|3
+Aldara|3
+Apexicon|3
+Aphthasol|3
+Atralin |3
+Benzefoam|3
+Clindacin Pac|3
+Clobex|3
+Condylox|3
+Cutivate|3
+Delos|3
+Dermatop|3
+Desonate|3
+Desowen|3
+Diprolene|3
+Diprolene AF|3
+Elidel|3
+Elocon|3
+Epiduo|3
+First Hydrocort|3
+Halog|3
+Luxiq|3
+Metrolotion|3
+Momexin|3
+Nuzon|3
+Olux|3
+Olux-e|3
+Pandel|3
+Panretin|3
+Pediaderm HC|3
+Protopic|3
+Regranex |3
+Remicade |3
+Rosula|3
+Scalacort DK|3
+Stelar|3
+Taclonex|3
+Targretin gel|3
+Temovate|3
+Topicort|3
+Topicort LP|3
+Ultravate|3
+Ultravate PAC|3
+Vanos|3
+Vectical|3
+Verdeso|3
+Westcort|3
+Xolege|3
+Xolegel Corepak|3
+Ziana|3
+Zyclara |3
+Ambien |3
+Ambien CR |3
+Edluar |3
+Intermezzo |3
+Lunesta |3
+Rozerem |3
+Sonata |3
+Zolpimist |3
+Aricept |3
+Aricept ODT|3
+Cognex|3
+Exelon|3
+Razadyne|3
+Razadyne ER|3
+Imura|3
+Myforti|3
+Zortress|3
+Arcalyst|3
+Cortifoam|3
+Cuvposa|3
+Epifoam|3
+Ilaris|3
+Kuvan|3
+Natroba|3
+Nimotop|3
+Nuedexta|3
+Phoslo|3
+Phoslyra|3
+Promacta|3
+Rectiv|3
+Renagel|3
+Revia|3
+Subutex|3
+Ulesfia|3
+Zanaflex|3
+Zutripro|3
+Adderall|3
+Concerta|3
+Daytrana|3
+Desoxyn|3
+Focalin|3
+Kapvay|3
+Metadate CD|3
+Methylin|3
+Nuvigil|3
+Provigil|3
+Ritalin|3
+Ritalin/SR|3
+Atrovent |3
+Beconase AQ|3
+Flonase|3
+Nasacort AQ|3
+Nasarel|3
+Omnaris|3
+Patanase|3
+QNASL|3
+Rhinocort AQ|3
+Semprex-D|3
+Xyzal|3
+Atripl|3
+Combivi|3
+Eduran|3
+Intelenc|3
+Retrovi|3
+Vide|3
+Zeri|3

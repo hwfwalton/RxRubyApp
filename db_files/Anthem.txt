@@ -1,0 +1,1001 @@
+Cefaclor  |1
+Cefdinir  |1
+Cefadroxil  |1
+Cefditoren  |1
+Cefprozil  |1
+Ceftibuten  |1
+Cefuroxime  |1
+Cefpodoxamine  |1
+Cephalexin  |1
+Cephradine  |1
+Azithromycin  |1
+Clarithromycin XL  |1
+Erythromycin  |1
+Erythromycin/Sulfisoxazole  |1
+Amoxicillin  |1
+Amoxicillin/Clavulanate  |1
+Ampicillin  |1
+Dicloxacillin  |1
+Penicillin  |1
+Ciprofloxacin/XR  |1
+Levofloxacin  |1
+Erythromycin/Sulfisoxazole  |1
+Sulfamethoxazole/Trimethoprim  |1
+Sulfisoxazole  |1
+Doxycycline hyclate  |1
+Doxycycline monohydrate  |1
+Minocycline  |1
+Tetracycline  |1
+Clotrimazole  |1
+Fluconazole  |1
+Flucytosine  |1
+Griseofulvin  |1
+Itraconazole  |1
+Ketoconazole  |1
+Nystatin  |1
+Terbinafine  |1
+Voriconazole  |1
+Atovaquone/Proguanil  |1
+Chloroquine  |1
+Mefloquine  |1
+Primaquine|1
+Pyrimethamine|1
+Daraprim|1
+Pyrimethamine/Sulfadoxine|1
+Fansidar|1
+Quinine  |1
+Cycloserine  |1
+Ethambutol  |1
+Ethionamide|1
+Trecator-SC|1
+Isoniazid  |1
+Pyrazinamide  |1
+Rifabutin  |1
+Rifampin  |1
+Clindamycin  |1
+Iodoquinol|1
+Yodoxin|1
+Metronidazole  |1
+Tinidazole  |1
+Trimethoprim   |1
+Vancomycin capsule  |1
+Acyclovir  |1
+Amantadine  |1
+Entecavir  |4
+Baraclude |4
+Famciclovir  |1
+Ganciclovir  |1
+Interferon Alfa-2B  |4
+Intron A|4
+Interferon Alfacon-1  |4
+Infergen|4
+Lamivudine  |4
+Oseltamivir  |1
+Peginterferon Alfa-2B  |4
+Peg-Intron|4
+Peginterferon Alfa-2A  |4
+Pegasys|4
+Ribavirin  |4
+Tenofovir  |1
+Viread|1
+Valacyclovir  |1
+Valganciclovir  |1
+Valcyte|1
+Acetaminophen/Codeine  |1
+Aspirin/Codeine  |1
+Codeine Phosphate/Sulfate  |1
+Fentanyl  |1
+Fentanyl Citrate  |1
+Hydrocodone/Acetaminophen  |1
+Hydromorphone, ER  |1
+Meperidine  |1
+Methadone  |1
+Morphine  |1
+Morphine Sulfate, ER  |1
+Oxycodone/Acetaminophen  |1
+Oxycodone/Aspirin  |1
+Oxycododone|1
+Oxycontin|1
+Oxymorphone, ER  |1
+Propoxyphene  |1
+Propoxyphene Compound  |1
+Propoxyphene/Acetaminophen  |1
+APAP/Isometheptene/Dichlphen  |1
+Acetaminophen/Caffeine/Butalbital  |1
+Acetaminophen/Caffeine/Butalbital/Codeine  |1
+Aspirin/Caffeine/Butalbital  |1
+Ergotamine  |1
+Ergomar|1
+Ergotamine/Caffeine  |1
+Lidocaine  |1
+Methysergide|1
+Sansert|1
+Naratriptan  |1
+Rizatriptan, ODT  |1
+Sumatriptan  |1
+Tramadol/-ER  |1
+Zolmitriptan, ODT  |1
+Diclofenac|1
+Voltaren|1
+Etodolac  |1
+Flurbiprofen  |1
+Ibuprofen  |1
+Indomethacin  |1
+Ketoprofen  |1
+Ketorolac  |1
+Mefenamic acid  |1
+Nabumetone  |1
+Naproxen  |1
+Oxaprozin  |1
+Piroxicam  |1
+Sulindac  |1
+Aspirin  |1
+Chol Sal/Magnesium Salicylate  |1
+Diflunisal  |1
+Salsalate  |1
+Carbamazepine  |1
+Tegretol|1
+Carbamazepine XR|1
+ Carbatrol|1
+Clonazepam  |1
+Diazepam  |1
+Diastat|1
+Divalproex Sodium  |1
+Depakote|1
+Divalproex Sodium   ER|1
+Ethosuximide  |1
+Felbamate  |1
+Felbatol|1
+Gabapentin  |1
+Tiagabine  |1
+Gabitril, generic|1
+Levetiracetam  |1
+Keppra|1
+Levetiracetam XR|1
+Lamotrigine, ER  |1
+Lamictal|1
+Phenobarbital  |1
+Phenytoin  |1
+Dilantin|1
+Phenytek|1
+Primidone  |1
+Oxcarbazepine  |1
+Topiramate  |1
+Topamax|1
+Valproic Acid  |1
+Depakene|1
+Zonisamide  |1
+Akineton  |1
+Biperiden|1
+Amantadine  |1
+Benztropine  |1
+Bromocriptine  |1
+Carbidopa  |1
+Carbidopa/Levodopa  |1
+Carbidopa/Levodopa/ Entacapone  |1
+Entacapone  |1
+Levodopa  |1
+Laradopa|1
+Procyclidine  |1
+Kemadrin|1
+Pramipexole  |1
+Rasagiline mesylate  |1
+Azilect|1
+Ropinirole, ER  |1
+Selegiline  |1
+Trihexyphenidyl  |1
+Donepezil  |1
+Memantine  |1
+Namenda|1
+Memantine XR|1
+Rivastigmine  |1
+ Exelon patch|1
+Amphet Asp/Amphet/D-Amphet  |1
+Adderall XR|1
+Atomoxetine  |1
+Strattera|1
+Dexmethylphenidate  |1
+Dexmethylphenidate XR  |1
+Dextroamphetamine  |1
+Lisdexamphetamine  |1
+Vyvanse|1
+Methamphetamine  |1
+Methylphenidate CD  |1
+Methylphenidate ER  |1
+Methylin ER|1
+Methylphenidate  |1
+Modafinil  |1
+Glatiramer Acetate  |4
+Copaxone 20mg|4
+Interferon Beta-1A  |4
+Avonex|4
+Interferon Beta-1A  |4
+Rebif|4
+Interferon Beta-1B  |4
+Betaseron|4
+Buprenorphine/Naloxone  |1
+Suboxone SL Film|1
+Buprenorphine  |1
+Amitriptyline  |1
+Bupropion/-XL  |1
+Citalopram  |1
+Desipramine  |1
+Desvenlafaxine  |1
+Pristiq|1
+Doxepin  |1
+Duloxetine   |1
+Escitalopram  |1
+Fluoxetine   |1
+Fluoxetine/Olanzapine  |1
+Fluvoxamine, ER  |1
+Imipramine  |1
+Mirtazapine  |1
+Nortriptyline  |1
+Paroxetine  |1
+Paroxetine CR|1
+Phenelzine  |1
+Sertraline  |1
+Tranylcypromine  |1
+Parnate|1
+Trazodone  |1
+Trimipramine  |1
+Venlafaxine/ER  |1
+Lithium Carbonate  |1
+Eskalith-CR|1
+Lithobid|1
+Lithium Citrate  |1
+Lithonate|1
+Aripiprazole  |1
+Abilify|1
+Chlorpromazine  |1
+Clomipramine  |1
+Clozapine  |1
+Fazaclo ODT|1
+Fluphenazine  |1
+Haloperidol  |1
+Loxapine  |1
+Mesoridazine  |1
+Serentil|1
+Olanzapine, ODT  |1
+Perphenazine  |1
+Pimozide  |1
+Orap|1
+Prochlorperazine  |1
+Quetiapine  |1
+Seroquel XR|1
+Risperidone  |1
+RisperdalConsta|1
+Thioridazine  |1
+Thiothixene  |1
+Trifluoperazine  |1
+Ziprasidone  |1
+Alprazolam  |1
+Buspirone  |1
+Chloral Hydrate  |1
+Chlordiazepoxide  |1
+Clorazepate  |1
+Diazepam  |1
+Eszopiclone  |1
+Flurazepam  |1
+Lorazepam  |1
+Meprobamate  |1
+Oxazepam  |1
+Temazepam  |1
+Triazolam  |1
+Zolpidem   |1
+Erythropoietin  |4
+Procrit|4
+Darbepoetin  |4
+Aranesp|4
+Filgrastim  |4
+Neupogen|4
+Oprelvekin  |4
+Neumega|4
+Pegfilgrastim  |4
+Neulasta|4
+Sargramostim  |4
+Leukine|4
+Amlodipine/Valsartan/HCTZ  |1
+Exforge|1
+Exforge HCT|1
+Benazepril/HCTZ  |1
+Benazepril/Amlodipine  |1
+Captopril/HCTZ  |1
+Candesartan/HCTZ  |1
+Enalapril/HCTZ  |1
+Eprosartan  |1
+Fosinopril/HCTZ  |1
+Irbesartan/HCTZ  |1
+Lisinopril/HCTZ  |1
+Losartan/HCTZ  |1
+Moexipril/HCTZ  |1
+Perindopril  |1
+Quinapril/HCTZ  |1
+Ramipril  |1
+Telmisartan/amlodipine  |1
+Telmisartan/HCTZ  |1
+Trandolapril  |1
+Trandolapril/Verapamil  |1
+Valsartan/HCTZ  |1
+Diovan|1
+Alfuzosin  |1
+Doxazosin  |1
+Dutasteride  |1
+Avodart|1
+Dutasteride/Tamsulosin  |1
+Jalyn|1
+Prazosin  |1
+Terazosin  |1
+Tamsulosin  |1
+Amiodarone  |1
+Cordarone|1
+Pacerone|1
+Digoxin  |1
+Lanoxicap|1
+Lanoxin|1
+Disopyramide  |1
+Flecainide  |1
+Mexiletine  |1
+Moricizine  |1
+Ethmozine|1
+Procainamide  |1
+Propafenone  |1
+Quinidine Gluconate  |1
+Sotalol  |1
+Anagrelide  |1
+Apixaban  |1
+Eliquis|1
+Cilostazol  |1
+Clopidogrel  |1
+Dabigatran  |1
+Pradaxa|1
+Dalteparin  |4
+Fragmin|4
+Dipyridamole  |1
+Enoxaparin  |4
+Fondararinux  |4
+Arixtra|4
+Pentoxifylline  |1
+Prasugrel  |1
+Effient|1
+Rivaroxaban  |1
+Xarelto|1
+Ticagrelor  |1
+Brilinta|1
+Ticlopidine  |1
+Tinzaparin  |4
+Innohep|4
+Warfarin  |1
+Coumadin|1
+Amlodipine/Atorvastatin  |1
+Atorvastatin  |1
+Cholestyramine  |1
+Colesevelam  |1
+Welchol|1
+Colestipol  |1
+Fenofibrate  |1
+Fenofibric acid  |1
+Fluvastatin  |1
+Gemfibrozil  |1
+Lovastatin  |1
+Niacin  |1
+Nicotinex|1
+SloNiacin|1
+Niaspan|1
+Niacin/Lovastatin  |1
+Advicor|1
+Pravastatin  |1
+Rosuvastatin  |1
+Crestor|1
+Simvastatin  |1
+Atenolol/Chlorthalidone  |1
+Bisoprolol/HCTZ  |1
+Carvedilol  |1
+Coreg-CR|1
+Labetalol  |1
+Metoprolol/XL/HCTZ  |1
+Pindolol  |1
+Propranolol/XL/HCTZ  |1
+Sotalol  |1
+Timolol  |1
+Amlodipine  |1
+Amlodipine/Benazepril  |1
+Bepridil  |1
+Vascor|1
+Diltiazem  |1
+Felodipine  |1
+Nicardipine  |1
+Nifedipine  |1
+Nisoldipine  |1
+Verapamil  |1
+Clonidine  |1
+Methyldopa  |1
+Acetazolamide  |1
+Amiloride  |1
+Chlorthalidone  |1
+Ethacrynic Acid  |1
+Furosemide  |1
+HCTZ/Triamterene  |1
+Hydrochlorothiazide  |1
+Indapamide  |1
+Methazolamide  |1
+Metolazone  |1
+Spironolactone/HCTZ  |1
+Torsemide  |1
+Triamterene  |1
+Hydralazine  |1
+Isosorbide Dinitrate/Hydralazine  |1
+Bidil|1
+Isosorbide Dinitrate  |1
+Dilatrate SR|1
+Isosorbide Mononitrate  |1
+Minoxidil  |1
+Nitroglycerin  |1
+Nitrostat|1
+Nitrobid|1
+Nitrolingual Spray|1
+Nitroglycerin  |1
+Nitrek|1
+Nitro-Dur|1
+Ranolazine  |1
+Ranexa|1
+Epinephrine  |1
+Epipen|1
+Epinephrine   Jr|1
+Twinject|1
+Eth Estradiol/Desogestrel  |1
+Apri|1
+Eth Estradiol/Drospirenone  |1
+Eth Estradiol/Ethynodioldiacetate  |1
+Zovia|1
+Eth Estradiol/Etonogestrel  |1
+Nuvaring|1
+Eth Estradiol/Levonorgestrel  |1
+Amethia|1
+Amethia Lo|1
+Camrese|1
+Enpresse|1
+Jolessa|1
+Portia|1
+Trivora|1
+Eth Estradiol/Norelgestromin  |1
+Xulane|1
+Eth Estradiol/Norethindrone  |1
+Loestrin FE 24|1
+Eth Estradiol/Norethindrone  |1
+Balziva|1
+Eth Estradiol/Norethindrone  |1
+Necon|1
+Eth Estradiol/Norethindrone /Ferrous |1
+Fumarate  |1
+Eth Estradiol/Norgestimate  |1
+Trinessa|1
+ TriSprintec|1
+Eth Estradiol/Norgestimate  |1
+Ortho Tri-Cyclen LO|1
+Eth Estradiol/Norgestrel  |1
+Low-Ogestrel|1
+  Ogestrel|1
+Norethindrone  |1
+Nora-BE|1
+Levonorgestrel   |1
+Adapalene  |1
+Differin 0.1% Lotion|1
+Azelaic Acid  |1
+Finacea|1
+Clindamycin  |1
+Cleocin T|1
+Clindamycin/benzoyl peroxide |1
+Acanya |1
+Clindamycin/Tretinoin  |1
+Veltin|1
+Erythromycin  |1
+Akne-Mycin|1
+Isotretinoin  |1
+Minocycline  |1
+Sodium Sulfacetamide  |1
+Tazarotene  |1
+Tazorac|1
+Tretinoin  |1
+Acyclovir  |1
+Bacitracin/Polymyxin B  |1
+Bacitracin|1
+Metronidazole  |1
+Mupirocin  |1
+Bactroban Nasal|1
+Retapamulin  |1
+Altabax|1
+Sodium Sulfacetamide  |1
+Cicloplrox  |1
+Nystatin/Triamcinolone  |1
+Econazole  |1
+Ketoconazole  |1
+Desonide  |1
+Fluocinolone  |1
+Hydrocortisone  |1
+Desoximetasone  |1
+Fluocinolone  |1
+Fluticasone  |1
+Mometasone  |1
+Prednicarbate  |1
+Triamcinolone  |1
+Betamethasone Dipropionate  |1
+Fluocinonide  |1
+Augmented Betamethasone  |1
+Clobetasol  |1
+Diflorasone  |1
+Clindamycin  |1
+Dienestrol  |1
+Ortho-Dienestrol|1
+Estradiol  |1
+Estring|1
+Vagifem|1
+Estrogens, Conjugated  |1
+Premarin|1
+Hydrocortisone/Pramoxine  |1
+Analpram HC lotion|1
+Pramosone cream, lotion, oint|1
+Mesalamine  |1
+Rowasa|1
+Metronidazole  |1
+Nystatin  |1
+Progesterone  |4
+Crinone Vaginal Gel|4
+Sulfanilamide  |1
+Sulfathiaz/Sulfacet/Sulfabenz  |1
+Calcipotriene  |1
+Calcipotriene/betamethasone  |1
+Crotamiton  |1
+Eurax|1
+Fluorouracil  |1
+Fluoroplex|1
+Imiquimod  |1
+Lindane  |1
+Masoprocol  |1
+Actinex|1
+Methoxsalen  |1
+Oxsoralen|1
+Permethrin  |1
+Elimite|1
+Pimecrolimus  |1
+Elidel|1
+Podofilox  |1
+Condylox|1
+Selenium Sulfide  |1
+Exsel|1
+Silver Sulfadiazine  |1
+Tacrolimus   |1
+Protopic|1
+Insulin|1
+Exenatide  |1
+Byetta|1
+Exenatide microspheres  |1
+Bydureon|1
+Liraglutide  |1
+Victoza|1
+Pramlintide  |1
+Symlin|1
+Acarbose  |1
+Acetohexamide  |1
+Chlorpropamide  |1
+Glimepiride  |1
+Glipizide  |1
+Glipizide/Metformin  |1
+Glyburide/Metformin  |1
+Glyburide/Micronized  |1
+Linagliptin  |1
+Tradjenta|1
+Linagliptin/Metformin  |1
+Jentadueto|1
+Metformin ,ER  |1
+Miglitol  |1
+Glyset|1
+Nateglinide  |1
+Pioglitazone  |1
+Pioglitazone/glimepiride  |1
+Pioglitazone/Metformin  |1
+ActoPlus Met XR|1
+Repaglinide  |1
+Sitagliptin  |1
+Januvia|1
+Sitagliptin/Metformin  |1
+Janumet|1
+Sitagliptin/Metformin XR|1
+Sitagliptin/Simvastatin  |1
+Juvisync|1
+Tolazamide  |1
+Tolbutamide  |1
+Lifescan |1
+One Touch, One Touch Ultra|1
+Roche Diagnostics .|1
+Accu-Chek, Aviva|1
+Diazoxide  |1
+Proglycem|1
+Glucagon  |1
+Glucagon|1
+Methimazole  |1
+Propylthiouracil  |1
+Levothyroxine  |1
+Levothroid|1
+Levoxyl|1
+Unithroid|1
+ Synthroid|1
+Liothyronine  |1
+Cytomel|1
+Liotrix  |1
+Thyrolar|1
+Thyroid  |1
+Armour Thyroid|1
+Leuprolide  |4
+Eligard|4
+Lupron|4
+Dronabinol  |1
+Granisetron  |1
+Meclizine  |1
+Metoclopramide  |1
+Ondansetron  |1
+Prochlorperazine  |1
+Promethazine  |1
+Scopolamine  |1
+Transderm-Scop|1
+Thiethylperazine  |1
+Torecan|1
+Trimethobenzamide  |1
+Belladonna/Phenobarbital  |1
+Clidinium/Chlordiazepoxide  |1
+Dicyclomine  |1
+Hyoscyamine  |1
+Propantheline  |1
+Cimetidine  |1
+Esomeprazole magnesium  |1
+Nexium|1
+Glycopyrolate  |1
+Lansoprazole  |1
+Lansoprazole/Amoxicillin/Clarithromycin  |1
+Misoprostol  |1
+Nizatidine  |1
+Omeprazole  |1
+Omeprazole/Sodium Bicarbonate  |1
+Pantoprazole  |1
+Ranitidine  |1
+Sucralfate  |1
+Balsalazide  |1
+Budesonide  EC |1
+Hydrocortisone  |1
+Cortifoam|1
+Lactulose  |1
+Linaclotide  |1
+Linzess|1
+Lubiprostone  |1
+Amitiza|1
+Mesalamine  |1
+Apriso|1
+Asacol|1
+Asacol HD|1
+ Delzicol|1
+Pentasa|1
+Lialda|1
+Canasa|1
+Pancreatic Lipase |1
+Creon|1
+Pancrease|1
+Pancrelipase|1
+Ultrase|1
+Viokase|1
+Zenpep|1
+Sulfasalazine  |1
+Ursodiol   |1
+Dexamethasone  |1
+Fludrocortisone  |1
+Florinef|1
+Methylprednisolone  |1
+Prednisolone  |1
+Prednisone   |1
+Allopurinol  |1
+Colchicine  |1
+Colcrys|1
+Colchicine/Probenecid  |1
+Indomethacin  |1
+Probenecid   |1
+Anastrozole  |1
+Exemestane  |1
+Letrozole  |1
+Raloxifene  |1
+Tamoxifen  |1
+Estradiol  |1
+Femtrace|1
+Estradiol gel  |1
+Divigel|1
+Estradiol Patch/Spray  |1
+Climara Pro|1
+Esclim|1
+ Evamist|1
+Vivelle|1
+Estradiol Patch/Spray   Dot|1
+Estrogens, Conjugated  |1
+Premarin|1
+Low Dose|1
+Estrogens, Esterified  |1
+Estratab|1
+Menest|1
+Estropipate  |1
+Estradiol/Norethindrone Acetate  |1
+CombiPatch|1
+Estrogen, Con/Medroxyprogesterone  |1
+Prempro|1
+Premphase|1
+Estrogen, Ester/Methyltestosterone  |1
+Ethinyl Estradiol/Norethindrone Acetate  |1
+Femhrt 1|1
+Ethinyl Estradiol/Norethindrone Acetate   5|1
+Somatropin  |4
+Humatrope|4
+Nutropin|4
+Nutropin AQ|4
+Desogestrel  |1
+Cyclessa|1
+Medroxyprogesterone  |1
+Megestrol  |1
+Micronized Progesterone  |1
+Norethindrone  |1
+Progesterone  |1
+ Crinone Vaginal Gel|1
+Bicalutamide  |1
+Casodex|1
+Cabergoline  |1
+Dostinex|1
+Danazol  |1
+Danocrine|1
+Desmopressin  |1
+Stimate|1
+Finasteride  |1
+Flutamide  |1
+Eulexin|1
+Octreotide  |4
+Sandostatin|4
+Oxandrolone  |1
+Oxandrin|1
+Testosterone  |1
+Androgel|1
+Axiron|1
+Testim|1
+Brimonidine Tartrate  |1
+Brimonidine Tartrate/Timolol  |1
+Combigan|1
+Bimatoprost  |1
+Lumigan|1
+Latanoprost  |1
+Travoprost  |1
+Travatan Z|1
+ANTI-ALLERGY AGENTS |1
+Azelastine  |1
+Cromolyn  |1
+Epinastine  |1
+Azithromycin |1
+AzaSite|1
+Chloramphenicol  |1
+Ciprofloxacin  |1
+Erythromycin  |1
+Gatifloxacin  |1
+Gentamicin  |1
+Moxifloxacin  |1
+Moxeza|1
+Neomycin/Bacitracin/Polymyxin  |1
+Ofloxacin  |1
+Ocuflox|1
+Polymyxin B/Trimethoprim  |1
+Sulfacetamide  |1
+Tobramycin  |1
+Moxifloxacin  |1
+Vigamox|1
+Bromfenac  |1
+Cyclosporine  |1
+Restasis|1
+Dexamethasone  |1
+Diclofenac  |1
+Diclofenac/misoprostol  |1
+Difluprednate  |1
+Durezol|1
+Fluorometholone  |1
+Flurbiprofen  |1
+Ocufen|1
+Ketorolac  |1
+Ketotifen Fumarate  |1
+Loteprednol  |1
+Lotemax|1
+Naphazoline  |1
+Prednisolone  |1
+Loteprednol/Tobramycin  |1
+Zylet|1
+Na Sulfacetm/Prednisolone  |1
+Neomy/Bacitracin/Polymyxin/Hydrocort |1
+Neomy/Polymyx B/Prednisolone  |1
+Poly-Pred|1
+Neomycin/Dexamethasone  |1
+Neo-Dex|1
+Neomycin/Polymyx B/Dexamethasone  |1
+Tobramycin/Dexamethasone  |1
+Trifluridine  |1
+Viroptic|1
+Vidarabine  |1
+Vira-A|1
+Betaxolol  |1
+Betoptic|1
+Betaxolol   S|1
+Carteolol  |1
+Levobunolol  |1
+Metipranolol  |1
+Timolol  |1
+Brinzolamide  |1
+Azopt|1
+Brinzolamide/Brimonidine  |1
+Simbrinza|1
+Dorzolamide  |1
+Dorzolamide/Timolol  |1
+Pilocarpine  |1
+Atropine  |1
+Cyclopentolate  |1
+Cyclogyl|1
+Homatropine  |1
+Isopto Homatropine|1
+Phenylephrine  |1
+Neo-Synephrine|1
+Tropicamide  |1
+Mydriacyl|1
+Dipivefrin  |1
+Acetic Acid  |1
+Acetic Acid/Benzethonium  |1
+Ciprofloxacin  |1
+Ofloxacin  |1
+Floxin Otic|1
+Ciprofloxacin/Dexamethasone  |1
+Ciprodex|1
+Neomycin/Polymxin/HC   |1
+Asthma Spacer  |1
+Aerochamber|1
+InspirEase|1
+ Optichamber|1
+Peak Flow Meter  |1
+Personal Best|1
+Pocketpeak|1
+Beclomethasone  |1
+QVAR|1
+Budesonide  |1
+Pulmicort Respules 1mg|1
+Budesonide   2ml|1
+Pulmicort Flexhaler|1
+Budesonide/Formoterol  |1
+Symbicort|1
+Fluticasone  |1
+Flovent|1
+Fluticasone/Salmeterol  |1
+Advair|1
+Advair HFA|1
+Mometasone  |1
+Asmanex|1
+Mometasone/Formoterol  |1
+Dulera|1
+Albuterol  |1
+Formoterol  |1
+Foradil|1
+Perforomist|1
+Isoproterenol  |1
+Levalbuterol neb soln.  |1
+Metaproterenol  |1
+Albuterol  |1
+Proair HFA|1
+Ventolin HFA|1
+Salmeterol  |1
+Serevent Diskus|1
+Terbutaline  |1
+Brethaire|1
+Aminophylline  |1
+Truphylline|1
+Theophylline  |1
+Theo-Dur|1
+Theo-24|1
+Uniphyl|1
+Albuterol/Ipratropium  |1
+Combivent|1
+-Respimat|1
+Albuterol/Ipratropium  |1
+Cromolyn  |1
+Ipratropium  |1
+Atrovent HFA|1
+Montelukast  |1
+Nedocromil  |1
+Tilade|1
+Potassium Iodide  |1
+SSKI|1
+Sodium Chloride  |1
+Broncho-Saline|1
+Tiotropium  |1
+Spiriva|1
+Tobramycin  |4
+Zafirlukast  |1
+Carbinoxamine/Pseudoephedrine/DM  |1
+Desloratadine, ODT  |1
+Fexofenadine  |1
+Fexofenadine/PSE  |1
+Hydroxyzine  |1
+Levocetirizine  |1
+Promethazine  |1
+Pseudoephed/Brompheniramine  |1
+Benzonatate  |1
+Chlorpheniramine/Hydrocodone |1
+ |1
+TussiCaps|1
+Guaifenesin/Codeine  |1
+Guaifenesin/Codeine/Pseudoephedrine  |1
+Guaifenesin/Pseudoephedrine  |1
+Guaifenesin/Hydrocodone  |1
+Hydrocodone/Homatropine  |1
+Phenylephrine/Hydrocodone  |1
+Promethazine/Dextromethorphan  |1
+Promethazine/Codeine  |1
+Promethazine/Phenylephrine  |1
+Promethazine/Phenylephrine/Codeine  |1
+Azelastine  |1
+ Astepro|1
+Azelastine/fluticasone  |1
+Dymista|1
+Budesonide  |1
+Fluticasone  |1
+Veramyst|1
+Mometasone   |1
+Nasonex|1
+Triamcinolone Acetonide  |1
+Auranofin  |1
+Ridaura|1
+Azathioprine  |1
+Hydroxychloroquine  |1
+Methotrexate  |1
+Alendronate  |1
+Fosamax|1
+Alendronate   -D|1
+Calcitonin-Salmon  |1
+Ibandronate  |1
+Etidronate  |1
+Risedronate  |1
+ Actonel 30, 35, and 5mg, Actonel|1
+-with Calcium|1
+Baclofen  |1
+Carisoprodol  |1
+Cyclobenzaprine, ER  |1
+Diazepam  |1
+Metaxalone  |1
+Methocarbamol  |1
+Tizanidine   |1
+Nitrofurantoin  |1
+Sulfadiazine  |1
+Sulfisoxazole  |1
+Trimethoprim/Sulfamethoxazole  |1
+Bethanechol  |1
+Flavoxate  |1
+Fesoterodine  |1
+Toviaz|1
+Phenazopyridine  |1
+Oxybutynin  |1
+Oxybutynin   -XL|1
+Solifenacin  |1
+Vesicare|1
+Tolterodine, ER   |1
+Trospium, ER  |1
+Calcitriol  |1
+Rocaltrol|1
+Dihydrotachysterol  |1
+Dihydrotachysterol   DHT|1
+Ergocalciferol  |1
+Vitamin D|1
+Ferrous Sulfate/Folate/Vit B comp/C  |1
+Folic Acid  |1
+Multivitamins/Fluoride  |1
+Multivits/Fe/Hematin  |1
+B-Complex Plus Vitamin|1
+Vit A, C & D/Fluoride/Iron  |1
+Paricalcitol  |1
+Potassium Supplements  |1
+Prenatal Vitamins  |1
+Alprostadil |1
+Caverject|1
+Edex|1
