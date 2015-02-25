@@ -10,6 +10,8 @@ Medicare) cover their prescription and at what tier. The data behind this list
 is scraped from pdfs from each of the four aforementioned health insurance
 carriers and is stored in an sqlite3 db included with the Ruby app.
 
+Screencaps: http://imgur.com/a/TfPcV
+
 USAGE:
 =================================================
 The only files needed to use the app are RxCoverageChecker.rb and drugs.db. It
